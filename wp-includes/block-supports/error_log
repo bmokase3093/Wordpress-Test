@@ -1,0 +1,48 @@
+[20-Oct-2022 08:43:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/border.php on line 176
+[20-Oct-2022 08:43:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/dimensions.php on line 67
+[20-Oct-2022 08:43:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/duotone.php on line 580
+[20-Oct-2022 08:43:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/elements.php on line 138
+[20-Oct-2022 08:43:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/layout.php on line 226
+[20-Oct-2022 08:43:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/spacing.php on line 83
+[21-Oct-2022 09:45:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/border.php on line 176
+[21-Oct-2022 09:45:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/dimensions.php on line 67
+[21-Oct-2022 09:45:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/duotone.php on line 580
+[21-Oct-2022 09:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/elements.php on line 138
+[21-Oct-2022 09:45:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/layout.php on line 226
+[21-Oct-2022 09:45:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-supports/spacing.php on line 83

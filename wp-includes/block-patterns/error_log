@@ -1,0 +1,56 @@
+[20-Oct-2022 08:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Oct-2022 08:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Oct-2022 08:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Oct-2022 08:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Oct-2022 08:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Oct-2022 08:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Oct-2022 08:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[21-Oct-2022 09:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[21-Oct-2022 09:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[21-Oct-2022 09:45:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[21-Oct-2022 09:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[21-Oct-2022 09:45:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[21-Oct-2022 09:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[21-Oct-2022 09:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fundanis/sasria.fundanisa.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
