@@ -1,0 +1,2 @@
+[03-Nov-2022 13:49:34 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/fundanis/sasria.fundanisa.com/wp-content/plugins/wplms-pdf-certificates/tcpdf/tcpdf.php on line 17788
+[03-Nov-2022 13:49:34 UTC] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/fundanis/sasria.fundanisa.com/wp-content/plugins/wplms-pdf-certificates/tcpdf/include/tcpdf_fonts.php on line 1671
