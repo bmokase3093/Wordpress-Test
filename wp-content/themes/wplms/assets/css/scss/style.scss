@@ -1,0 +1,34 @@
+@import 'defaults';
+@import '../../bower_components/select2/src/scss/core.scss';
+@import '../../bower_components/magnific-popup/src/css/main.scss';
+@import 'animation';
+
+
+@import 'buddypress/general';
+@import 'buddypress/activity';
+@import 'buddypress/directory';
+@import 'buddypress/profile';
+@import 'buddypress/groups';
+@import 'buddypress/header';
+@import 'buddypress/instructor';
+@import 'buddypress/message';
+@import 'buddypress/notification';
+@import 'buddypress/registration';
+@import 'buddypress/nav';
+@import 'buddypress/sidebar';
+
+
+@import 'course/directory';
+@import 'course/general';
+@import 'course/admin';
+@import 'course/curriculum';
+@import 'course/header';
+@import 'course/pricing';
+@import 'course/units';
+@import 'course/widgets';
+@import 'course/submissions';
+@import 'course/quiz';
+@import 'course/misc';
+
+
+

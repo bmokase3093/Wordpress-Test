@@ -1,0 +1,53 @@
+@import 'v4/course.scss';
+@import 'v4/widgets.scss';
+@import 'shortcodes.scss';
+
+ul.socialicons {
+    display: flex;
+    align-items: center;
+}
+
+.wplms_course_categories {
+    display: flex;
+    margin: 0 -0.25rem;
+	& > * {
+	    margin: 0.25rem;
+	    padding: 5px 12px;
+	    background: var(--primary);
+	    color: var(--primarycolor);
+	    border-radius: 5px;
+	}
+}
+
+.fixed_block >.elementor-element-populated{
+	transition:all 0.2s !important;
+}
+
+.loggedin_user_div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position:relative;
+    justify-content: space-between;
+    line-height: 1;
+    .login_extras {
+        display: flex;
+        flex-direction: column;
+        margin-left: 1rem;
+    }
+}
+a.loggedin_user { 
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    img{
+        width: 24px; border-radius: 50%; overflow: hidden; 
+    }
+    .vibebp_name{
+        padding: 0 5px;
+    }
+}
+
+a.vibebp-login {
+    position: relative;
+}
