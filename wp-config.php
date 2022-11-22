@@ -41,6 +41,9 @@ define( 'DB_COLLATE', '' );
 /** JWT Authentication for WP REST API. Don't change this!*/
         define('JWT_AUTH_SECRET_KEY', 'uInz6984AzdHWkgzglkKbB6EcqOfhx8CkVmlbFnAvvYP7L6QaMWSUkBiiQBy');
 
+
+define('WP_HOME','http://3.90.252.142');
+define('WP_SITEURL','http://3.90.252.142');
 /**#@+
  * Authentication Unique Keys and Salts.
  *
