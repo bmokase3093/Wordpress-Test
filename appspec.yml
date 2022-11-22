@@ -3,7 +3,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/wordpress
+    destination: /var/www/html/WordPress
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies.sh
