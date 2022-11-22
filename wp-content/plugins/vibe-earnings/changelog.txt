@@ -1,0 +1,47 @@
+* 1.8.1
+* user role changed to capability for all users to appear in commission.
+* 1.8
+* filter for other addons
+* function exists check
+* commission widget provision and filters for appointments commissions
+* fixes
+* 1.7
+* vibebp plugin absence php fatal error fix
+* earning widget added
+* 1.6
+* access for submenu
+* graph fixes
+* removing dependancy from vibebp completly
+* 1.5
+* count error fix and user id given for credits from secondary_item_id
+* empty check
+* php 8 fixes
+* remove $this->user
+* filter on payouts and commission for other addons
+* remove inline css
+* remove default paypal email of inst in pay commissions
+* loading icon change
+* reload component
+* 1.4
+* payouts not working fix
+* payiouts balance issue fix
+* 1.3
+* 1.2
+* earning api
+* api added
+* enable check for payments
+* 1.1
+* fixes
+* select currency fix
+* css fixes
+* sidebar issues with graph fix
+* 1.0
+* commissions working now
+* clearning up
+* component icon
+* vibe earnings
+* autoupdate code
+* commissions settings moved
+* loading when tabs switched
+* commisisons module added
+* init

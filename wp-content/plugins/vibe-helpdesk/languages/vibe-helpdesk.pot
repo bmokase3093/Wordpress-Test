@@ -1,0 +1,590 @@
+# Copyright (c) 2019 GoDaddy Operating Company, LLC. All Rights Reserved.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Helpdesk\n"
+"Report-Msgid-Bugs-To: https://github.com/godaddy/vibebp/issues\n"
+"POT-Creation-Date: 2021-09-18 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VibeThemes <vibethemes@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: vibebp\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;_ex\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-"
+"content/plugins/vibe-helpdesk\n"
+
+#: includes/class.api.php:1298
+msgid "Action missing!"
+msgstr ""
+
+#: includes/class.api.php:1255
+msgctxt "Action not determined"
+msgid "Action not determined"
+msgstr ""
+
+#: includes/class.api.php:1354
+msgctxt "Action not matched"
+msgid "Action not matched"
+msgstr ""
+
+#: includes/class.init.php:318
+msgid "Add New Canned Response"
+msgstr ""
+
+#: includes/class.api.php:1337
+msgctxt "Agent assigned"
+msgid "Agents assigned"
+msgstr ""
+
+#: includes/class.api.php:1348
+msgctxt "Agent unassigned"
+msgid "Agents unassigned"
+msgstr ""
+
+#: includes/class.settings.php:140
+msgid "Agent User Role"
+msgstr ""
+
+#: includes/class.settings.php:51 includes/class.settings.php:136
+msgid "Agents"
+msgstr ""
+
+#: includes/class.settings.php:120
+msgid "All"
+msgstr ""
+
+#: includes/class.init.php:135
+msgid "All Forums"
+msgstr ""
+
+#: includes/class.init.php:121
+msgctxt "api"
+msgid "Assigned "
+msgstr ""
+
+#: includes/class.init.php:122
+msgctxt "api"
+msgid "Unassigned"
+msgstr ""
+
+#: includes/class.init.php:143
+msgid "Assign Label"
+msgstr ""
+
+#: includes/class.init.php:106 includes/class.init.php:134
+msgid "Assign Tickets"
+msgstr ""
+
+#: includes/class.init.php:162
+msgid "Assigned Agents"
+msgstr ""
+
+#: includes/class.init.php:112 includes/class.init.php:131
+msgid "Assigned Tickets"
+msgstr ""
+
+#: includes/class.api.php:630 includes/class.api.php:707
+#: includes/class.api.php:841 includes/class.api.php:920
+#: includes/class.api.php:1005 includes/class.api.php:1132
+msgctxt "Authorization error!"
+msgid "Authorization error!"
+msgstr ""
+
+#: includes/class.init.php:158
+msgid "Back to forums"
+msgstr ""
+
+#: includes/class.init.php:159
+msgid "Back to topics"
+msgstr ""
+
+#: includes/class.api.php:1180
+msgctxt "BB-press not active!"
+msgid "BB-press not active!"
+msgstr ""
+
+#: includes/class.api.php:624 includes/class.api.php:699
+#: includes/class.api.php:827 includes/class.api.php:913
+#: includes/class.api.php:998 includes/class.api.php:1125
+msgctxt "BB-Press Plugin not active!"
+msgid "BB-Press Plugin not active!"
+msgstr ""
+
+#: includes/class.api.php:1262
+msgctxt "Can not assign label"
+msgid "Can not assign label"
+msgstr ""
+
+#: includes/class.init.php:150
+msgid "Cancel"
+msgstr ""
+
+#: includes/class.init.php:315 includes/class.init.php:316
+#: includes/class.init.php:317
+msgid "Canned Response"
+msgstr ""
+
+#: includes/class.init.php:319
+msgid "Canned Responses"
+msgstr ""
+
+#: includes/class.api.php:1447
+msgctxt "Canned responses found"
+msgid "Canned responses found"
+msgstr ""
+
+#: includes/class.api.php:1453
+msgctxt "Canned responses not found"
+msgid "Canned responses not found"
+msgstr ""
+
+#: includes/class.api.php:1268 includes/class.api.php:1367
+#: includes/class.api.php:1424 includes/class.api.php:1459
+msgctxt "Data missing"
+msgid "Data missing"
+msgstr ""
+
+#: includes/class.init.php:148
+msgid "Enable canned"
+msgstr ""
+
+#: includes/class.settings.php:255
+msgid "Enable Kudos on responses"
+msgstr ""
+
+#: includes/class.init.php:147
+msgid "Enter Canned Title"
+msgstr ""
+
+#: includes/class.api.php:611
+msgctxt "Forum Created"
+msgid "Forum Created"
+msgstr ""
+
+#: includes/class.api.php:614
+msgctxt "Forum not Created"
+msgid "Forum not Created"
+msgstr ""
+
+#: includes/class.settings.php:52
+msgid "Forums"
+msgstr ""
+
+#: includes/class.api.php:250
+msgctxt "Forums not found!"
+msgid "Forums not found!"
+msgstr ""
+
+#: includes/class.api.php:1019
+msgctxt "Fovorite"
+msgid "Unable to set Fovorite"
+msgstr ""
+
+#: includes/class.settings.php:50
+msgid "General Settings"
+msgstr ""
+
+#: includes/class.init.php:97
+msgid "HelpDesk"
+msgstr ""
+
+#: includes/class.settings.php:38
+msgid "Helpdesk"
+msgstr ""
+
+#. Description of the plugin
+msgid "HelpDesk for VibeApp"
+msgstr ""
+
+#: includes/class.settings.php:47
+msgid "Helpdesk General Settings"
+msgstr ""
+
+#: includes/class.settings.php:110
+msgid "Helpdesk Topic assign process"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://vibebp.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.vibethemes.com"
+msgstr ""
+
+#: includes/class.api.php:927
+msgctxt "Insufficient data"
+msgid "Insufficient data"
+msgstr ""
+
+#: includes/class.api.php:1228
+msgctxt "Label assigned"
+msgid "Label assigned"
+msgstr ""
+
+#: includes/class.api.php:1248
+msgctxt "Label unassigned"
+msgid "Label unassigned"
+msgstr ""
+
+#: includes/class.init.php:144
+msgid "Labels"
+msgstr ""
+
+#: includes/class.api.php:1240
+msgctxt "Labels not present in Admin-panel"
+msgid "Labels not present in Admin-panel"
+msgstr ""
+
+#: includes/class.init.php:156
+msgid "Load More"
+msgstr ""
+
+#: includes/class.init.php:127
+msgctxt "login"
+msgid "Alphabetical"
+msgstr ""
+
+#: includes/class.init.php:128
+msgctxt "login"
+msgid "Most Shared"
+msgstr ""
+
+#: includes/class.init.php:126
+msgctxt "login"
+msgid "Recent"
+msgstr ""
+
+#: includes/class.init.php:136
+msgid "New Topic"
+msgstr ""
+
+#: includes/class.init.php:138
+msgid "No Forums found !"
+msgstr ""
+
+#: includes/class.api.php:293
+msgid "No forums found."
+msgstr ""
+
+#: includes/class.init.php:139
+msgid "No replies found !"
+msgstr ""
+
+#: includes/class.init.php:137
+msgid "No Topics found !"
+msgstr ""
+
+#: includes/class.api.php:1361
+msgctxt "Not capable"
+msgid "Not capable"
+msgstr ""
+
+#: includes/class.api.php:1418
+msgctxt "Not saved as canned response"
+msgid "Not saved as canned response"
+msgstr ""
+
+#: includes/class.api.php:983
+msgctxt "Not success"
+msgid "Not Deleted!"
+msgstr ""
+
+#: includes/class.api.php:1110
+msgctxt "Not success"
+msgid "Not success"
+msgstr ""
+
+#: includes/class.api.php:990
+msgctxt "Not success"
+msgid "You are not a valid user to delete this reply"
+msgstr ""
+
+#: includes/class.api.php:1117
+msgctxt "Not success"
+msgid "You are not a valid user to delete this topic"
+msgstr ""
+
+#: includes/class.api.php:892
+msgctxt "Not success"
+msgid "You are not a valid user to update this reply"
+msgstr ""
+
+#: includes/class.api.php:1281
+msgid "Not valid data"
+msgstr ""
+
+#: includes/class.api.php:692 includes/class.api.php:834
+#: includes/class.api.php:906
+msgctxt "Passing Arguments not valid!"
+msgid "Passing Arguments not valid!"
+msgstr ""
+
+#: includes/class.init.php:133
+msgid "Recently Assigned Tickets"
+msgstr ""
+
+#: includes/class.api.php:540
+msgctxt "Replies not found!"
+msgid "Replies not found!"
+msgstr ""
+
+#: includes/class.api.php:741
+msgctxt "Reply Created"
+msgid "Reply Created"
+msgstr ""
+
+#: includes/class.api.php:969
+msgctxt "Reply delete successfull"
+msgid "Reply delete successfull"
+msgstr ""
+
+#: includes/class.api.php:816
+msgctxt "Reply not Created"
+msgid "Reply not Created"
+msgstr ""
+
+#: includes/class.api.php:899 includes/class.api.php:949
+msgctxt "Reply not Exist"
+msgid "Reply not Exist."
+msgstr ""
+
+#: includes/class.api.php:885
+msgctxt "Reply not Updated"
+msgid "Reply not Updated."
+msgstr ""
+
+#: includes/class.api.php:957
+msgctxt "Reply trash successfull"
+msgid "Reply trash successfull"
+msgstr ""
+
+#: includes/class.api.php:963
+msgctxt "Reply untrash successfull"
+msgid "Reply untrash successfull"
+msgstr ""
+
+#: includes/class.api.php:757 includes/class.api.php:879
+msgctxt "Reply Updated"
+msgid "Reply Updated."
+msgstr ""
+
+#: includes/class.init.php:142
+msgid "Resolved"
+msgstr ""
+
+#: includes/class.init.php:118
+msgid "Resolved Tickets"
+msgstr ""
+
+#: includes/class.init.php:146
+msgid "Save As Canned Response"
+msgstr ""
+
+#: includes/class.api.php:1413
+msgctxt "Saved as canned response"
+msgid "Saved as canned response"
+msgstr ""
+
+#: includes/class.init.php:149
+msgid "Search Canned Responses"
+msgstr ""
+
+#: includes/class.init.php:160
+msgid "Search Forum"
+msgstr ""
+
+#: includes/class.init.php:155
+msgid "Search replies"
+msgstr ""
+
+#: includes/class.init.php:154
+msgid "Search topics"
+msgstr ""
+
+#: includes/class.init.php:161
+msgid "Search Users"
+msgstr ""
+
+#: includes/class.init.php:152
+msgid "Select forum"
+msgstr ""
+
+#: includes/class.settings.php:193
+msgid "Select Topic Labels"
+msgstr ""
+
+#: includes/class.settings.php:119
+msgid "Select User Role"
+msgstr ""
+
+#: includes/class.init.php:157
+msgid "Set as private reply"
+msgstr ""
+
+#: includes/class.api.php:1167
+msgctxt "SLA counting available!"
+msgid "SLA counting available!"
+msgstr ""
+
+#: includes/class.api.php:1174
+msgctxt "SLA counting unavailable!"
+msgid "SLA counting unavailable!"
+msgstr ""
+
+#: includes/class.init.php:145
+msgid "Submit"
+msgstr ""
+
+#: includes/class.init.php:140
+msgid "Subscribe"
+msgstr ""
+
+#: includes/class.init.php:141
+msgid "Subscribed"
+msgstr ""
+
+#: includes/class.settings.php:148
+msgid "Supervisor Ticket User Role"
+msgstr ""
+
+#: includes/class.api.php:1234
+msgctxt "This Label not present in Admin-panel"
+msgid "This Label not present in Admin-panel"
+msgstr ""
+
+#: includes/class.settings.php:84
+#, php-format
+msgid "Topic %s is %s"
+msgstr ""
+
+#: includes/class.settings.php:96 includes/class.settings.php:97
+#, php-format
+msgid "Topic <a href=\"%s\" target=\"_blank\">%s</a> is %s to you by %s"
+msgstr ""
+
+#: includes/class.init.php:153
+msgid "Topic content"
+msgstr ""
+
+#: includes/class.api.php:677
+msgctxt "Topic Created"
+msgid "Topic Created"
+msgstr ""
+
+#: includes/class.api.php:1096
+msgctxt "Topic delete successfull"
+msgid "Topic delete successfull"
+msgstr ""
+
+#: includes/class.api.php:1193
+msgctxt "Topic labels found"
+msgid "Topic labels found"
+msgstr ""
+
+#: includes/class.api.php:1198
+msgctxt "Topic labels not found"
+msgid "Topic labels not found"
+msgstr ""
+
+#: includes/class.api.php:1289
+msgid "Topic marked as resolved!"
+msgstr ""
+
+#: includes/class.api.php:1294
+msgid "Topic marked as unresolved!"
+msgstr ""
+
+#: includes/class.api.php:681
+msgctxt "Topic not Created"
+msgid "Topic not Created"
+msgstr ""
+
+#: includes/class.api.php:1076
+msgctxt "Topic not Exist"
+msgid "Topic not Exist."
+msgstr ""
+
+#: includes/class.api.php:1027
+msgctxt "Topic Set as Fovorite"
+msgid "Topic Set as Fovorite"
+msgstr ""
+
+#: includes/class.api.php:1050
+msgctxt "Topic Set as Unfavorite"
+msgid "Topic Set as Unfavorite"
+msgstr ""
+
+#: includes/class.init.php:151
+msgid "Topic title"
+msgstr ""
+
+#: includes/class.api.php:1084
+msgctxt "Topic trash successfull"
+msgid "Topic trash successfull"
+msgstr ""
+
+#: includes/class.api.php:1090
+msgctxt "Topic untrash successfull"
+msgid "Topic untrash successfull"
+msgstr ""
+
+#: includes/class.api.php:665
+msgctxt "Topic Updated"
+msgid "Topic Updated"
+msgstr ""
+
+#: includes/class.api.php:328 includes/class.api.php:504
+msgctxt "Topics not found!"
+msgid "Topics not found!"
+msgstr ""
+
+#: includes/class.api.php:311 includes/class.api.php:487
+msgid "Unable to add subscription"
+msgstr ""
+
+#: includes/class.api.php:305
+msgid "Unable to chage forum subscription status."
+msgstr ""
+
+#: includes/class.api.php:480
+msgid "Unable to chage topic subscription status."
+msgstr ""
+
+#: includes/class.api.php:317 includes/class.api.php:493
+msgid "Unable to remove subscription"
+msgstr ""
+
+#: includes/class.init.php:132
+msgid "Unassigned Tickets"
+msgstr ""
+
+#: includes/class.api.php:1042
+msgctxt "Unfavorite"
+msgid "Unable to set Unfavorite"
+msgstr ""
+
+#: includes/class.settings.php:152
+msgid "User role who are can assign tickets to agents"
+msgstr ""
+
+#: includes/class.settings.php:144
+msgid "User role who are classified as agents"
+msgstr ""
+
+#. Name of the plugin
+msgid "Vibe HelpDesk"
+msgstr ""
+
+#. Author of the plugin
+msgid "VibeThemes"
+msgstr ""

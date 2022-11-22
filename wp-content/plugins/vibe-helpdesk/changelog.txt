@@ -1,0 +1,137 @@
+* 1.3.3
+* shortcodes dont work in replies fix
+* count update fix
+* 1.3.2
+* private reply fix
+* messages and private reply subscription fixes
+* subscription emails vibebp touchpoints added
+* show resolved status in topics
+* new topic button in form and append topic and reply to top fixes
+* php 8 error fixes
+* create topic fixed
+* canned response use in editor fixed
+* date picker,agent query fixed
+* resolution chart canned response added
+* bar chart init
+* stats view widget added
+* notes delete fetch added
+* user info topic notes show add
+* priority select and filter added
+* canned search in reply added
+* canned response create added
+* canner response create init
+* 1.3.1
+* canned init
+* build added
+* topic url in mail template added
+* assign mail template added
+* agents added editor fixes
+* assign user ui added
+* edit api fixed
+* edit reply editor build added
+* build added
+* editor and drag refresh added
+* forums length error fixed
+* nocache bug fixes
+* nocache in topics added
+* abort ctrl added
+* cache param fixed
+* no_cache post param added
+* build added
+* topic favorite fixed
+* delete topic fixed
+* remove hardcoded reply_to
+* abort fetch added
+* forum search in topic create added
+* do_action new reply
+* private reply can_view filter added
+* all forum fetch added
+* private reply check for window fixed
+* elementor issue fixed
+* 1.3
+* build added
+* label error fixed
+* enque issue fixed
+* label show if added fixed
+* new reply needed content error fixed
+* engagement tab filter fixed
+* engagement tab removed
+* private reply override filter added
+* private reply issue fixed
+* topic last reply show fixed-build added
+* translations
+* 1.2
+* private replies css
+* fixes and styling fixes
+* private reply hanled for nomal user
+* create topic permission fixed
+* permission for reply and update fixed
+* private reply setting added
+* 1.1
+* create_posts permissions check
+* added parameter for get replies filter
+* additional security for creating , deleting and other things impacting database
+* warnings and fixes
+* private forum not show fixed
+* fixed topic and reply date
+* load more fixed
+* privacy args
+* translations updated
+* vibedrive version and changelog
+* 1.0
+* plugin name fix
+* correct js file path
+* class check
+* autoupdate changed
+* finalised
+* restructuring
+* sunscribe bug fixed
+* time get fixed
+* edit new topic issue fixed
+* pagination and translation issue fixed
+* some optimization
+* undefined error warning fixed
+* finalise
+* fixes
+* UI fixes
+* fixes
+* css
+* translation fixed
+* cap check function added before action
+* Assign Ticket page added
+* label fixed
+* translation message fixed
+* trannslation text-domain fixed
+* supervisor
+* bug fixes
+* labels fix
+* canned responses fix
+* forum width
+* debounce added
+* css added
+* canned response added
+* cannned response API and js added
+* assign topic added
+* assign topic to user api added
+* view fixed
+* label filter added
+* css added
+* topic filter by label added
+* topic label api added in forums page
+* sla counting api added
+* filter added on save
+* assign topic label api and js fixed
+* label assign and unassign api added
+* assign label to topic js added
+* typo fixed vibekb to vibebp
+* hook typo
+* sla count function added
+* namespace and type added in api
+* security added for assign agent label
+* assign-label js added
+* colum add in user page for label assign
+* vibebp_settings sub issue fixed for diffrent settings page
+* helpdesk resolved
+* forums
+* helpdesk settings
+* init
