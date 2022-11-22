@@ -1,0 +1,172 @@
+* a4817d3c : 1.7.1
+* 3b180cd9 : enforce login param passing fixed
+* 8fe7ebee : zoom credential for user added
+* 0665c9e7 : profile field added for api key and secret
+* 05164174 : 1.7
+* e8477b23 : build added
+* d81960c8 : css fixes
+* dcea9536 : click to copy url option added
+* 87d83680 : build added
+* 19a40f19 : calendar course meeting show fixed
+* d6c5d190 : question field added in edit unit
+* b9fc5d15 : render meeting in unit with js
+* 541807aa : translation fixes
+* a4ff6e1a : admin bar remove after join meeting
+* 04ffc027 : wrong password issue fixed
+* 780c970d : custom css to override things for zoom
+* e74db57b : sdk view added
+* 9131594f : initiatializing web-sdk
+* 711628f8 : 1.6.1
+* 07f72033 : expired course user can not see meetings fixed
+* ac714b8f : fetch settings if necessary
+* 3b7a1e61 : additional security for creating , deleting and other things impacting database
+* c51114cb : 1.6
+* c00ebaed : build added
+* 268bfc5c : fix to meeting reminder call
+* e66d1d68 : filter for new reminder time
+* 2536e332 : cron scheduling fix
+* 267634be : default password added
+* c6cd37cc : hook fixed
+* 460b49d7 : timeleft calculate function added
+* 2760dd38 : cron fixed
+* 40de78b4 : meeting setting added
+* 7a511358 : schedule added
+* 180cfc85 : buddypres mail added
+* d2312077 : 1.5.2
+* 7ad1adcd : transaltion mistakes fixed
+* 8d17d50f : typo fixed
+* 22de0d50 : recording show in unit added
+* 51160582 : show recordings based on setting added
+* 8d43fd64 : initialized  recording settings
+* c563b6df : 1.5.1
+* 880233d9 : 1.5
+* eb02a78b : Zoom meetings
+* b3f0b644 : edit fixed
+* be23a4ce : recording added
+* 76b7a06c : recording disabled for now
+* abc0f181 : multihost user select to create meeting
+* 99b793e4 : instructor own credential and multiple field create added
+* 59a5348b : multihost provision initialized
+* 2671b9ab : multihost select and api added
+* 86013e88 : bundle files
+* bb8e38a5 : 1.4.2
+* cad4816a : changelog
+* f7e03467 : recording initialized
+* 8cdf5a1f : meeting default args
+* a56dffec : build added
+* 910fb1b1 : 1.4.1
+* ea0da0a5 : provision for custom zoom tabs
+* d05150fb : get meeting details fixed
+* 62a5b1ce : password check in submit
+* 11593f76 : validate password added
+* 891b8af1 : fixed password should be number
+* bb00675c : fixed password and host necessary
+* 9fdb7a6f : translations updated
+* 6b0564ec : click from event to meeting
+* c670995e : fixes
+* 2f3336cf : 1.4
+* 20bb8659 : build added
+* 198165bc : check added
+* 9d9834ad : style fixed
+* 92fb1f39 : styling fixed
+* ae96b756 : avatar comp issue fixed
+* d6e9ffcd : typo fixed
+* 732e73f9 : join button api fixed
+* 72e860bf : join button comp added
+* bc567bc7 : full meeting fixed
+* bd45dcbe : api fixed
+* ac5dcaa3 : zoom calendar added
+* 14eeed59 : initializing zoom calendar
+* fe3b64b5 : 1.3.1
+* c0c054fd : search query fix
+* 17fdaa9a : styling fixes
+* 54f051eb : 1.3
+* 7fe1e173 : translations updated
+* a2320dae : user courses function fixed for active
+* b6b1e58a : record activity added
+* 6a4c8344 : 1.2
+* 1f583fd4 : translations
+* d08a4fe7 : styling of avatars
+* 3290a262 : fixes
+* 9b5ba9cc : decimal in seconds fixed
+* f92112b1 : build
+* 29e5c000 : avatar styling fixed
+* 9565ce3b : finalise
+* 03992300 : fixes
+* 2905606a : build
+* f35bcea9 : improved
+* d55f6821 : build added
+* 9d12ec52 : get signature api removed
+* c5cbf34c : signature generate and can view meeting function added
+* d7d843cd : context to show edit meeting added
+* b3499a89 : fixed api changes for shared values
+* 506dd157 : build file added
+*   f8ad17fc : Merge branch 'develop' of https://github.com/VibeThemes/vibe-zoom into develop
+|\  
+| * 2b8478a2 : changes
+* | 3bfb74c2 : fixed avatar and shared value issue
+|/  
+* ffb58c68 : npm run build runned
+*   968256b6 : Merge branch 'develop' of https://github.com/VibeThemes/vibe-zoom into develop
+|\  
+| * 23021d01 : minified scripts
+* | 3c399afc : builded :avatar and on search replace value fixed
+|/  
+* db1c7762 : search fix
+* cb2e95e9 : fixes
+* 7ca25362 : typo fixed
+* 0f413fba : build file added
+* a9295f34 : content issue fixes on post meeting
+* 7f5010f7 : fixes
+* 8e305a33 : fixes
+* 3d6af4e7 : time issue fixed
+* dfe7fe24 : remove debug messages
+* cddaa9db : 1.1
+* 125d9151 : Comple
+* 134859ca : autoupdate
+* 299417d9 : Zoom init
+* 51878588 : instructor tab show fixed
+* 3ba907f8 : api changes fixed
+* c57f3687 : start url button shows
+* 20d95314 : click to copy fixed
+* d09437aa : fixes
+* c2bc3a1e : setup
+* cc13ea4c : iframe added
+* ab50a7e0 : some details  show on  all mettings
+* c16ce277 : typo fixed
+* 77269087 : start end filter fixed
+* 0b226fec : path fixed
+* 1114e891 : wplms_plugin check added
+* 8f1e7045 : start end time filter has issue
+* 3323d2dd : work in wplmsplugin
+* 973f3758 : meeting host fix
+* 1e3d3607 : sharing added
+* 1f2db87d : sharing initiated
+* 5cee110a : edit fixed
+* aa630320 : duarion issue fixed
+* af0d4906 : checkbox fixed
+* b2264222 : meeting creation added
+* 75bdb9b1 : get meeting api added
+* 7b4da1bc : fixed
+* 36af1ccc : zoom initialized
+* 93957fdb : path correction
+* eab88812 : init
+* 2e41e55e : gitignore
+* 2ecea5c1 : host was not saving fix
+* 879d0649 : record meeting host as well in options
+* 656df890 : lagacy api removed
+* 1ded198b : missing save button
+* 9c6edbea : absint
+* e98baa27 : fix for class not including
+* b63b44e4 : 1.0
+* d6f6b723 : php verison added in changelog
+* 66470e5e : read me
+* 39e99877 : pot file
+* ffcc9f9f : esc js
+* 3783ceab : absint missing
+* 7ae896e1 : version
+* 1bee6289 : completed
+* 6393720d : meeting shortcode added
+* d90b1304 : meeting created
+* 7675bbcb : api added class init
+* aae9560b : init

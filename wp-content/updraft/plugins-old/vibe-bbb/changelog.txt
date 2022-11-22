@@ -1,0 +1,60 @@
+* 9d714e8 : 1.6.1
+* d819b2e : recording time fixed using localstring
+* eddd8f5 : recording handle for unit
+*   97ed0fd : Merge branch 'develop' of https://github.com/VibeThemes/vibe-bbb into develop
+|\  
+| * 9a5171d : 1.6
+| * a688db9 : fix join url in meeting inside course status
+| * b10bf52 : BBB recordings support
+* | 768e0b6 : bbb api response managed
+|/  
+* 8a268c4 : recording added
+* 823d099 : logout url change bug fixes
+* aa1d3e6 : additional security for creating , deleting and other things impacting database
+* 8053fcf : user id to save new email template
+* c7ec471 : fix to meeting reminder call
+* 96016bd : 1.5
+* cf8ee62 : translations updated
+* 67332ba : filter for new reminder time
+* 9b20619 : cron scheduling fixed
+* 1939d96 : meeting show in unit added
+* 6f27a88 : cron fixed for start time
+* 5ea2c8b : cron email added
+* 5791f46 : pot sync
+* 3f300d6 : template fixes
+* 15af969 : translation mistakes
+* a436baf : provision added for tabs
+* 6e904e4 : 1.4
+* e133fb8 : bbb calendar
+* 8d37a53 : fix
+* ee44485 : bbb calendar added
+* e64d0a6 : record issue fixed
+* 4e6a965 : backend create meeting meta property check added
+* f7a283f : style fixed
+* bcf7e3c : styling fixed same as zoom
+* a90f92e : typo fixed
+* a0b9050 : css enque handle change to vibe-bbb
+* 8ad5d63 : translation from wplms-bbb to vibe-bbb
+* 0286a5d : translations fixes
+* e916d2b : 1.3.3
+* af4a914 : search in vibebbb unit
+* da8c4df : 1.3.2
+* 88dbbaa : Group and Course meetings for Student fix
+* 1f39f49 : 1.3.1
+* 7d4f3cf : meeting fixes
+* a443e24 : trash meetings
+* f5c5308 : 1.3
+* 6966e2f : fixes
+* 70571d1 : search in groups
+* a9788e7 : 1.2
+* 4098bd2 : styling fixes
+* 4ea8f03 : search in courses only
+* 2e96db3 : fixed
+* ee86694 : 1.1
+* 7f702dd : typo fixed
+* 97fcdb8 : wplms-bbb removed vibe-bbb added
+* d7a3407 : unnecessary files removed
+* 3105478 : copied from wplms-bbb
+* f1769bc : conflict with WPLMS BBB
+* 0e487e0 : 1.0
+* a7ebe9c : init

@@ -1,0 +1,23 @@
+* 1.4
+* payouts not working fix
+* payiouts balance issue fix
+* 1.3
+* 1.2
+* earning api
+* api added
+* enable check for payments
+* 1.1
+* fixes
+* select currency fix
+* css fixes
+* sidebar issues with graph fix
+* 1.0
+* commissions working now
+* clearning up
+* component icon
+* vibe earnings
+* autoupdate code
+* commissions settings moved
+* loading when tabs switched
+* commisisons module added
+* init

@@ -1,0 +1,75 @@
+* 4569321 : 1.2
+* efcb2c0 : private replies css
+* f1601a0 : fixes and styling fixes
+* 9684490 : private reply hanled for nomal user
+* b0b0899 : create topic permission fixed
+* 44b8b8c : permission for reply and update fixed
+* 281b70b : private reply setting added
+* 6a123c7 : 1.1
+* 6f1c858 : create_posts permissions check
+* 35877ca : added parameter for get replies filter
+* 9a38b66 : additional security for creating , deleting and other things impacting database
+* d835001 : warnings and fixes
+* cf232fe : private forum not show fixed
+* 9c58757 : fixed topic and reply date
+* 6720c3b : load more fixed
+* d6e0ea1 : privacy args
+* cd75864 : translations updated
+* 891b90a : vibedrive version and changelog
+* b60f47c : 1.0
+* 8fa6ea8 : plugin name fix
+* 30747fe : correct js file path
+* 59c6c1c : class check
+* ceabe60 : autoupdate changed
+* 75df05d : finalised
+* e39c62f : restructuring
+* af99a26 : sunscribe bug fixed
+* 6c865a5 : time get fixed
+* 94a2db7 : edit new topic issue fixed
+* 3dda81e : pagination and translation issue fixed
+* 4402ed1 : some optimization
+* 4a088c1 : undefined error warning fixed
+* 7135c31 : finalise
+* d97c4cf : fixes
+* 8dd4a5d : UI fixes
+* 3680109 : fixes
+* c2603c3 : css
+* 2f8dfe8 : translation fixed
+* 4098dd9 : cap check function added before action
+* d20bf71 : Assign Ticket page added
+* 82b615f : label fixed
+* 3647c7f : translation message fixed
+* 3f583c1 : trannslation text-domain fixed
+* ef917fe : supervisor
+* 59a73ff : bug fixes
+* 48c5e62 : labels fix
+* eadbb1d : canned responses fix
+* 16ccdff : forum width
+* b42d774 : debounce added
+* 096deed : css added
+* 5a00c38 : canned response added
+* 67dae82 : cannned response API and js added
+* 758fe62 : assign topic added
+* 192c9ab : assign topic to user api added
+* c5c2495 : view fixed
+* c61c560 : label filter added
+* 022dc19 : css added
+* eead06f : topic filter by label added
+* b5dee82 : topic label api added in forums page
+* 1b4d70b : sla counting api added
+* 311fb32 : filter added on save
+* 7fbac98 : assign topic label api and js fixed
+* 56b8967 : label assign and unassign api added
+* 8d530d6 : assign label to topic js added
+* e5fd21f : typo fixed vibekb to vibebp
+* f924431 : hook typo
+* aa1432f : sla count function added
+* 8eb7e24 : namespace and type added in api
+* 17c285a : security added for assign agent label
+* 38c0acf : assign-label js added
+* 05ce265 : colum add in user page for label assign
+* 6c3c167 : vibebp_settings sub issue fixed for diffrent settings page
+* 12c8b52 : helpdesk resolved
+* 175115e : forums
+* e1c8599 : helpdesk settings
+* a1454c3 : init

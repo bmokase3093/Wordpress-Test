@@ -1,0 +1,619 @@
+# Copyright (c) 2019 GoDaddy Operating Company, LLC. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Helpdesk\n"
+"Report-Msgid-Bugs-To: https://github.com/godaddy/vibebp/issues\n"
+"POT-Creation-Date: 2020-12-20 22:49+0530\n"
+"PO-Revision-Date: 2020-12-20 22:49+0530\n"
+"Last-Translator: VibeThemes <vibethemes@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Domain: vibebp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;_ex\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"vibe-helpdesk\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:384
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:384
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:549
+msgid "Try again"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:425
+msgid "An unknown error occurred"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:461
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:462
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:484
+msgid " Plugin Updates"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:523
+msgid "Username: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:527
+msgid "Email: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:533
+msgid "Key: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:539
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:543
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:544
+msgid "Edit Key"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:548
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:554
+msgid "Add Purchase Code"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:641
+msgid "User name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:647
+msgid "Email"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/autoupdate.php:656
+msgid "Themeforest/CodeCanyon Purchase Key ( for Auto-Updates )"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:236
+msgid "Forums not found!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:279
+msgid "No forums found."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:291
+msgid "Unable to chage forum subscription status."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:297
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:443
+msgid "Unable to add subscription"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:303
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:449
+msgid "Unable to remove subscription"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:314
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:460
+msgid "Topics not found!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:436
+msgid "Unable to chage topic subscription status."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:496
+msgid "Replies not found!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:561
+msgid "Forum Created"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:564
+msgid "Forum not Created"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:574
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:648
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:732
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:818
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:903
+msgid "BB-Press Plugin not active!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:580
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:656
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:746
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:825
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:910
+msgid "Authorization error!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:615
+msgid "Topic Updated"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:626
+msgid "Topic Created"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:630
+msgid "Topic not Created"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:641
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:739
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:811
+msgid "Passing Arguments not valid!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:717
+msgid "Reply Created"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:721
+msgid "Reply not Created"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:784
+msgid "Reply Updated."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:790
+msgid "Reply not Updated."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:797
+msgid "You are not a valid user to update this reply"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:804
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:854
+msgid "Reply not Exist."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:832
+msgid "Insufficient data"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:862
+msgid "Reply trash successfull"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:868
+msgid "Reply untrash successfull"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:874
+msgid "Reply delete successfull"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:888
+msgid "Not success"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:895
+msgid "You are not a valid user to delete this reply"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:924
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:947
+msgid "Unable to set favorite"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:932
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:955
+msgid "Topic Set as Unfavorite"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:979
+msgid "Unable to remove topice"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1012
+msgid "SLA counting available!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1019
+msgid "SLA counting unavailable!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1025
+msgid "BB-press not active!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1038
+msgid "Topic labels found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1043
+msgid "Topic labels not found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1073
+msgid "Label assigned"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1079
+msgid "This Label not present in Admin-panel"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1085
+msgid "Labels not present in Admin-panel"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1093
+msgid "Label unassigned"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1100
+msgid "Action not determined"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1107
+msgid "Can not assign label"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1113
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1222
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1278
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1313
+msgid "Data missing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1149
+msgid "Users found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1155
+msgid "Users Not found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1161
+msgid "Can not search user"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1193
+msgid "Agents assigned"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1203
+msgid "Agents unassigned"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1209
+msgid "Action not matched"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1216
+msgid "Not capable"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1267
+msgid "Saved as canned response"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1272
+msgid "Not saved as canned response"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1301
+msgid "Canned responses found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.api.php:1307
+msgid "Canned responses not found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:81
+msgid "HelpDesk"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:98
+msgid "Recent"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:99
+msgid "Alphabetical"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:100
+msgid "Most Shared"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:103
+msgid "Assigned Tickets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:104
+msgid "Unassigned Tickets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:105
+msgid "Recently Assigned Tickets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:106
+msgid "Assign Tickets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:107
+msgid "All Forums"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:108
+msgid "New Topic"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:109
+msgid "No Topics found !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:110
+msgid "No Forums found !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:111
+msgid "No replies found !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:112
+msgid "Subscribe"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:113
+msgid "Subscribed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:114
+msgid "Assign Label"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:115
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:150
+msgid "Labels"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:116
+msgid "Submit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:117
+msgid "Save As Canned Response"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:118
+msgid "Enter Canned Title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:119
+msgid "Enable canned"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:120
+msgid "Search Canned Responses"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:121
+msgid "Cancel"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:122
+msgid "Topic title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:123
+msgid "Select forum"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:124
+msgid "Topic content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:125
+msgid "Search topics"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:126
+msgid "Search replies"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:127
+msgid "Load More"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:128
+msgid "Set as private reply"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:129
+msgid "Back to forums"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:130
+msgid "Back to topics"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:221
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:138
+msgid "Agent Labels"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:242
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:254
+msgid "None"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:270
+msgid "Saved"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:273
+msgid "Not Saved"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:276
+msgid "Security Failed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:285
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:286
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:287
+msgid "Canned Response"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:288
+msgid "Add New Canned Response"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.init.php:289
+msgid "Canned Responses"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:42
+msgid "Helpdesk"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:51
+msgid "Helpdesk General Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:54
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:184
+msgid "General Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:55
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:97
+msgid "Agents"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:56
+msgid "Forums"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:84
+msgid "All"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:101
+msgid "Agent User Role"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:105
+msgid "User role who are classified as agents"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:109
+msgid "Supervisor Ticket User Role"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:113
+msgid "User role who are can assign tickets to agents"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:117
+msgid "Automatic Assignment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:120
+msgid "Automatically assign topics to agents, maintaining similar work load."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:124
+msgid "Enable Response timer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:127
+msgid "Timer to record time spent in resolution. Excludes user response times."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:131
+msgid "Show Kudo count"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:134
+msgid "Kudos is awarded by customers on good or helpful support."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:142
+msgid "Assign labels from WP admin - Users"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:154
+msgid "Select Topic Labels"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:162
+msgid "SLA"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:166
+msgid "Select SLA"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:173
+msgid "SLA forums hours"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:176
+msgid "SLA forums in hours"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:188
+msgid "Private BBPress"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:192
+msgid "Forums are not publically accessible."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:195
+msgid "Restrict Forum browsing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:199
+msgid "Users can not browse other user topics."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:202
+msgid "Enable Mark Reply as Solution"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:206
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:213
+msgid "Solutions close topics/tickets."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:209
+msgid "Enable Canned Responses"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-helpdesk/includes/class.settings.php:216
+msgid "Enable Kudos on responses"
+msgstr ""

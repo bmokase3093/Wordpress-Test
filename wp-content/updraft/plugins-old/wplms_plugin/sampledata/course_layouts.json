@@ -1,0 +1,569 @@
+{
+  "course-layout": [
+    {
+      "type_title": "Course Layouts",
+      "post_id": 363,
+      "post_title": "Udemy style",
+      "post_status": "publish",
+      "post_name": "udemy-style",
+      "post_content": "<a href=\"https://demos.wplms.io/course-cat/it/\">IT</a>\n\t\t\t<h1>IOT Security</h1>\t\t\n\t\t\t<strong>\n\t    <small><small style=\"width:0%;\"></small></small></strong>\t\t\n\t\t\t<p></p>\t\t\n\t\t\t<p>20</p>\t\t\n\t\t\t<a href=\"https://demos.wplms.io/members/alena-publishing/\">Alena Publishing</a>\t\t\n\t\t\t<p>This course talks about IOPT</p>\t\t\n\t\t\t<style>\n            #course_button_760 .button,#course_button_760 input[type=\"submit\"]{\n                    display: flex;align-items: center;justify-content: center;\n                width:100%;height:36px;font-size:100%;            }\n        </style>\n        <a href=\"#\">PRIVATE COURSE</a>\t\t\n\t\t\t<strong>PRIVATE</strong>\t\t\n\t\t\t<h2>Included in this course</h2>\n<ul>\n \t<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>\n \t<li>Aliquam nec suscipit nulla, eget rhoncus erat. Curabitur quis ultricies justo.</li>\n \t<li>Integer feugiat augue augue, quis laoreet mi molestie sed. Donec condimentum risus et facilisis aliquet.</li>\n \t<li>Quisque aliquet sollicitudin magna a ullamcorper. Maecenas elementum pharetra felis in cursus.</li>\n \t<li>Curabitur pulvinar vel mauris et rhoncus. Ut nunc mauris, rhoncus vitae placerat non, luctus non augue.</li>\n \t<li>Nullam dictum metus in turpis ornare sagittis. Suspendisse id enim ut ligula luctus dictum nec viverra augue.</li>\n \t<li>Phasellus non posuere turpis. In vehicula scelerisque mauris, eget ullamcorper mi tristique sed.</li>\n \t<li>Etiam porta tortor non diam porta sagittis. Mauris placerat diam eget tellus suscipit consequat.</li>\n \t<li>Phasellus eu sapien interdum quam ultricies molestie vel et ipsum.</li>\n \t<li>Nam id tortor eu libero luctus pellentesque ac sed lectus.</li>\n</ul>\n&nbsp;\n<h2>Description</h2>\nFusce dapibus lacinia volutpat. Fusce tincidunt turpis ac feugiat varius. Etiam tincidunt lorem tortor, hendrerit sagittis tellus fermentum sed. Duis interdum sapien ante, sit amet maximus augue ultricies at. Aenean eros massa, luctus id porta at, ultrices ut sapien. Integer at pulvinar sapien. Aenean turpis arcu, vehicula sit amet tortor sed, eleifend ultrices mauris. Quisque sollicitudin erat ex, id eleifend eros congue ut. Proin pretium odio et lorem bibendum pulvinar. Etiam dapibus id metus eget consectetur. Fusce ultrices elit et augue posuere, vel condimentum enim pharetra. Nullam id ultrices tortor.\nPraesent vestibulum mattis tempor. Nulla mollis odio et mauris vulputate rutrum. Vestibulum hendrerit, nulla id eleifend aliquam, leo libero tincidunt risus, nec hendrerit risus orci id enim. Nam et felis sodales, dictum urna sit amet, imperdiet lacus. Praesent finibus ante sit amet eros dictum consectetur. Nam luctus in ipsum in gravida. Nunc sit amet felis eget ex laoreet mollis. Nulla vitae ullamcorper diam, nec tincidunt metus. Proin aliquam mauris erat, malesuada pharetra magna sagittis sit amet. Vestibulum eu nisl sapien. Quisque faucibus, justo in tempor porttitor, elit magna interdum turpis, sed cursus nisi lectus vitae ligula. Sed elit felis, dapibus id semper quis, ultrices ac elit. Aenean non laoreet enim, a eleifend nunc. Fusce scelerisque odio nec ultrices feugiat. Quisque luctus tincidunt sodales. Donec metus nisi, congue eget velit nec, auctor porta lectus.\t\t\n\t\t<h2>Course Currilcum</h2>",
+      "post_excerpt": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_date": "2020-07-12 14:00:24",
+      "post_date_gmt": "2020-07-12 14:00:24",
+      "guid": "https://demos.wplms.io/?post_type=course-layout&#038;p=363",
+      "post_mime_type": "",
+      "meta_input": {
+        "_wp_page_template": "default",
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "wp-post",
+        "_elementor_version": "2.9.13",
+        "_elementor_data": "[{\"id\":\"2d34069\",\"elType\":\"section\",\"settings\":{\"stretch_section\":\"section-stretched\",\"background_background\":\"classic\",\"background_color\":\"#232B2D\",\"margin\":{\"unit\":\"px\",\"top\":\"-140\",\"right\":0,\"bottom\":\"30\",\"left\":0,\"isLinked\":false},\"padding\":{\"unit\":\"px\",\"top\":\"150\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"f8a46c3\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"f1e89a4\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\"},\"elements\":[{\"id\":\"1da3162\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":60},\"elements\":[{\"id\":\"b4b2b0a\",\"elType\":\"widget\",\"settings\":{\"info\":\"course-cat\",\"element\":\"div\",\"color\":\"#FFFFFF\",\"font_size\":{\"unit\":\"px\",\"size\":18,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"a128d21\",\"elType\":\"widget\",\"settings\":{\"info\":\"title\",\"element\":\"h1\",\"color\":\"#FDFDFD\",\"font_size\":{\"unit\":\"px\",\"size\":47,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"-20\",\"right\":\"0\",\"bottom\":\"-20\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"25c98e2\",\"elType\":\"widget\",\"settings\":{\"info\":\"average_rating\",\"element\":\"div\",\"color\":\"#FFCA43\",\"font_size\":{\"unit\":\"px\",\"size\":24,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"0\",\"bottom\":\"10\",\"left\":\"0\",\"isLinked\":false},\"_element_width\":\"auto\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"17fce79\",\"elType\":\"widget\",\"settings\":{\"info\":\"review_count\",\"element\":\"p\",\"color\":\"#FFFFFF\",\"font_size\":{\"unit\":\"px\",\"size\":18,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"76e7b29\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"far fa-user\",\"library\":\"fa-regular\"},\"align\":\"left\",\"primary_color\":\"#FFFFFF\",\"size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"icon\"},{\"id\":\"bcf74f6\",\"elType\":\"widget\",\"settings\":{\"info\":\"student_count\",\"element\":\"p\",\"color\":\"#FFFFFF\",\"font_size\":{\"unit\":\"px\",\"size\":18,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"d3632f6\",\"elType\":\"widget\",\"settings\":{\"info\":\"instructor_name\",\"element\":\"div\",\"color\":\"#FDFDFD\",\"font_size\":{\"unit\":\"px\",\"size\":18,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"0\",\"bottom\":\"10\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"2aa8407\",\"elType\":\"widget\",\"settings\":{\"info\":\"excerpt\",\"element\":\"p\",\"color\":\"#FFFFFF\",\"font_size\":{\"unit\":\"px\",\"size\":18,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_info\"}],\"isInner\":true},{\"id\":\"b6ce76b\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":39.68900000000000005684341886080801486968994140625,\"background_background\":\"classic\",\"background_color\":\"#FFFFFF\",\"background_hover_background\":\"classic\",\"background_hover_color\":\"#FFFFFF\",\"padding\":{\"unit\":\"px\",\"top\":\"15\",\"right\":\"15\",\"bottom\":\"15\",\"left\":\"15\",\"isLinked\":true}},\"elements\":[{\"id\":\"cd03fe8\",\"elType\":\"widget\",\"settings\":{\"radius\":{\"unit\":\"px\",\"size\":5,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_featured\"},{\"id\":\"344c315\",\"elType\":\"widget\",\"settings\":[],\"elements\":[],\"widgetType\":\"wplms_course_button\"},{\"id\":\"568debd\",\"elType\":\"widget\",\"settings\":{\"color\":\"#F96060\",\"font_size\":{\"unit\":\"rem\",\"size\":1.5,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_pricing\"}],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false},{\"id\":\"8b6b1d0\",\"elType\":\"section\",\"settings\":[],\"elements\":[{\"id\":\"e8eea28\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"7bd58a3\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\"},\"elements\":[{\"id\":\"73bf2ec\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":60},\"elements\":[{\"id\":\"cd64c5a\",\"elType\":\"widget\",\"settings\":{\"info\":\"description\",\"font_size\":{\"unit\":\"px\",\"size\":16,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"7ed3d9b\",\"elType\":\"widget\",\"settings\":[],\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"51766b8\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<h2>Course Currilcum<\\/h2>\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"3c67f8d\",\"elType\":\"widget\",\"settings\":[],\"elements\":[],\"widgetType\":\"wplms_course_curriculum\"},{\"id\":\"603cdcf\",\"elType\":\"widget\",\"settings\":{\"title\":\"Course Reviews\",\"breakup\":\"1\",\"rating_count\":\"1\",\"number\":5,\"hide_if_none\":\"1\"},\"elements\":[],\"widgetType\":\"wplms_elementor_course_reviews\"}],\"isInner\":true},{\"id\":\"681e31f\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":39.6460000000000007958078640513122081756591796875},\"elements\":[],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false}]",
+        "_elementor_controls_usage": {
+          "wplms_course_info": {
+            "count": 8,
+            "control_percent": 1,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "info": 8,
+                  "element": 7,
+                  "color": 7,
+                  "font_size": 8
+                }
+              },
+              "advanced": {
+                "_section_style": {
+                  "_margin": 5
+                },
+                "_section_position": {
+                  "_element_width": 3,
+                  "_element_vertical_align": 2
+                }
+              }
+            }
+          },
+          "icon": {
+            "count": 1,
+            "control_percent": 3,
+            "controls": {
+              "content": {
+                "section_icon": {
+                  "selected_icon": 1,
+                  "align": 1
+                }
+              },
+              "style": {
+                "section_style_icon": {
+                  "primary_color": 1,
+                  "size": 1
+                }
+              },
+              "advanced": {
+                "_section_style": {
+                  "_margin": 1
+                },
+                "_section_position": {
+                  "_element_width": 1,
+                  "_element_vertical_align": 1
+                }
+              }
+            }
+          },
+          "column": {
+            "count": 6,
+            "control_percent": 0,
+            "controls": {
+              "layout": {
+                "layout": {
+                  "_inline_size": 6
+                }
+              },
+              "style": {
+                "section_style": {
+                  "background_background": 1,
+                  "background_color": 1,
+                  "background_hover_background": 1,
+                  "background_hover_color": 1
+                }
+              },
+              "advanced": {
+                "section_advanced": {
+                  "padding": 1
+                }
+              }
+            }
+          },
+          "wplms_course_featured": {
+            "count": 1,
+            "control_percent": 1,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "radius": 1
+                }
+              }
+            }
+          },
+          "wplms_course_button": {
+            "count": 1,
+            "control_percent": 0,
+            "controls": []
+          },
+          "wplms_course_pricing": {
+            "count": 1,
+            "control_percent": 1,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "color": 1,
+                  "font_size": 1
+                }
+              }
+            }
+          },
+          "section": {
+            "count": 4,
+            "control_percent": 0,
+            "controls": {
+              "layout": {
+                "section_structure": {
+                  "structure": 2
+                },
+                "section_layout": {
+                  "stretch_section": 1
+                }
+              },
+              "style": {
+                "section_background": {
+                  "background_background": 1,
+                  "background_color": 1
+                }
+              },
+              "advanced": {
+                "section_advanced": {
+                  "margin": 1,
+                  "padding": 1
+                }
+              }
+            }
+          },
+          "spacer": {
+            "count": 1,
+            "control_percent": 0,
+            "controls": []
+          },
+          "text-editor": {
+            "count": 1,
+            "control_percent": 0,
+            "controls": {
+              "content": {
+                "section_editor": {
+                  "editor": 1
+                }
+              }
+            }
+          },
+          "wplms_course_curriculum": {
+            "count": 1,
+            "control_percent": 0,
+            "controls": []
+          },
+          "wplms_elementor_course_reviews": {
+            "count": 1,
+            "control_percent": 3,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "title": 1,
+                  "breakup": 1,
+                  "rating_count": 1,
+                  "number": 1,
+                  "hide_if_none": 1
+                }
+              }
+            }
+          }
+        },
+        "_elementor_css": {
+          "0": "",
+          "time": 1594605999,
+          "fonts": [],
+          "icons": [
+            "fa-regular"
+          ],
+          "status": "file"
+        }
+      },
+      "terms": []
+    },
+    {
+      "type_title": "Course Layouts",
+      "post_id": 266,
+      "post_title": "Default",
+      "post_status": "publish",
+      "post_name": "default",
+      "post_content": "<p>\t<a href=\"https://demos.wplms.io/course-cat/it/\">IT</a>\n</p>\t\t\n\t\t\t<h1>IOT Security</h1>\t\t\n\t\t\t<p>This course talks about IOPT</p>\t\t\n\t\t\t<style>\n            #course_button_116 .button,#course_button_116 input[type=\"submit\"]{\n                    display: flex;align-items: center;justify-content: center;\n                width:100%;height:90px;font-size:100%;            }\n        </style>\n        <a href=\"#\">PRIVATE COURSE</a>\t\t\n\t\t\t<strong>PRIVATE</strong>\t\t\n\t\t\t<h3>About Course</h3>\t\t\n\t\t\t<h2>Included in this course</h2>\n<ul>\n \t<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>\n \t<li>Aliquam nec suscipit nulla, eget rhoncus erat. Curabitur quis ultricies justo.</li>\n \t<li>Integer feugiat augue augue, quis laoreet mi molestie sed. Donec condimentum risus et facilisis aliquet.</li>\n \t<li>Quisque aliquet sollicitudin magna a ullamcorper. Maecenas elementum pharetra felis in cursus.</li>\n \t<li>Curabitur pulvinar vel mauris et rhoncus. Ut nunc mauris, rhoncus vitae placerat non, luctus non augue.</li>\n \t<li>Nullam dictum metus in turpis ornare sagittis. Suspendisse id enim ut ligula luctus dictum nec viverra augue.</li>\n \t<li>Phasellus non posuere turpis. In vehicula scelerisque mauris, eget ullamcorper mi tristique sed.</li>\n \t<li>Etiam porta tortor non diam porta sagittis. Mauris placerat diam eget tellus suscipit consequat.</li>\n \t<li>Phasellus eu sapien interdum quam ultricies molestie vel et ipsum.</li>\n \t<li>Nam id tortor eu libero luctus pellentesque ac sed lectus.</li>\n</ul>\n&nbsp;\n<h2>Description</h2>\nFusce dapibus lacinia volutpat. Fusce tincidunt turpis ac feugiat varius. Etiam tincidunt lorem tortor, hendrerit sagittis tellus fermentum sed. Duis interdum sapien ante, sit amet maximus augue ultricies at. Aenean eros massa, luctus id porta at, ultrices ut sapien. Integer at pulvinar sapien. Aenean turpis arcu, vehicula sit amet tortor sed, eleifend ultrices mauris. Quisque sollicitudin erat ex, id eleifend eros congue ut. Proin pretium odio et lorem bibendum pulvinar. Etiam dapibus id metus eget consectetur. Fusce ultrices elit et augue posuere, vel condimentum enim pharetra. Nullam id ultrices tortor.\nPraesent vestibulum mattis tempor. Nulla mollis odio et mauris vulputate rutrum. Vestibulum hendrerit, nulla id eleifend aliquam, leo libero tincidunt risus, nec hendrerit risus orci id enim. Nam et felis sodales, dictum urna sit amet, imperdiet lacus. Praesent finibus ante sit amet eros dictum consectetur. Nam luctus in ipsum in gravida. Nunc sit amet felis eget ex laoreet mollis. Nulla vitae ullamcorper diam, nec tincidunt metus. Proin aliquam mauris erat, malesuada pharetra magna sagittis sit amet. Vestibulum eu nisl sapien. Quisque faucibus, justo in tempor porttitor, elit magna interdum turpis, sed cursus nisi lectus vitae ligula. Sed elit felis, dapibus id semper quis, ultrices ac elit. Aenean non laoreet enim, a eleifend nunc. Fusce scelerisque odio nec ultrices feugiat. Quisque luctus tincidunt sodales. Donec metus nisi, congue eget velit nec, auctor porta lectus.\t\t\n\t\t\t<h3>About Instructor</h3>\t\t\n\t\t\t<img src=\"https://demos.wplms.io/wp-content/themes/wplms/assets/images/avatar.jpg\" width=\"460\" height=\"460\" alt=\"Profile Photo\" />\t\t\n\t\t\tCourses\t\t\n\t\t\t1\t\t\n\t\t\tReviews\t\t\n\t\t\t0\t\t\n\t\t\tStudents\t\t\n\t\t\t20\t\t\n\t\t\t<h3>Curriculum</h3>\t\t\n\t\t\t<h3>Reviews</h3>\t\t\n        <p>No Reviews found for this course.</p>",
+      "post_excerpt": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_date": "2020-06-29 06:52:40",
+      "post_date_gmt": "2020-06-29 06:52:40",
+      "guid": "https://demos.wplms.io/?post_type=course-layout&#038;p=266",
+      "post_mime_type": "",
+      "meta_input": {
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "wp-post",
+        "_elementor_version": "2.9.13",
+        "_wp_page_template": "default",
+        "_elementor_data": "[{\"id\":\"ce34ad0\",\"elType\":\"section\",\"settings\":{\"stretch_section\":\"section-stretched\",\"background_background\":\"gradient\",\"background_color\":\"#78BEFF\",\"background_color_b\":\"#DFE2FF\",\"shape_divider_bottom\":\"opacity-fan\",\"shape_divider_bottom_height\":{\"unit\":\"px\",\"size\":329,\"sizes\":[]},\"shape_divider_bottom_flip\":\"yes\",\"margin\":{\"unit\":\"px\",\"top\":\"-150\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":false},\"padding\":{\"unit\":\"px\",\"top\":\"120\",\"right\":\"0\",\"bottom\":\"180\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"ace3187\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"b46dbd6\",\"elType\":\"widget\",\"settings\":{\"info\":\"course-cat\",\"element\":\"p\",\"color\":\"#394C62\",\"font_size\":{\"unit\":\"px\",\"size\":48,\"sizes\":[]},\"_animation\":\"none\",\"_css_classes\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"8c4e0ee\",\"elType\":\"widget\",\"settings\":{\"info\":\"title\",\"element\":\"h1\",\"color\":\"#394C62\",\"font_size\":{\"unit\":\"px\",\"size\":95,\"sizes\":[]},\"_animation\":\"none\",\"_css_classes\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"3bc328c\",\"elType\":\"widget\",\"settings\":{\"info\":\"excerpt\",\"element\":\"p\",\"font_size\":{\"unit\":\"rem\",\"size\":1.8000000000000000444089209850062616169452667236328125,\"sizes\":[]},\"_css_classes\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"4e940e4\",\"elType\":\"section\",\"settings\":{\"structure\":\"40\"},\"elements\":[{\"id\":\"6b49983\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[],\"isInner\":true},{\"id\":\"550569a\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"b0e7416\",\"elType\":\"widget\",\"settings\":{\"height\":{\"unit\":\"px\",\"size\":90,\"sizes\":[]},\"radius\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_button\"}],\"isInner\":true},{\"id\":\"9cfe1d7\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"1144849\",\"elType\":\"widget\",\"settings\":{\"color\":\"#088D2A\",\"font_size\":{\"unit\":\"rem\",\"size\":1.600000000000000088817841970012523233890533447265625,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"45\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_pricing\"}],\"isInner\":true},{\"id\":\"01b1709\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false},{\"id\":\"35d4a50\",\"elType\":\"section\",\"settings\":{\"structure\":\"33\",\"margin\":{\"unit\":\"px\",\"top\":\"-150\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":false}},\"elements\":[{\"id\":\"f91fb49\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.2810000000000005826450433232821524143218994140625},\"elements\":[],\"isInner\":false},{\"id\":\"a74f02d\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":75},\"elements\":[{\"id\":\"c262526\",\"elType\":\"widget\",\"settings\":{\"align\":\"center\",\"width\":{\"unit\":\"%\",\"size\":78,\"sizes\":[]},\"radius\":{\"unit\":\"px\",\"size\":5,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_featured\"},{\"id\":\"e0f9ec1\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":60,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"}],\"isInner\":false},{\"id\":\"542ce41\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.696999999999999175770426518283784389495849609375},\"elements\":[],\"isInner\":false}],\"isInner\":false},{\"id\":\"0c161f3\",\"elType\":\"section\",\"settings\":{\"stretch_section\":\"section-stretched\",\"background_background\":\"classic\",\"background_color\":\"#FAFAFA\"},\"elements\":[{\"id\":\"56fe5d3\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"cea0879\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"c423f72\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"0236c4f\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":12.03999999999999914734871708787977695465087890625},\"elements\":[],\"isInner\":true},{\"id\":\"706430c\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":75.6509999999999962483343551866710186004638671875},\"elements\":[{\"id\":\"c431c3b\",\"elType\":\"widget\",\"settings\":{\"title\":\"About Course\",\"size\":\"xl\",\"header_size\":\"h3\",\"align\":\"left\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_weight\":\"700\",\"text_shadow_text_shadow\":{\"horizontal\":0,\"vertical\":0,\"blur\":0,\"color\":\"rgba(0,0,0,0.3)\"}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"2b1f9e3\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":60,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"e3145c5\",\"elType\":\"widget\",\"settings\":{\"info\":\"description\",\"element\":\"div\",\"color\":\"#475F7B\",\"_margin\":{\"unit\":\"%\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"font_size\":{\"unit\":\"px\",\"size\":16,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_info\"}],\"isInner\":true},{\"id\":\"17a2dfa\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":11.9730000000000007531752999057061970233917236328125},\"elements\":[],\"isInner\":true}],\"isInner\":true},{\"id\":\"b708343\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"fb82d7c\",\"elType\":\"section\",\"settings\":{\"structure\":\"33\"},\"elements\":[{\"id\":\"19cf983\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.7189999999999994173549566767178475856781005859375},\"elements\":[],\"isInner\":false},{\"id\":\"bda160b\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":75},\"elements\":[{\"id\":\"50bd114\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"19b00c7\",\"elType\":\"widget\",\"settings\":{\"title\":\"About Instructor\",\"size\":\"xl\",\"header_size\":\"h3\",\"align\":\"left\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_weight\":\"700\",\"text_shadow_text_shadow\":{\"horizontal\":0,\"vertical\":0,\"blur\":0,\"color\":\"rgba(0,0,0,0.3)\"}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"06951fb\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"5282fbd\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"f8a8abb\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":25.030000000000001136868377216160297393798828125},\"elements\":[{\"id\":\"6ea4e3d\",\"elType\":\"widget\",\"settings\":{\"data\":\"image\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_data\"}],\"isInner\":true},{\"id\":\"7a70f1a\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":49.93999999999999772626324556767940521240234375},\"elements\":[{\"id\":\"3e8eca5\",\"elType\":\"widget\",\"settings\":{\"field_id\":\"1\",\"font-size\":{\"unit\":\"px\",\"size\":24,\"sizes\":[]},\"style\":\"nolabel\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_field\"},{\"id\":\"0778ca4\",\"elType\":\"widget\",\"settings\":{\"field_id\":\"25\",\"font-size\":{\"unit\":\"px\",\"size\":12,\"sizes\":[]},\"style\":\"nolabel\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_field\"},{\"id\":\"7f29a9c\",\"elType\":\"widget\",\"settings\":{\"field_id\":\"28\",\"style\":\"nolabel\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_field\"}],\"isInner\":true},{\"id\":\"0883327\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":23.983000000000000540012479177676141262054443359375},\"elements\":[{\"id\":\"f39ba58\",\"elType\":\"widget\",\"settings\":{\"title\":\"Courses\",\"header_size\":\"span\",\"align\":\"left\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"typography_font_weight\":\"900\",\"typography_text_transform\":\"uppercase\",\"_element_width\":\"initial\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":148,\"sizes\":[]},\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"4c02497\",\"elType\":\"widget\",\"settings\":{\"data\":\"course_count\",\"font_size\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"10\",\"bottom\":\"0\",\"left\":\"10\",\"isLinked\":false},\"_element_width\":\"auto\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":41,\"sizes\":[]},\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_data\"},{\"id\":\"b3ee51a\",\"elType\":\"widget\",\"settings\":{\"align\":\"center\",\"look\":\"line\",\"text\":\"Divider\",\"color\":\"#E9E9E9\",\"gap\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"divider\"},{\"id\":\"4ea3d7d\",\"elType\":\"widget\",\"settings\":{\"data\":\"avarage_rating\",\"font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"color\":\"#475F7B\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_data\"},{\"id\":\"189dcd1\",\"elType\":\"widget\",\"settings\":{\"align\":\"center\",\"look\":\"line\",\"text\":\"Divider\",\"color\":\"#E9E9E9\",\"gap\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"divider\"},{\"id\":\"cbf015f\",\"elType\":\"widget\",\"settings\":{\"title\":\"Reviews\",\"header_size\":\"span\",\"align\":\"left\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"typography_font_weight\":\"900\",\"typography_text_transform\":\"uppercase\",\"_element_width\":\"initial\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":148,\"sizes\":[]},\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"4351b36\",\"elType\":\"widget\",\"settings\":{\"data\":\"review_count\",\"font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"10\",\"bottom\":\"0\",\"left\":\"10\",\"isLinked\":false},\"_element_width\":\"auto\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":41,\"sizes\":[]},\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_data\"},{\"id\":\"cee348f\",\"elType\":\"widget\",\"settings\":{\"align\":\"center\",\"look\":\"line\",\"text\":\"Divider\",\"color\":\"#E9E9E9\",\"gap\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"divider\"},{\"id\":\"5122417\",\"elType\":\"widget\",\"settings\":{\"title\":\"Students\",\"header_size\":\"span\",\"align\":\"left\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"typography_font_weight\":\"900\",\"typography_text_transform\":\"uppercase\",\"_element_width\":\"initial\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":148,\"sizes\":[]},\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"5d0964a\",\"elType\":\"widget\",\"settings\":{\"data\":\"student_count\",\"font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"10\",\"bottom\":\"0\",\"left\":\"10\",\"isLinked\":false},\"_element_width\":\"auto\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":41,\"sizes\":[]},\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_instructor_data\"}],\"isInner\":true}],\"isInner\":true},{\"id\":\"0199b75\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":60,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"}],\"isInner\":false},{\"id\":\"a07a0a0\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.1730000000000000426325641456060111522674560546875},\"elements\":[],\"isInner\":false}],\"isInner\":false},{\"id\":\"3f163ca\",\"elType\":\"section\",\"settings\":{\"stretch_section\":\"section-stretched\",\"structure\":\"33\",\"background_background\":\"classic\",\"background_color\":\"#FAFAFA\"},\"elements\":[{\"id\":\"2f704f7\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.7189999999999994173549566767178475856781005859375},\"elements\":[],\"isInner\":false},{\"id\":\"90ce670\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":75},\"elements\":[{\"id\":\"9ca0a64\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"b5384b7\",\"elType\":\"widget\",\"settings\":{\"title\":\"Curriculum\",\"size\":\"xl\",\"header_size\":\"h3\",\"align\":\"center\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_weight\":\"700\",\"text_shadow_text_shadow\":{\"horizontal\":0,\"vertical\":0,\"blur\":0,\"color\":\"rgba(0,0,0,0.3)\"}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"33bcd83\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"ef8ce4d\",\"elType\":\"widget\",\"settings\":[],\"elements\":[],\"widgetType\":\"wplms_course_curriculum\"},{\"id\":\"dc5a6a0\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":60,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"}],\"isInner\":false},{\"id\":\"c82dd5f\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.1730000000000000426325641456060111522674560546875},\"elements\":[],\"isInner\":false}],\"isInner\":false},{\"id\":\"423941d\",\"elType\":\"section\",\"settings\":{\"structure\":\"33\"},\"elements\":[{\"id\":\"e4d9723\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.7189999999999994173549566767178475856781005859375},\"elements\":[],\"isInner\":false},{\"id\":\"e091388\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":75},\"elements\":[{\"id\":\"36759a6\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"216f95e\",\"elType\":\"widget\",\"settings\":{\"title\":\"Reviews\",\"size\":\"xl\",\"header_size\":\"h3\",\"align\":\"center\",\"title_color\":\"#475F7B\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_weight\":\"700\",\"text_shadow_text_shadow\":{\"horizontal\":0,\"vertical\":0,\"blur\":0,\"color\":\"rgba(0,0,0,0.3)\"}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"d106bb8\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"},{\"id\":\"c09f9c5\",\"elType\":\"widget\",\"settings\":{\"breakup\":\"1\",\"rating_count\":\"1\",\"number\":5,\"orderby\":\"highest_rated\"},\"elements\":[],\"widgetType\":\"wplms_elementor_course_reviews\"},{\"id\":\"1e7d426\",\"elType\":\"widget\",\"settings\":{\"space\":{\"unit\":\"px\",\"size\":60,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"spacer\"}],\"isInner\":false},{\"id\":\"f2fbd22\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":12.1730000000000000426325641456060111522674560546875},\"elements\":[],\"isInner\":false}],\"isInner\":false}]",
+        "_elementor_controls_usage": {
+          "wplms_course_info": {
+            "count": 4,
+            "control_percent": 3,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "info": 4,
+                  "element": 4,
+                  "color": 3,
+                  "font_size": 4
+                }
+              },
+              "advanced": {
+                "section_effects": {
+                  "_animation": 2
+                },
+                "_section_style": {
+                  "_css_classes": 3,
+                  "_margin": 1
+                }
+              }
+            }
+          },
+          "column": {
+            "count": 24,
+            "control_percent": 0,
+            "controls": {
+              "layout": {
+                "layout": {
+                  "_inline_size": 24
+                }
+              }
+            }
+          },
+          "wplms_course_button": {
+            "count": 1,
+            "control_percent": 1,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "height": 1,
+                  "radius": 1
+                }
+              }
+            }
+          },
+          "wplms_course_pricing": {
+            "count": 1,
+            "control_percent": 3,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "color": 1,
+                  "font_size": 1
+                }
+              },
+              "advanced": {
+                "_section_style": {
+                  "_padding": 1
+                },
+                "_section_position": {
+                  "_element_width": 1,
+                  "_element_vertical_align": 1
+                }
+              }
+            }
+          },
+          "section": {
+            "count": 9,
+            "control_percent": 0,
+            "controls": {
+              "layout": {
+                "section_structure": {
+                  "structure": 7
+                },
+                "section_layout": {
+                  "stretch_section": 3
+                }
+              },
+              "style": {
+                "section_background": {
+                  "background_background": 3,
+                  "background_color": 3,
+                  "background_color_b": 1
+                },
+                "section_shape_divider": {
+                  "shape_divider_bottom": 1,
+                  "shape_divider_bottom_height": 1,
+                  "shape_divider_bottom_flip": 1
+                }
+              },
+              "advanced": {
+                "section_advanced": {
+                  "margin": 2,
+                  "padding": 1
+                }
+              }
+            }
+          },
+          "wplms_course_featured": {
+            "count": 1,
+            "control_percent": 2,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "align": 1,
+                  "width": 1,
+                  "radius": 1
+                }
+              }
+            }
+          },
+          "spacer": {
+            "count": 13,
+            "control_percent": 1,
+            "controls": {
+              "content": {
+                "section_spacer": {
+                  "space": 13
+                }
+              }
+            }
+          },
+          "heading": {
+            "count": 7,
+            "control_percent": 4,
+            "controls": {
+              "content": {
+                "section_title": {
+                  "title": 7,
+                  "size": 4,
+                  "header_size": 7,
+                  "align": 7
+                }
+              },
+              "style": {
+                "section_title_style": {
+                  "title_color": 7,
+                  "typography_typography": 7,
+                  "typography_font_family": 7,
+                  "typography_font_weight": 7,
+                  "text_shadow_text_shadow": 4,
+                  "typography_font_size": 3,
+                  "typography_text_transform": 3
+                }
+              },
+              "advanced": {
+                "_section_position": {
+                  "_element_width": 3,
+                  "_element_custom_width": 3,
+                  "_element_vertical_align": 3
+                }
+              }
+            }
+          },
+          "wplms_course_instructor_data": {
+            "count": 5,
+            "control_percent": 3,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "data": 5,
+                  "font_size": 4,
+                  "color": 1
+                }
+              },
+              "advanced": {
+                "_section_style": {
+                  "_padding": 3
+                },
+                "_section_position": {
+                  "_element_width": 3,
+                  "_element_custom_width": 3,
+                  "_element_vertical_align": 3
+                }
+              }
+            }
+          },
+          "wplms_course_instructor_field": {
+            "count": 3,
+            "control_percent": 1,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "field_id": 3,
+                  "font-size": 2,
+                  "style": 3
+                }
+              }
+            }
+          },
+          "divider": {
+            "count": 3,
+            "control_percent": 2,
+            "controls": {
+              "content": {
+                "section_divider": {
+                  "align": 3,
+                  "look": 3
+                }
+              },
+              "style": {
+                "section_divider_style": {
+                  "color": 3,
+                  "gap": 3
+                }
+              }
+            }
+          },
+          "wplms_course_curriculum": {
+            "count": 1,
+            "control_percent": 0,
+            "controls": []
+          },
+          "wplms_elementor_course_reviews": {
+            "count": 1,
+            "control_percent": 2,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "breakup": 1,
+                  "rating_count": 1,
+                  "number": 1,
+                  "orderby": 1
+                }
+              }
+            }
+          }
+        }
+      },
+      "terms": []
+    }
+  ],
+  "course-card": [
+    {
+      "type_title": "Course Card",
+      "post_id": 292,
+      "post_title": "default",
+      "post_status": "publish",
+      "post_name": "default",
+      "post_content": "<h2>IOT Security</h2>\t\t\n\t\t\t<strong>\n\t    <small><small style=\"width:0%;\"></small></small></strong>\t\t\n\t\t\tNumber of Students\t\t\n\t\t\t<p>20</p>\t\t\n\t\t\t<p>This course talks about IOPT</p>",
+      "post_excerpt": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_date": "2020-07-01 04:39:56",
+      "post_date_gmt": "2020-07-01 04:39:56",
+      "guid": "https://demos.wplms.io/?post_type=course-card&#038;p=292",
+      "post_mime_type": "",
+      "meta_input": {
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "wp-post",
+        "_elementor_version": "2.9.13",
+        "_wp_page_template": "default",
+        "_elementor_data": "[{\"id\":\"d537c60\",\"elType\":\"section\",\"settings\":{\"structure\":\"21\"},\"elements\":[{\"id\":\"e065d54\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"408ac3b\",\"elType\":\"widget\",\"settings\":{\"align\":\"left\",\"width\":{\"unit\":\"%\",\"size\":420,\"sizes\":[]},\"radius\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_featured\"}],\"isInner\":false},{\"id\":\"7918629\",\"elType\":\"column\",\"settings\":{\"_column_size\":66,\"_inline_size\":null},\"elements\":[{\"id\":\"7dc3ca8\",\"elType\":\"widget\",\"settings\":{\"info\":\"title\",\"element\":\"h2\",\"font_size\":{\"unit\":\"px\",\"size\":40,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"762b931\",\"elType\":\"widget\",\"settings\":{\"info\":\"average_rating\",\"element\":\"div\",\"font_size\":{\"unit\":\"px\",\"size\":16,\"sizes\":[]},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"6621530\",\"elType\":\"widget\",\"settings\":{\"title\":\"Number of Students\",\"header_size\":\"span\",\"align\":\"left\",\"title_color\":\"rgba(26, 26, 26, 0.38)\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Muli\",\"typography_font_size\":{\"unit\":\"px\",\"size\":12,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"20\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"18bc13e\",\"elType\":\"widget\",\"settings\":{\"info\":\"student_count\",\"element\":\"p\",\"font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]},\"_element_width\":\"auto\",\"_element_vertical_align\":\"center\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"wplms_course_info\"},{\"id\":\"fab4544\",\"elType\":\"widget\",\"settings\":{\"info\":\"excerpt\",\"element\":\"p\",\"font_size\":{\"unit\":\"px\",\"size\":14,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"wplms_course_info\"}],\"isInner\":false}],\"isInner\":false}]",
+        "_elementor_controls_usage": {
+          "wplms_course_featured": {
+            "count": 1,
+            "control_percent": 2,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "align": 1,
+                  "width": 1,
+                  "radius": 1
+                }
+              }
+            }
+          },
+          "column": {
+            "count": 2,
+            "control_percent": 0,
+            "controls": {
+              "layout": {
+                "layout": {
+                  "_inline_size": 2
+                }
+              }
+            }
+          },
+          "wplms_course_info": {
+            "count": 4,
+            "control_percent": 2,
+            "controls": {
+              "content": {
+                "content_section": {
+                  "info": 4,
+                  "element": 4,
+                  "font_size": 4
+                }
+              },
+              "advanced": {
+                "_section_position": {
+                  "_element_width": 2,
+                  "_element_vertical_align": 2
+                },
+                "_section_style": {
+                  "_padding": 1
+                }
+              }
+            }
+          },
+          "heading": {
+            "count": 1,
+            "control_percent": 5,
+            "controls": {
+              "content": {
+                "section_title": {
+                  "title": 1,
+                  "header_size": 1,
+                  "align": 1
+                }
+              },
+              "style": {
+                "section_title_style": {
+                  "title_color": 1,
+                  "typography_typography": 1,
+                  "typography_font_family": 1,
+                  "typography_font_size": 1
+                }
+              },
+              "advanced": {
+                "_section_style": {
+                  "_padding": 1
+                },
+                "_section_position": {
+                  "_element_width": 1,
+                  "_element_vertical_align": 1
+                }
+              }
+            }
+          },
+          "section": {
+            "count": 1,
+            "control_percent": 0,
+            "controls": {
+              "layout": {
+                "section_structure": {
+                  "structure": 1
+                }
+              }
+            }
+          }
+        }
+      },
+      "terms": []
+    }
+  ]
+}
