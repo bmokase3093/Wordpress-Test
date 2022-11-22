@@ -24,13 +24,13 @@
 define( 'DB_NAME', 'fundanis_wp16' );
 
 /** MySQL database username */
-define( 'DB_USER', 'fundanis_wp16' );
+define( 'DB_USER', 'wordpress' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '(pY6u4)S9H' );
+define( 'DB_PASSWORD', 'password' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'wordpress2.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
