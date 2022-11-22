@@ -42,9 +42,9 @@ define( 'DB_COLLATE', '' );
         define('JWT_AUTH_SECRET_KEY', 'uInz6984AzdHWkgzglkKbB6EcqOfhx8CkVmlbFnAvvYP7L6QaMWSUkBiiQBy');
 
 
-define('WP_HOME','http://3.90.252.142');
-define('WP_SITEURL','http://3.90.252.142');
-define('RELOCATE',true)
+// define('WP_HOME','http://3.90.252.142');
+// define('WP_SITEURL','http://3.90.252.142');
+// define('RELOCATE',true)
 /**#@+
  * Authentication Unique Keys and Salts.
  *
