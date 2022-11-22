@@ -1,0 +1,43 @@
+0000.003 () Opened log file at time: Sun, 20 Mar 2022 17:47:02 +0000 on https://sasria.fundanisa.com
+0000.004 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.48.25 WP: 5.9.2 PHP: 7.4.28 (litespeed, Linux c02.tmdcloud.asia 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) MySQL: 10.2.43-MariaDB-cll-lve WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 90.9M | 94M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.037 () Free space on disk containing Updraft's temporary directory: 56367.9 MB
+0000.054 () Restore setup, now closing connection and starting restore over AJAX.
+0000.001 () Opened log file at time: Sun, 20 Mar 2022 17:47:04 +0000 on https://sasria.fundanisa.com
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.48.25 WP: 5.9.2 PHP: 7.4.28 (litespeed, Linux c02.tmdcloud.asia 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) MySQL: 10.2.43-MariaDB-cll-lve WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 87.3M | 90M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.042 () Free space on disk containing Updraft's temporary directory: 56363.6 MB
+0000.057 () Ensuring WP_Filesystem is setup for a restore
+0000.063 () WP_Filesystem is setup and ready for a restore
+0000.067 () Restore job started. Entities to restore: plugins. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.075 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.077 () Entity: plugins
+0000.078 () restore_backup(backup_file=backup_2022-03-19-0030_SASRIA_elearning_9bed52fef8fd-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:55:"/home2/fundanis/sasria.fundanisa.com/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=1)
+0000.078 () Unpacking backup... (backup_2022-03-19-0030_SASRIA_elearning_9bed52fef8fd-plugins.zip, 87.2 MB)
+0000.080 () Unzipping backup_2022-03-19-0030_SASRIA_elearning_9bed52fef8fd-plugins.zip to /home2/fundanis/sasria.fundanisa.com/wp-content/upgrade/61c01395/ using UpdraftPlus_ZipArchive, starting index 0
+0020.124 () Unzip progress: 2863 out of 19694 files (11.3 KB, plugins/bbpress/includes/admin/assets/css/admin-rtl.css)
+0024.673 () Unzip progress: 3864 out of 19694 files (12 MB, plugins/bbpress/includes/admin/assets/css/admin-rtl.min.css)
+0029.176 () Unzip progress: 4865 out of 19694 files (24.7 MB, plugins/buddypress/bp-core/js/vendor/moment-js/locale/he.js)
+0036.691 () Unzip progress: 5866 out of 19694 files (46.3 MB, plugins/elementor/assets/images/logo-icon.png)
+0042.162 () Unzip progress: 6867 out of 19694 files (57.5 MB, plugins/h5p/h5p-editor-php-library/ckeditor/skins/bootstrapck/images/hidpi/refresh.png)
+0050.129 () Unzip progress: 7868 out of 19694 files (76.5 MB, plugins/mycred/freemius/includes/sdk/Exceptions/InvalidArgumentException.php)
+0054.669 () Unzip progress: 8869 out of 19694 files (86.7 MB, plugins/revslider/public/assets/assets/svg/busy-icons-svg/pin.svg)
+0058.264 () Unzip progress: 9870 out of 19694 files (97.2 MB, plugins/updraftplus/addons/backblaze.php)
+0064.257 () Unzip progress: 10871 out of 19694 files (110.3 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Plugin/CurlAuth/composer.json)
+0068.465 () Unzip progress: 11872 out of 19694 files (123.9 MB, plugins/vibebp/includes/class.settings.php)
+0075.423 () Unzip progress: 12873 out of 19694 files (139.1 MB, plugins/wp-piwik/languages/wp-piwik-fr_FR.mo)
+0090.754 () Unzip progress: 13647 out of 19694 files (181.3 MB, plugins/wplms_plugin/assets/js/jspdf.es.min.js)
+0096.413 () Unzip progress: 14648 out of 19694 files (195.7 MB, plugins/wp-mail-smtp/assets/vue/img/gmail.svg)
+0101.102 () Unzip progress: 15649 out of 19694 files (205.3 MB, plugins/wp-mail-smtp/vendor_prefixed/sendinblue/api-v3-sdk/lib/Model/PostSendFailed.php)
+0105.768 () Unzip progress: 16650 out of 19694 files (218.8 MB, plugins/wp-mail-smtp-pro/vendor_prefixed/guzzlehttp/guzzle/src/MessageFormatter.php)
+0110.646 () Unzip progress: 17651 out of 19694 files (233.6 MB, plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js)
+0113.180 () Unzip progress: 18652 out of 19694 files (237.3 MB, plugins/woocommerce/packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Start_Dropshipping_Business.php)
+0116.772 () Unzip progress: 19653 out of 19694 files (246.9 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/module_replacements/dashicon.js)
+0117.399 () Unzip progress: 19694 out of 19694 files (246.9 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/icons/library/check-payment.js)
+0117.417 () Moving old data: filesystem method / updraft_dir is potentially possible
+0117.419 () Moving old data: can potentially use wp_filesystem method / -old
+0117.420 () Moving old data out of the way...
+0118.703 () Top-level entities being moved: bigbluebutton, jwt-authentication-for-wp-rest-api, lh-buddypress-export-xprofile-data, revslider, updraftplus, vibe-bbb, vibe-earnings, vibe-helpdesk, vibe-zoom, vibebp, wp-piwik, wplms-coauthors-plus, wplms-customizer, wplms-pdf-certificates, wplms_plugin, index.php, monit.php, mplugin.php, classic-editor, wp-mail-smtp-pro, bbpress, co-authors-plus, duplicate-page, export-user-data, h5p, loco-translate, bdthemes-prime-slider-lite, mycred, sina-extension-for-elementor, users-customers-import-export-for-wp-woocommerce, wp-force-ssl, wp-file-manager, wplms-h5p-plugin, wplms-mycred-addon, wp-fastest-cache, woocommerce, wpforms-lite, wp-mail-smtp, elementor, buddypress
+0118.715 () Moving unpacked backup into place...
+0119.159 () Top-level entities being moved: bbpress, bdthemes-prime-slider-lite, bigbluebutton, buddypress, classic-editor, co-authors-plus, duplicate-page, elementor, export-user-data, h5p, jwt-authentication-for-wp-rest-api, lh-buddypress-export-xprofile-data, loco-translate, mycred, revslider, sina-extension-for-elementor, updraftplus, users-customers-import-export-for-wp-woocommerce, vibe-bbb, vibe-earnings, vibe-helpdesk, vibe-zoom, vibebp, woocommerce, wp-fastest-cache, wp-file-manager, wp-force-ssl, wp-mail-smtp, wp-mail-smtp-pro, wp-piwik, wpforms-lite, wplms-coauthors-plus, wplms-customizer, wplms-h5p-plugin, wplms-mycred-addon, wplms-pdf-certificates, wplms_plugin, mplugin.php, monit.php, index.php
+0119.169 () Cleaning up rubbish...
+0120.211 () Restore successful!
+0120.211 () Restore successful

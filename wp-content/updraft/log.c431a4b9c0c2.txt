@@ -1,0 +1,1015 @@
+0000.005 (0) Opened log file at time: Fri, 18 Mar 2022 01:21:02 +0000 on https://sasria.fundanisa.com
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.48.25 WP: 5.9.2 PHP: 7.4.28 (litespeed, Linux c02.tmdcloud.asia 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) MySQL: 10.2.43-MariaDB-cll-lve WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 19.4M | 22M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.069 (0) Free space on disk containing Updraft's temporary directory: 55885.3 MB
+0000.072 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.074 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.079 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1647476871, seconds_ago=89591)
+0000.083 (0) Set semaphore last lock (fd) time to 2022-03-18 01:21:02
+0000.085 (0) Semaphore lock (fd) complete
+0000.090 (0) Backup run: resumption=0, nonce=c431a4b9c0c2, file_nonce=c431a4b9c0c2 begun at=1647566462 (0s ago), job type=backup
+0000.093 (0) Scheduling a resumption (1) after 300 seconds (1647566762) in case this run gets aborted
+0000.129 (0) Checking if we have a zip executable available
+0000.131 (0) Testing: /usr/bin/zip
+0000.150 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.152 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.154 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.155 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.157 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.168 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.170 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.206 (0) Working binary zip found: /usr/bin/zip
+0000.209 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.211 (0) Creation of backups of directories: beginning
+0000.218 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.452 (0) Total entities for the zip file: 2862 directories, 16832 files (0 skipped as non-modified), 246.9 MB
+0005.455 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.839 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 0.70 MB
+0005.843 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 100 files added (on-disk size: 668.4 KB)
+0005.847 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 200 files added (on-disk size: 668.4 KB)
+0005.849 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 300 files added (on-disk size: 668.4 KB)
+0005.852 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 400 files added (on-disk size: 668.4 KB)
+0005.855 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 500 files added (on-disk size: 668.4 KB)
+0005.858 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 600 files added (on-disk size: 668.4 KB)
+0005.861 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 700 files added (on-disk size: 668.4 KB)
+0005.863 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 800 files added (on-disk size: 668.4 KB)
+0005.866 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 900 files added (on-disk size: 668.4 KB)
+0005.868 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1000 files added (on-disk size: 668.4 KB)
+0005.869 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12 MB, 16832 files batched, 1001 (1002) added so far); re-opening (prior size: 668.4 KB)
+0009.416 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 4.00 MB
+0009.421 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1100 files added (on-disk size: 4053.7 KB)
+0009.425 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1200 files added (on-disk size: 4053.7 KB)
+0009.428 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1300 files added (on-disk size: 4053.7 KB)
+0009.430 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1400 files added (on-disk size: 4053.7 KB)
+0009.433 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1500 files added (on-disk size: 4053.7 KB)
+0009.436 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1600 files added (on-disk size: 4053.7 KB)
+0009.438 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1700 files added (on-disk size: 4053.7 KB)
+0009.441 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1800 files added (on-disk size: 4053.7 KB)
+0009.443 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 1900 files added (on-disk size: 4053.7 KB)
+0009.447 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2000 files added (on-disk size: 4053.7 KB)
+0009.448 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.7 MB, 16832 files batched, 1001 (2003) added so far); re-opening (prior size: 4053.7 KB)
+0015.644 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 7.20 MB
+0015.649 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2100 files added (on-disk size: 7390.9 KB)
+0015.652 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2200 files added (on-disk size: 7390.9 KB)
+0015.655 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2300 files added (on-disk size: 7390.9 KB)
+0015.658 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2400 files added (on-disk size: 7390.9 KB)
+0015.662 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2500 files added (on-disk size: 7390.9 KB)
+0015.665 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2600 files added (on-disk size: 7390.9 KB)
+0015.668 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2700 files added (on-disk size: 7390.9 KB)
+0015.672 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2800 files added (on-disk size: 7390.9 KB)
+0015.675 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 2900 files added (on-disk size: 7390.9 KB)
+0015.679 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3000 files added (on-disk size: 7390.9 KB)
+0015.680 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (21.6 MB, 16832 files batched, 1001 (3004) added so far); re-opening (prior size: 7390.9 KB)
+0022.844 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 13.70 MB
+0022.849 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3100 files added (on-disk size: 14043.5 KB)
+0022.852 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3200 files added (on-disk size: 14043.5 KB)
+0022.854 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3300 files added (on-disk size: 14043.5 KB)
+0022.857 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3400 files added (on-disk size: 14043.5 KB)
+0022.859 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3500 files added (on-disk size: 14043.5 KB)
+0022.862 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3600 files added (on-disk size: 14043.5 KB)
+0022.865 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3700 files added (on-disk size: 14043.5 KB)
+0022.868 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3800 files added (on-disk size: 14043.5 KB)
+0022.870 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 3900 files added (on-disk size: 14043.5 KB)
+0022.873 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4000 files added (on-disk size: 14043.5 KB)
+0022.874 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.2 MB, 16832 files batched, 1001 (4005) added so far); re-opening (prior size: 14043.5 KB)
+0033.295 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 18.60 MB
+0033.302 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4100 files added (on-disk size: 19039.3 KB)
+0033.305 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4200 files added (on-disk size: 19039.3 KB)
+0033.308 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4300 files added (on-disk size: 19039.3 KB)
+0033.311 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4400 files added (on-disk size: 19039.3 KB)
+0033.314 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4500 files added (on-disk size: 19039.3 KB)
+0033.316 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4600 files added (on-disk size: 19039.3 KB)
+0033.319 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4700 files added (on-disk size: 19039.3 KB)
+0033.322 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4800 files added (on-disk size: 19039.3 KB)
+0033.325 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 4900 files added (on-disk size: 19039.3 KB)
+0033.327 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5000 files added (on-disk size: 19039.3 KB)
+0033.329 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19 MB, 16832 files batched, 1001 (5006) added so far); re-opening (prior size: 19039.3 KB)
+0043.368 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 25.70 MB
+0043.373 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5100 files added (on-disk size: 26266.9 KB)
+0043.375 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5200 files added (on-disk size: 26266.9 KB)
+0043.378 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5300 files added (on-disk size: 26266.9 KB)
+0043.381 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5400 files added (on-disk size: 26266.9 KB)
+0043.384 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5500 files added (on-disk size: 26266.9 KB)
+0043.387 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5600 files added (on-disk size: 26266.9 KB)
+0043.389 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5700 files added (on-disk size: 26266.9 KB)
+0043.392 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5800 files added (on-disk size: 26266.9 KB)
+0043.395 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 5900 files added (on-disk size: 26266.9 KB)
+0043.397 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6000 files added (on-disk size: 26266.9 KB)
+0043.399 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.2 MB, 16832 files batched, 1001 (6007) added so far); re-opening (prior size: 26266.9 KB)
+0052.747 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6100 files added (on-disk size: 30812.5 KB)
+0052.750 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6200 files added (on-disk size: 30812.5 KB)
+0052.753 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6300 files added (on-disk size: 30812.5 KB)
+0052.755 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6400 files added (on-disk size: 30812.5 KB)
+0052.758 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6500 files added (on-disk size: 30812.5 KB)
+0052.761 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6600 files added (on-disk size: 30812.5 KB)
+0052.763 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6700 files added (on-disk size: 30812.5 KB)
+0052.766 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6800 files added (on-disk size: 30812.5 KB)
+0052.768 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 6900 files added (on-disk size: 30812.5 KB)
+0052.771 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7000 files added (on-disk size: 30812.5 KB)
+0052.773 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.5 MB, 16832 files batched, 1001 (7008) added so far); re-opening (prior size: 30812.5 KB)
+0061.794 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7100 files added (on-disk size: 34243.5 KB)
+0061.798 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7200 files added (on-disk size: 34243.5 KB)
+0061.802 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7300 files added (on-disk size: 34243.5 KB)
+0061.809 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7400 files added (on-disk size: 34243.5 KB)
+0061.814 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7500 files added (on-disk size: 34243.5 KB)
+0061.820 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7600 files added (on-disk size: 34243.5 KB)
+0061.824 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7700 files added (on-disk size: 34243.5 KB)
+0061.827 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7800 files added (on-disk size: 34243.5 KB)
+0061.832 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 7900 files added (on-disk size: 34243.5 KB)
+0061.837 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8000 files added (on-disk size: 34243.5 KB)
+0061.839 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.2 MB, 16832 files batched, 1001 (8009) added so far); re-opening (prior size: 34243.5 KB)
+0068.634 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8100 files added (on-disk size: 38802.5 KB)
+0068.637 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8200 files added (on-disk size: 38802.5 KB)
+0068.640 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8300 files added (on-disk size: 38802.5 KB)
+0068.643 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8400 files added (on-disk size: 38802.5 KB)
+0068.645 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8500 files added (on-disk size: 38802.5 KB)
+0068.649 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8600 files added (on-disk size: 38802.5 KB)
+0068.652 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8700 files added (on-disk size: 38802.5 KB)
+0068.655 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8800 files added (on-disk size: 38802.5 KB)
+0068.658 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 8900 files added (on-disk size: 38802.5 KB)
+0068.662 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9000 files added (on-disk size: 38802.5 KB)
+0068.664 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.6 MB, 16832 files batched, 1001 (9010) added so far); re-opening (prior size: 38802.5 KB)
+0074.814 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9100 files added (on-disk size: 43522.3 KB)
+0074.818 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9200 files added (on-disk size: 43522.3 KB)
+0074.820 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9300 files added (on-disk size: 43522.3 KB)
+0074.823 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9400 files added (on-disk size: 43522.3 KB)
+0074.826 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9500 files added (on-disk size: 43522.3 KB)
+0074.828 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9600 files added (on-disk size: 43522.3 KB)
+0074.831 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9700 files added (on-disk size: 43522.3 KB)
+0074.834 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9800 files added (on-disk size: 43522.3 KB)
+0074.836 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 9900 files added (on-disk size: 43522.3 KB)
+0074.839 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10000 files added (on-disk size: 43522.3 KB)
+0074.840 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.3 MB, 16832 files batched, 1001 (10011) added so far); re-opening (prior size: 43522.3 KB)
+0086.549 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10100 files added (on-disk size: 50618.2 KB)
+0086.554 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10200 files added (on-disk size: 50618.2 KB)
+0086.558 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.1 MB, 16832 files batched, 285 (10296) added so far); re-opening (prior size: 50618.2 KB)
+0103.755 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: size is now: 62.90 MB
+0103.759 (0) A useful amount of data was added after this amount of zip processing: 17.8 s (normalised: 17.8 s, rate: 1437.8 KB/s)
+0103.761 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10300 files added (on-disk size: 64388.6 KB)
+0103.763 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10400 files added (on-disk size: 64388.6 KB)
+0103.766 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10500 files added (on-disk size: 64388.6 KB)
+0103.768 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10600 files added (on-disk size: 64388.6 KB)
+0103.771 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10700 files added (on-disk size: 64388.6 KB)
+0103.773 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10800 files added (on-disk size: 64388.6 KB)
+0103.776 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 10900 files added (on-disk size: 64388.6 KB)
+0103.777 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.3 MB, 16832 files batched, 629 (10925) added so far); re-opening (prior size: 64388.6 KB)
+0115.391 (0) A useful amount of data was added after this amount of zip processing: 12.5 s (normalised: 12.3 s, rate: 2075 KB/s)
+0115.396 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11000 files added (on-disk size: 72214.6 KB)
+0115.400 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11100 files added (on-disk size: 72214.6 KB)
+0115.404 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11200 files added (on-disk size: 72214.6 KB)
+0115.406 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11300 files added (on-disk size: 72214.6 KB)
+0115.409 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11400 files added (on-disk size: 72214.6 KB)
+0115.412 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11500 files added (on-disk size: 72214.6 KB)
+0115.414 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11600 files added (on-disk size: 72214.6 KB)
+0115.418 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11700 files added (on-disk size: 72214.6 KB)
+0115.421 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11800 files added (on-disk size: 72214.6 KB)
+0115.424 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 11900 files added (on-disk size: 72214.6 KB)
+0115.426 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8 MB, 16832 files batched, 1001 (11926) added so far); re-opening (prior size: 72214.6 KB)
+0124.723 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12000 files added (on-disk size: 75096 KB)
+0124.726 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12100 files added (on-disk size: 75096 KB)
+0124.729 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12200 files added (on-disk size: 75096 KB)
+0124.731 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12300 files added (on-disk size: 75096 KB)
+0124.734 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12400 files added (on-disk size: 75096 KB)
+0124.736 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12500 files added (on-disk size: 75096 KB)
+0124.739 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12600 files added (on-disk size: 75096 KB)
+0124.741 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12700 files added (on-disk size: 75096 KB)
+0124.744 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12800 files added (on-disk size: 75096 KB)
+0124.747 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 12900 files added (on-disk size: 75096 KB)
+0124.748 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.8 MB, 16832 files batched, 1001 (12927) added so far); re-opening (prior size: 75096 KB)
+0130.275 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13000 files added (on-disk size: 78250.7 KB)
+0130.279 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13100 files added (on-disk size: 78250.7 KB)
+0130.283 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13200 files added (on-disk size: 78250.7 KB)
+0130.287 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13300 files added (on-disk size: 78250.7 KB)
+0130.291 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13400 files added (on-disk size: 78250.7 KB)
+0130.296 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13500 files added (on-disk size: 78250.7 KB)
+0130.300 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13600 files added (on-disk size: 78250.7 KB)
+0130.304 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13700 files added (on-disk size: 78250.7 KB)
+0130.308 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13800 files added (on-disk size: 78250.7 KB)
+0130.316 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 13900 files added (on-disk size: 78250.7 KB)
+0130.318 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.3 MB, 16832 files batched, 1001 (13928) added so far); re-opening (prior size: 78250.7 KB)
+0135.226 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14000 files added (on-disk size: 80547.9 KB)
+0135.229 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14100 files added (on-disk size: 80547.9 KB)
+0135.232 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14200 files added (on-disk size: 80547.9 KB)
+0135.235 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14300 files added (on-disk size: 80547.9 KB)
+0135.237 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14400 files added (on-disk size: 80547.9 KB)
+0135.240 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14500 files added (on-disk size: 80547.9 KB)
+0135.243 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14600 files added (on-disk size: 80547.9 KB)
+0135.246 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14700 files added (on-disk size: 80547.9 KB)
+0135.249 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14800 files added (on-disk size: 80547.9 KB)
+0135.252 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 14900 files added (on-disk size: 80547.9 KB)
+0135.253 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.5 MB, 16832 files batched, 1001 (14929) added so far); re-opening (prior size: 80547.9 KB)
+0145.927 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15000 files added (on-disk size: 85261.3 KB)
+0145.931 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15100 files added (on-disk size: 85261.3 KB)
+0145.935 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15200 files added (on-disk size: 85261.3 KB)
+0145.938 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15300 files added (on-disk size: 85261.3 KB)
+0145.942 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15400 files added (on-disk size: 85261.3 KB)
+0145.953 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15500 files added (on-disk size: 85261.3 KB)
+0145.958 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15600 files added (on-disk size: 85261.3 KB)
+0145.963 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15700 files added (on-disk size: 85261.3 KB)
+0145.968 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15800 files added (on-disk size: 85261.3 KB)
+0145.973 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 15900 files added (on-disk size: 85261.3 KB)
+0145.975 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3.5 MB, 16832 files batched, 1001 (15930) added so far); re-opening (prior size: 85261.3 KB)
+0150.156 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16000 files added (on-disk size: 86835.7 KB)
+0150.159 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16100 files added (on-disk size: 86835.7 KB)
+0150.162 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16200 files added (on-disk size: 86835.7 KB)
+0150.165 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16300 files added (on-disk size: 86835.7 KB)
+0150.168 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16400 files added (on-disk size: 86835.7 KB)
+0150.171 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16500 files added (on-disk size: 86835.7 KB)
+0150.174 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16600 files added (on-disk size: 86835.7 KB)
+0150.177 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16700 files added (on-disk size: 86835.7 KB)
+0150.180 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip.tmp: 16800 files added (on-disk size: 86835.7 KB)
+0156.540 (0) Created plugins zip (0) - 89314.9 KB in 156.3 s (571.5 KB/s) (sha1: e4914cbf7cec2c00d5ba3e83f9a5a9243463ace7, sha256: 08aa011e4a388cc5fcaaea6c826833c44500c9f2622cdb2975a6fff260f5bbc3)
+0156.543 (0) Beginning creation of dump of themes (split every: 400 MB)
+0156.770 (0) Total entities for the zip file: 193 directories, 1039 files (0 skipped as non-modified), 25.2 MB
+0156.774 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0156.778 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0156.783 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0156.788 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0156.796 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0156.799 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0156.803 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0156.806 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0156.810 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0156.813 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0156.816 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (25 MB, 1039 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0158.539 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip.tmp: size is now: 10.70 MB
+0158.718 (0) Created themes zip (0) - 11177.1 KB in 2.1 s (5201.8 KB/s) (sha1: 8e8901f9398c585e73f40272c34b98c863d657c6, sha256: f7123c5647ec2c3bcfffc6a17ad782ee64988c719d7e5615130a75b342185546)
+0158.722 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0158.723 (0) Looking for candidates to backup in: /home2/fundanis/sasria.fundanisa.com/wp-content/uploads
+0158.725 (0) finding files: 2014: adding to list (1)
+0158.726 (0) finding files: 2015: adding to list (2)
+0158.727 (0) finding files: 2017: adding to list (3)
+0158.728 (0) finding files: 2018: adding to list (4)
+0158.730 (0) finding files: 2019: adding to list (5)
+0158.731 (0) finding files: 2020: adding to list (6)
+0158.732 (0) finding files: 2021: adding to list (7)
+0158.733 (0) finding files: avatars: adding to list (8)
+0158.734 (0) finding files: custom-css-js: adding to list (9)
+0158.735 (0) finding files: elementor: adding to list (10)
+0158.736 (0) finding files: package_uploads: adding to list (11)
+0158.737 (0) finding files: stats: adding to list (12)
+0158.738 (0) finding files: useanyfont: adding to list (13)
+0158.740 (0) finding files: wc-logs: adding to list (14)
+0158.741 (0) finding files: woocommerce_uploads: adding to list (15)
+0158.742 (0) finding files: wp-file-manager-pro: adding to list (16)
+0158.743 (0) finding files: wpallexport: adding to list (17)
+0158.744 (0) finding files: wpforms: adding to list (18)
+0158.746 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (19)
+0158.747 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (20)
+0158.748 (0) finding files: woocommerce-placeholder-120x120.png: adding to list (21)
+0158.750 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (22)
+0158.752 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (23)
+0158.753 (0) finding files: woocommerce-placeholder-310x310.png: adding to list (24)
+0158.754 (0) finding files: woocommerce-placeholder-460x460.png: adding to list (25)
+0158.755 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (26)
+0158.756 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (27)
+0158.759 (0) finding files: woocommerce-placeholder.png: adding to list (28)
+0158.760 (0) finding files: ithemes-security: adding to list (29)
+0158.762 (0) finding files: 2022: adding to list (30)
+0158.763 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0159.336 (0) Total entities for the zip file: 559 directories, 2730 files (0 skipped as non-modified), 377.9 MB
+0159.339 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0159.343 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0159.346 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 2730 files batched, 273 (273) added so far); re-opening (prior size: 0 KB)
+0161.307 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: size is now: 25.30 MB
+0161.311 (0) A useful amount of data was added after this amount of zip processing: 3.4 s (normalised: 3.4 s, rate: 7527.1 KB/s)
+0161.313 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.4017720222473, normalised_time=3.4010428863136, max_time=161.30701494217, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0162.598 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 300 files added (on-disk size: 25871.6 KB)
+0162.601 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 400 files added (on-disk size: 25871.6 KB)
+0162.608 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 500 files added (on-disk size: 25871.6 KB)
+0162.613 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 600 files added (on-disk size: 25871.6 KB)
+0162.616 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 700 files added (on-disk size: 25871.6 KB)
+0162.620 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 800 files added (on-disk size: 25871.6 KB)
+0162.623 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 900 files added (on-disk size: 25871.6 KB)
+0162.626 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1000 files added (on-disk size: 25871.6 KB)
+0162.629 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1100 files added (on-disk size: 25871.6 KB)
+0162.632 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1200 files added (on-disk size: 25871.6 KB)
+0162.634 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (198.3 MB, 2730 files batched, 1001 (1274) added so far); re-opening (prior size: 25871.6 KB)
+0265.865 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: size is now: 191.00 MB
+0265.870 (0) The scheduled resumption is within 45 seconds - will reschedule
+0265.873 (0) Rescheduling resumption 1: moving to 345 seconds from now (1647567072)
+0265.877 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0265.878 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1300 files added (on-disk size: 195534.2 KB)
+0265.882 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1400 files added (on-disk size: 195534.2 KB)
+0265.884 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1500 files added (on-disk size: 195534.2 KB)
+0265.887 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1600 files added (on-disk size: 195534.2 KB)
+0265.890 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1700 files added (on-disk size: 195534.2 KB)
+0265.892 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1800 files added (on-disk size: 195534.2 KB)
+0265.895 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 1900 files added (on-disk size: 195534.2 KB)
+0265.898 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2000 files added (on-disk size: 195534.2 KB)
+0265.901 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2100 files added (on-disk size: 195534.2 KB)
+0265.904 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2200 files added (on-disk size: 195534.2 KB)
+0265.906 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (115 MB, 2730 files batched, 1001 (2275) added so far); re-opening (prior size: 195534.2 KB)
+0315.885 (0) The time we have been running (315.9) is approaching the resumption interval (345) - increasing resumption interval to 346
+0321.792 (0) The time we have been running (321.8) is approaching the resumption interval (346) - increasing resumption interval to 352
+0323.521 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: size is now: 266.90 MB
+0323.527 (0) The time we have been running (323.5) is approaching the resumption interval (352) - increasing resumption interval to 354
+0323.530 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2300 files added (on-disk size: 273302.5 KB)
+0323.533 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2400 files added (on-disk size: 273302.5 KB)
+0323.535 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2500 files added (on-disk size: 273302.5 KB)
+0323.538 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2600 files added (on-disk size: 273302.5 KB)
+0323.541 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip.tmp: 2700 files added (on-disk size: 273302.5 KB)
+0328.940 (0) The time we have been running (328.9) is approaching the resumption interval (354) - increasing resumption interval to 359
+0337.863 (0) The time we have been running (337.9) is approaching the resumption interval (359) - increasing resumption interval to 368
+0343.290 (0) The time we have been running (343.3) is approaching the resumption interval (368) - increasing resumption interval to 374
+0346.347 (0) The time we have been running (346.3) is approaching the resumption interval (374) - increasing resumption interval to 377
+0349.358 (0) Created uploads zip (0) - 301829.8 KB in 190.6 s (1583.8 KB/s) (sha1: 6856d1e9edfe855125c66ecb13f457070ccabbd6, sha256: 8ae1d6c856483f8c848550b8d92053b9f729f494cb8ec8fd6232644c563feb2d)
+0349.363 (0) Exclusion option setting (wpcore): 
+0349.365 (0) Looking for candidates to backup in: /home2/fundanis/sasria.fundanisa.com
+0349.366 (0) finding files: .quarantine: adding to list (1)
+0349.367 (0) finding files: .tmb: adding to list (2)
+0349.368 (0) finding files: .well-known: adding to list (3)
+0349.370 (0) finding files: cgi-bin: adding to list (4)
+0349.371 (0) finding files: wp-admin: adding to list (5)
+0349.372 (0) finding files: wp-content: skipping: this is the wp-content directory
+0349.373 (0) finding files: wp-includes: adding to list (6)
+0349.374 (0) finding files: .htaccess: adding to list (7)
+0349.376 (0) finding files: .user.ini: adding to list (8)
+0349.377 (0) finding files: 400.shtml: adding to list (9)
+0349.378 (0) finding files: 401.shtml: adding to list (10)
+0349.379 (0) finding files: 403.shtml: adding to list (11)
+0349.381 (0) finding files: 404.shtml: adding to list (12)
+0349.382 (0) finding files: 413.shtml: adding to list (13)
+0349.383 (0) finding files: 500.shtml: adding to list (14)
+0349.384 (0) finding files: cp_errordocument.shtml: adding to list (15)
+0349.386 (0) finding files: error_log: adding to list (16)
+0349.388 (0) finding files: license.txt: adding to list (17)
+0349.390 (0) finding files: php.ini: adding to list (18)
+0349.392 (0) finding files: readme.html: adding to list (19)
+0349.393 (0) finding files: wp-activate.php: adding to list (20)
+0349.395 (0) finding files: wp-blog-header.php: adding to list (21)
+0349.396 (0) finding files: wp-comments-post.php: adding to list (22)
+0349.397 (0) finding files: wp-config-sample.php: adding to list (23)
+0349.399 (0) finding files: wp-config.php: adding to list (24)
+0349.401 (0) finding files: wp-cron.php: adding to list (25)
+0349.402 (0) finding files: wp-links-opml.php: adding to list (26)
+0349.403 (0) finding files: wp-load.php: adding to list (27)
+0349.404 (0) finding files: wp-login.php: adding to list (28)
+0349.406 (0) finding files: wp-mail.php: adding to list (29)
+0349.407 (0) finding files: wp-settings.php: adding to list (30)
+0349.408 (0) finding files: wp-signup.php: adding to list (31)
+0349.410 (0) finding files: wp-trackback.php: adding to list (32)
+0349.411 (0) finding files: xmlrpc.php: adding to list (33)
+0349.412 (0) finding files: index.php: adding to list (34)
+0349.414 (0) Beginning creation of dump of wpcore (split every: 400 MB)
+0350.410 (0) Total entities for the zip file: 235 directories, 2394 files (0 skipped as non-modified), 49.2 MB
+0350.413 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 100 files added (on-disk size: 0 KB)
+0350.416 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 200 files added (on-disk size: 0 KB)
+0350.419 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 300 files added (on-disk size: 0 KB)
+0350.422 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 400 files added (on-disk size: 0 KB)
+0350.425 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 500 files added (on-disk size: 0 KB)
+0350.427 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 600 files added (on-disk size: 0 KB)
+0350.430 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 700 files added (on-disk size: 0 KB)
+0350.433 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 800 files added (on-disk size: 0 KB)
+0350.436 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 900 files added (on-disk size: 0 KB)
+0350.440 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0350.441 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.5 MB, 2394 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0353.665 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: size is now: 3.20 MB
+0353.676 (0) The time we have been running (353.7) is approaching the resumption interval (377) - increasing resumption interval to 384
+0353.681 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1100 files added (on-disk size: 3297.8 KB)
+0353.685 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1200 files added (on-disk size: 3297.8 KB)
+0353.688 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1300 files added (on-disk size: 3297.8 KB)
+0353.692 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1400 files added (on-disk size: 3297.8 KB)
+0353.697 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1500 files added (on-disk size: 3297.8 KB)
+0353.701 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1600 files added (on-disk size: 3297.8 KB)
+0353.705 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1700 files added (on-disk size: 3297.8 KB)
+0353.708 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1800 files added (on-disk size: 3297.8 KB)
+0353.711 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 1900 files added (on-disk size: 3297.8 KB)
+0353.714 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 2000 files added (on-disk size: 3297.8 KB)
+0353.715 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (28 MB, 2394 files batched, 1001 (2002) added so far); re-opening (prior size: 3297.8 KB)
+0359.048 (0) The time we have been running (359) is approaching the resumption interval (384) - increasing resumption interval to 390
+0365.674 (0) The time we have been running (365.7) is approaching the resumption interval (390) - increasing resumption interval to 396
+0368.031 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: size is now: 10.60 MB
+0368.037 (0) The time we have been running (368) is approaching the resumption interval (396) - increasing resumption interval to 399
+0368.042 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 2100 files added (on-disk size: 10864.1 KB)
+0368.046 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 2200 files added (on-disk size: 10864.1 KB)
+0368.048 (0) Zip: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip.tmp: 2300 files added (on-disk size: 10864.1 KB)
+0373.369 (0) The time we have been running (373.4) is approaching the resumption interval (399) - increasing resumption interval to 404
+0373.520 (0) Created wpcore zip (0) - 12807.4 KB in 23.5 s (544.6 KB/s) (sha1: cac4af66451b1a03a23cabbf191d50590778bdbe, sha256: a1e95472245a53ce67912f3305e1cf14b45311c7aa7da7b2d1862f40bbf2e113)
+0373.524 (0) Beginning backup of other directories found in the content directory (index: 0)
+0373.525 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0373.527 (0) Looking for candidates to backup in: /home2/fundanis/sasria.fundanisa.com/wp-content
+0373.528 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0373.529 (0) finding files: plugins: skipping: this is the plugins directory
+0373.530 (0) finding files: themes: skipping: this is the themes directory
+0373.531 (0) finding files: updraft: skipping: this is the updraft directory
+0373.532 (0) finding files: upgrade: skipping: excluded by options
+0373.534 (0) finding files: uploads: skipping: this is the uploads directory
+0373.535 (0) finding files: webtoffee_export: adding to list (1)
+0373.536 (0) finding files: index.php: adding to list (2)
+0373.538 (0) finding files: cache: skipping: excluded by options
+0373.568 (0) Total entities for the zip file: 1 directories, 11 files (0 skipped as non-modified), 0 MB
+0373.586 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-others.zip.tmp: size is now: 0.00 MB
+0373.593 (0) Created others zip (0) - 19.9 KB in 0 s (658.8 KB/s) (sha1: c964b86a0b8226ea5a2da01bc763bd85acac34fe, sha256: 188a86db538a3f4598d981ee651c08ff061efe7b5605cec33bfbf998f16f69fd)
+0373.595 (0) No backup of more: excluded by user's options
+0373.601 (0) Saving backup status to database (elements: 10)
+0373.605 (0) Beginning creation of database dump (WordPress DB)
+0373.607 (0) Couldn't get the sql_mode value (N;)
+0373.609 (0) SQL compatibility mode successfully changed to 
+0373.613 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0373.656 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wpay_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nC (truncated - 1255 bytes total)
+0373.660 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0373.713 (0) Table wpay_options: Total expected rows (approximate): 762
+0373.842 (0) Table wpay_options: Rows added in this batch (next record: 55414): 776 (uncompressed bytes in this segment=2811338) in 0.13 seconds
+0373.852 (0) Table wpay_options: finishing file(s) (2, 295.8 KB)
+0373.862 (0) Table wpay_users: Total expected rows (approximate): 52
+0373.867 (0) Table wpay_users: Rows added in this batch (next record: 114): 57 (uncompressed bytes in this segment=10209) in 0.00 seconds
+0373.873 (0) Table wpay_users: finishing file(s) (2, 4.2 KB)
+0373.879 (0) Table wpay_usermeta: Total expected rows (approximate): 1717
+0373.934 (0) Table wpay_usermeta: Rows added in this batch (next record: 4590): 1830 (uncompressed bytes in this segment=648832) in 0.05 seconds
+0373.944 (0) Table wpay_usermeta: finishing file(s) (2, 69.2 KB)
+0373.949 (0) Table wpay_actionscheduler_actions: Total expected rows (approximate): 61
+0373.959 (0) Table wpay_actionscheduler_actions: Rows added in this batch (next record: 701): 60 (uncompressed bytes in this segment=28700) in 0.01 seconds
+0373.966 (0) Table wpay_actionscheduler_actions: finishing file(s) (2, 2.7 KB)
+0373.970 (0) Table wpay_actionscheduler_claims: Total expected rows (approximate): 0
+0373.974 (0) Table wpay_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+0373.979 (0) Table wpay_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0373.984 (0) Table wpay_actionscheduler_groups: Total expected rows (approximate): 4
+0373.990 (0) Table wpay_actionscheduler_groups: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=797) in 0.00 seconds
+0373.996 (0) Table wpay_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0374.002 (0) Table wpay_actionscheduler_logs: Total expected rows (approximate): 270
+0374.008 (0) Table wpay_actionscheduler_logs: Rows added in this batch (next record: 2008): 172 (uncompressed bytes in this segment=15723) in 0.00 seconds
+0374.017 (0) The time we have been running (374) is approaching the resumption interval (404) - increasing resumption interval to 405
+0374.025 (0) Table wpay_actionscheduler_logs: finishing file(s) (2, 2.1 KB)
+0374.031 (0) Table wpay_commentmeta: Total expected rows (approximate): 8
+0374.034 (0) Table wpay_commentmeta: Rows added in this batch (next record: 12): 10 (uncompressed bytes in this segment=1079) in 0.00 seconds
+0374.039 (0) Table wpay_commentmeta: finishing file(s) (2, 0.5 KB)
+0374.044 (0) Table wpay_comments: Total expected rows (approximate): 3
+0374.048 (0) Table wpay_comments: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=2447) in 0.00 seconds
+0374.053 (0) Table wpay_comments: finishing file(s) (2, 0.8 KB)
+0374.059 (0) Table wpay_links: Total expected rows (approximate): 0
+0374.062 (0) Table wpay_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1318) in 0.00 seconds
+0374.067 (0) Table wpay_links: finishing file(s) (2, 0.5 KB)
+0374.073 (0) Table wpay_postmeta: Total expected rows (approximate): 7403
+0374.588 (0) Table wpay_postmeta: Rows added in this batch (next record: 12533): 8379 (uncompressed bytes in this segment=16054164) in 0.51 seconds
+0375.265 (0) The time we have been running (375.3) is approaching the resumption interval (405) - increasing resumption interval to 406
+0375.267 (0) Table wpay_postmeta: finishing file(s) (2, 1151.4 KB)
+0375.271 (0) Table wpay_posts: Total expected rows (approximate): 1501
+0375.606 (0) Table wpay_posts: Rows added in this batch (next record: 2305): 1540 (uncompressed bytes in this segment=9002179) in 0.33 seconds
+0375.611 (0) Table wpay_posts: finishing file(s) (2, 769.7 KB)
+0375.617 (0) Table wpay_signups: Total expected rows (approximate): 40
+0375.624 (0) Table wpay_signups: Rows added in this batch (next record: 98): 74 (uncompressed bytes in this segment=38331) in 0.01 seconds
+0375.629 (0) Table wpay_signups: finishing file(s) (2, 8.5 KB)
+0375.634 (0) Table wpay_term_relationships: Total expected rows (approximate): 739
+0375.642 (0) Table wpay_term_relationships: Rows added in this batch (next record: 100000): 740 (uncompressed bytes in this segment=12751) in 0.01 seconds
+0375.647 (0) Table wpay_term_relationships: finishing file(s) (2, 2.6 KB)
+0375.652 (0) Table wpay_term_taxonomy: Total expected rows (approximate): 160
+0375.659 (0) Table wpay_term_taxonomy: Rows added in this batch (next record: 283): 173 (uncompressed bytes in this segment=12104) in 0.01 seconds
+0375.664 (0) Table wpay_term_taxonomy: finishing file(s) (2, 2.8 KB)
+0375.670 (0) Table wpay_termmeta: Total expected rows (approximate): 6
+0375.673 (0) Table wpay_termmeta: Rows added in this batch (next record: 16): 6 (uncompressed bytes in this segment=974) in 0.00 seconds
+0375.678 (0) Table wpay_termmeta: finishing file(s) (2, 0.5 KB)
+0375.683 (0) Table wpay_terms: Total expected rows (approximate): 160
+0375.688 (0) Table wpay_terms: Rows added in this batch (next record: 283): 173 (uncompressed bytes in this segment=9986) in 0.00 seconds
+0375.696 (0) Table wpay_terms: finishing file(s) (2, 2.4 KB)
+0375.702 (0) Table wpay_wc_category_lookup: Total expected rows (approximate): 0
+0375.705 (0) Table wpay_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=603) in 0.00 seconds
+0375.711 (0) Table wpay_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0375.719 (0) Table wpay_wc_product_meta_lookup: Total expected rows (approximate): 0
+0375.724 (0) Table wpay_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1361) in 0.00 seconds
+0375.732 (0) Table wpay_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0375.737 (0) Table wpay_wc_reserved_stock: Total expected rows (approximate): 0
+0375.739 (0) Table wpay_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=675) in 0.00 seconds
+0375.744 (0) Table wpay_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0375.748 (0) Table wpay_wc_tax_rate_classes: Total expected rows (approximate): 2
+0375.751 (0) Table wpay_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=826) in 0.00 seconds
+0375.756 (0) Table wpay_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0375.762 (0) Table wpay_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0375.765 (0) Table wpay_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=796) in 0.00 seconds
+0375.772 (0) Table wpay_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0375.777 (0) Table wpay_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0375.780 (0) Table wpay_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=823) in 0.00 seconds
+0375.785 (0) Table wpay_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0375.790 (0) Table wpay_bp_activity: Total expected rows (approximate): 1093
+0375.873 (0) Table wpay_bp_activity: Rows added in this batch (next record: 2442): 1880 (uncompressed bytes in this segment=661713) in 0.08 seconds
+0375.879 (0) Table wpay_bp_activity: finishing file(s) (2, 45 KB)
+0375.885 (0) Table wpay_bp_activity_meta: Total expected rows (approximate): 476
+0376.029 (0) Table wpay_bp_activity_meta: Rows added in this batch (next record: 1006): 746 (uncompressed bytes in this segment=5241807) in 0.14 seconds
+0376.034 (0) The time we have been running (376) is approaching the resumption interval (406) - increasing resumption interval to 407
+0376.039 (0) Table wpay_bp_activity_meta: finishing file(s) (2, 359.6 KB)
+0376.053 (0) Table wpay_bp_friends: Total expected rows (approximate): 0
+0376.056 (0) Table wpay_bp_friends: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=704) in 0.00 seconds
+0376.061 (0) Table wpay_bp_friends: finishing file(s) (2, 0.4 KB)
+0376.066 (0) Table wpay_bp_groups: Total expected rows (approximate): 0
+0376.070 (0) Table wpay_bp_groups: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=944) in 0.00 seconds
+0376.076 (0) Table wpay_bp_groups: finishing file(s) (2, 0.4 KB)
+0376.081 (0) Table wpay_bp_groups_groupmeta: Total expected rows (approximate): 0
+0376.085 (0) Table wpay_bp_groups_groupmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=712) in 0.00 seconds
+0376.089 (0) Table wpay_bp_groups_groupmeta: finishing file(s) (2, 0.4 KB)
+0376.095 (0) Table wpay_bp_groups_members: Total expected rows (approximate): 0
+0376.098 (0) Table wpay_bp_groups_members: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1149) in 0.00 seconds
+0376.103 (0) Table wpay_bp_groups_members: finishing file(s) (2, 0.5 KB)
+0376.109 (0) Table wpay_bp_invitations: Total expected rows (approximate): 0
+0376.113 (0) Table wpay_bp_invitations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1300) in 0.00 seconds
+0376.119 (0) Table wpay_bp_invitations: finishing file(s) (2, 0.5 KB)
+0376.125 (0) Table wpay_bp_messages_messages: Total expected rows (approximate): 271
+0376.141 (0) Table wpay_bp_messages_messages: Rows added in this batch (next record: 450): 450 (uncompressed bytes in this segment=135473) in 0.01 seconds
+0376.146 (0) Table wpay_bp_messages_messages: finishing file(s) (2, 7.2 KB)
+0376.155 (0) Table wpay_bp_messages_meta: Total expected rows (approximate): 0
+0376.159 (0) Table wpay_bp_messages_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=700) in 0.00 seconds
+0376.166 (0) Table wpay_bp_messages_meta: finishing file(s) (2, 0.4 KB)
+0376.170 (0) Table wpay_bp_messages_notices: Total expected rows (approximate): 0
+0376.174 (0) Table wpay_bp_messages_notices: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.00 seconds
+0376.179 (0) Table wpay_bp_messages_notices: finishing file(s) (2, 0.4 KB)
+0376.185 (0) Table wpay_bp_messages_recipients: Total expected rows (approximate): 398
+0376.197 (0) Table wpay_bp_messages_recipients: Rows added in this batch (next record: 752): 752 (uncompressed bytes in this segment=19886) in 0.01 seconds
+0376.202 (0) Table wpay_bp_messages_recipients: finishing file(s) (2, 4.3 KB)
+0376.207 (0) Table wpay_bp_notifications: Total expected rows (approximate): 455
+0376.219 (0) Table wpay_bp_notifications: Rows added in this batch (next record: 630): 497 (uncompressed bytes in this segment=38165) in 0.01 seconds
+0376.224 (0) Table wpay_bp_notifications: finishing file(s) (2, 5.3 KB)
+0376.229 (0) Table wpay_bp_notifications_meta: Total expected rows (approximate): 0
+0376.232 (0) Table wpay_bp_notifications_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.00 seconds
+0376.236 (0) Table wpay_bp_notifications_meta: finishing file(s) (2, 0.4 KB)
+0376.243 (0) Table wpay_bp_optouts: Total expected rows (approximate): 0
+0376.246 (0) Table wpay_bp_optouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=738) in 0.00 seconds
+0376.250 (0) Table wpay_bp_optouts: finishing file(s) (2, 0.4 KB)
+0376.256 (0) Table wpay_bp_xprofile_data: Total expected rows (approximate): 173
+0376.262 (0) Table wpay_bp_xprofile_data: Rows added in this batch (next record: 444): 211 (uncompressed bytes in this segment=11907) in 0.00 seconds
+0376.267 (0) Table wpay_bp_xprofile_data: finishing file(s) (2, 3.3 KB)
+0376.272 (0) Table wpay_bp_xprofile_fields: Total expected rows (approximate): 12
+0376.276 (0) Table wpay_bp_xprofile_fields: Rows added in this batch (next record: 41): 11 (uncompressed bytes in this segment=2111) in 0.00 seconds
+0376.281 (0) Table wpay_bp_xprofile_fields: finishing file(s) (2, 0.8 KB)
+0376.285 (0) Table wpay_bp_xprofile_groups: Total expected rows (approximate): 4
+0376.290 (0) Table wpay_bp_xprofile_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=895) in 0.00 seconds
+0376.295 (0) Table wpay_bp_xprofile_groups: finishing file(s) (2, 0.5 KB)
+0376.300 (0) Table wpay_bp_xprofile_meta: Total expected rows (approximate): 19
+0376.304 (0) Table wpay_bp_xprofile_meta: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1746) in 0.00 seconds
+0376.310 (0) Table wpay_bp_xprofile_meta: finishing file(s) (2, 0.6 KB)
+0376.317 (0) Table wpay_h5p_contents: Total expected rows (approximate): 0
+0376.320 (0) Table wpay_h5p_contents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1828) in 0.00 seconds
+0376.325 (0) Table wpay_h5p_contents: finishing file(s) (2, 0.5 KB)
+0376.334 (0) Table wpay_h5p_contents_libraries: Total expected rows (approximate): 0
+0376.338 (0) Table wpay_h5p_contents_libraries: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=737) in 0.00 seconds
+0376.343 (0) Table wpay_h5p_contents_libraries: finishing file(s) (2, 0.4 KB)
+0376.351 (0) Table wpay_h5p_contents_tags: Total expected rows (approximate): 0
+0376.354 (0) Table wpay_h5p_contents_tags: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=513) in 0.00 seconds
+0376.358 (0) Table wpay_h5p_contents_tags: finishing file(s) (2, 0.3 KB)
+0376.364 (0) Table wpay_h5p_contents_user_data: Total expected rows (approximate): 0
+0376.367 (0) Table wpay_h5p_contents_user_data: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=915) in 0.00 seconds
+0376.374 (0) Table wpay_h5p_contents_user_data: finishing file(s) (2, 0.4 KB)
+0376.379 (0) Table wpay_h5p_counters: Total expected rows (approximate): 0
+0376.384 (0) Table wpay_h5p_counters: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=662) in 0.00 seconds
+0376.389 (0) Table wpay_h5p_counters: finishing file(s) (2, 0.4 KB)
+0376.399 (0) Table wpay_h5p_events: Total expected rows (approximate): 0
+0376.403 (0) Table wpay_h5p_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=890) in 0.00 seconds
+0376.408 (0) Table wpay_h5p_events: finishing file(s) (2, 0.4 KB)
+0376.425 (0) Table wpay_h5p_libraries: Total expected rows (approximate): 0
+0376.429 (0) Table wpay_h5p_libraries: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1696) in 0.00 seconds
+0376.436 (0) Table wpay_h5p_libraries: finishing file(s) (2, 0.6 KB)
+0376.442 (0) Table wpay_h5p_libraries_cachedassets: Total expected rows (approximate): 0
+0376.445 (0) Table wpay_h5p_libraries_cachedassets: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=589) in 0.00 seconds
+0376.449 (0) Table wpay_h5p_libraries_cachedassets: finishing file(s) (2, 0.3 KB)
+0376.454 (0) Table wpay_h5p_libraries_hub_cache: Total expected rows (approximate): 0
+0376.457 (0) Table wpay_h5p_libraries_hub_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1780) in 0.00 seconds
+0376.463 (0) Table wpay_h5p_libraries_hub_cache: finishing file(s) (2, 0.5 KB)
+0376.469 (0) Table wpay_h5p_libraries_languages: Total expected rows (approximate): 0
+0376.472 (0) Table wpay_h5p_libraries_languages: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=651) in 0.00 seconds
+0376.477 (0) Table wpay_h5p_libraries_languages: finishing file(s) (2, 0.3 KB)
+0376.485 (0) Table wpay_h5p_libraries_libraries: Total expected rows (approximate): 0
+0376.488 (0) Table wpay_h5p_libraries_libraries: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+0376.493 (0) Table wpay_h5p_libraries_libraries: finishing file(s) (2, 0.3 KB)
+0376.501 (0) Table wpay_h5p_results: Total expected rows (approximate): 0
+0376.504 (0) Table wpay_h5p_results: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.00 seconds
+0376.510 (0) Table wpay_h5p_results: finishing file(s) (2, 0.4 KB)
+0376.515 (0) Table wpay_h5p_tags: Total expected rows (approximate): 0
+0376.518 (0) Table wpay_h5p_tags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=473) in 0.00 seconds
+0376.523 (0) Table wpay_h5p_tags: finishing file(s) (2, 0.3 KB)
+0376.528 (0) Table wpay_h5p_tmpfiles: Total expected rows (approximate): 0
+0376.532 (0) Table wpay_h5p_tmpfiles: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=575) in 0.00 seconds
+0376.537 (0) Table wpay_h5p_tmpfiles: finishing file(s) (2, 0.4 KB)
+0376.542 (0) Table wpay_ms_snippets: Total expected rows (approximate): 0
+0376.546 (0) Table wpay_ms_snippets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=936) in 0.00 seconds
+0376.551 (0) Table wpay_ms_snippets: finishing file(s) (2, 0.4 KB)
+0376.557 (0) Table wpay_myCRED_log: Total expected rows (approximate): 0
+0376.561 (0) Table wpay_myCRED_log: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1421) in 0.00 seconds
+0376.565 (0) Table wpay_myCRED_log: finishing file(s) (2, 0.6 KB)
+0376.570 (0) Table wpay_pmxe_exports: Total expected rows (approximate): 0
+0376.574 (0) Table wpay_pmxe_exports: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1419) in 0.00 seconds
+0376.579 (0) Table wpay_pmxe_exports: finishing file(s) (2, 0.5 KB)
+0376.584 (0) Table wpay_pmxe_google_cats: Total expected rows (approximate): 5512
+0376.661 (0) Table wpay_pmxe_google_cats: Rows added in this batch (next record: 505832): 5371 (uncompressed bytes in this segment=327601) in 0.08 seconds
+0376.667 (0) Table wpay_pmxe_google_cats: finishing file(s) (2, 75.4 KB)
+0376.673 (0) Table wpay_pmxe_posts: Total expected rows (approximate): 0
+0376.680 (0) Table wpay_pmxe_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=557) in 0.01 seconds
+0376.688 (0) Table wpay_pmxe_posts: finishing file(s) (2, 0.3 KB)
+0376.694 (0) Table wpay_pmxe_templates: Total expected rows (approximate): 0
+0376.697 (0) Table wpay_pmxe_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=590) in 0.00 seconds
+0376.703 (0) Table wpay_pmxe_templates: finishing file(s) (2, 0.4 KB)
+0376.709 (0) Table wpay_revslider_css: Total expected rows (approximate): 109
+0376.721 (0) Table wpay_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=91271) in 0.01 seconds
+0376.729 (0) Table wpay_revslider_css: finishing file(s) (2, 4.9 KB)
+0376.734 (0) Table wpay_revslider_css_bkp: Total expected rows (approximate): 47
+0376.742 (0) Table wpay_revslider_css_bkp: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=15600) in 0.01 seconds
+0376.748 (0) Table wpay_revslider_css_bkp: finishing file(s) (2, 1.8 KB)
+0376.752 (0) Table wpay_revslider_layer_animations: Total expected rows (approximate): 0
+0376.759 (0) Table wpay_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=690) in 0.00 seconds
+0376.764 (0) Table wpay_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0376.769 (0) Table wpay_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0376.772 (0) Table wpay_revslider_layer_animations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=714) in 0.00 seconds
+0376.776 (0) Table wpay_revslider_layer_animations_bkp: finishing file(s) (2, 0.3 KB)
+0376.782 (0) Table wpay_revslider_navigations: Total expected rows (approximate): 0
+0376.785 (0) Table wpay_revslider_navigations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+0376.789 (0) Table wpay_revslider_navigations: finishing file(s) (2, 0.4 KB)
+0376.795 (0) Table wpay_revslider_navigations_bkp: Total expected rows (approximate): 0
+0376.798 (0) Table wpay_revslider_navigations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=884) in 0.00 seconds
+0376.806 (0) Table wpay_revslider_navigations_bkp: finishing file(s) (2, 0.4 KB)
+0376.812 (0) Table wpay_revslider_sliders: Total expected rows (approximate): 0
+0376.816 (0) Table wpay_revslider_sliders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.00 seconds
+0376.821 (0) Table wpay_revslider_sliders: finishing file(s) (2, 0.4 KB)
+0376.826 (0) Table wpay_revslider_sliders_bkp: Total expected rows (approximate): 0
+0376.830 (0) Table wpay_revslider_sliders_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=805) in 0.00 seconds
+0376.842 (0) Table wpay_revslider_sliders_bkp: finishing file(s) (2, 0.4 KB)
+0376.847 (0) Table wpay_revslider_slides: Total expected rows (approximate): 0
+0376.855 (0) Table wpay_revslider_slides: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.00 seconds
+0376.859 (0) Table wpay_revslider_slides: finishing file(s) (2, 0.4 KB)
+0376.865 (0) Table wpay_revslider_slides_bkp: Total expected rows (approximate): 0
+0376.868 (0) Table wpay_revslider_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=734) in 0.00 seconds
+0376.873 (0) Table wpay_revslider_slides_bkp: finishing file(s) (2, 0.4 KB)
+0376.879 (0) Table wpay_revslider_static_slides: Total expected rows (approximate): 0
+0376.882 (0) Table wpay_revslider_static_slides: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=707) in 0.00 seconds
+0376.888 (0) Table wpay_revslider_static_slides: finishing file(s) (2, 0.3 KB)
+0376.895 (0) Table wpay_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0376.900 (0) Table wpay_revslider_static_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.00 seconds
+0376.907 (0) Table wpay_revslider_static_slides_bkp: finishing file(s) (2, 0.4 KB)
+0376.912 (0) Table wpay_snippets: Total expected rows (approximate): 5
+0376.918 (0) Table wpay_snippets: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=3446) in 0.00 seconds
+0376.924 (0) Table wpay_snippets: finishing file(s) (2, 1.2 KB)
+0376.930 (0) Table wpay_wc_admin_note_actions: Total expected rows (approximate): 9
+0376.934 (0) Table wpay_wc_admin_note_actions: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=2437) in 0.00 seconds
+0376.939 (0) Table wpay_wc_admin_note_actions: finishing file(s) (2, 1 KB)
+0376.944 (0) Table wpay_wc_admin_notes: Total expected rows (approximate): 8
+0376.947 (0) Table wpay_wc_admin_notes: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=5359) in 0.00 seconds
+0376.954 (0) Table wpay_wc_admin_notes: finishing file(s) (2, 1.9 KB)
+0376.959 (0) Table wpay_wc_customer_lookup: Total expected rows (approximate): 0
+0376.962 (0) Table wpay_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1278) in 0.00 seconds
+0376.967 (0) Table wpay_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0376.971 (0) Table wpay_wc_download_log: Total expected rows (approximate): 0
+0376.975 (0) Table wpay_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=942) in 0.00 seconds
+0376.982 (0) Table wpay_wc_download_log: finishing file(s) (2, 0.5 KB)
+0376.992 (0) Table wpay_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0376.996 (0) Table wpay_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=727) in 0.00 seconds
+0377.004 (0) Table wpay_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0377.014 (0) Table wpay_wc_order_product_lookup: Total expected rows (approximate): 0
+0377.018 (0) Table wpay_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1227) in 0.00 seconds
+0377.025 (0) The time we have been running (377) is approaching the resumption interval (407) - increasing resumption interval to 408
+0377.029 (0) Table wpay_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0377.035 (0) Table wpay_wc_order_stats: Total expected rows (approximate): 0
+0377.038 (0) Table wpay_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1122) in 0.00 seconds
+0377.043 (0) Table wpay_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0377.048 (0) Table wpay_wc_order_tax_lookup: Total expected rows (approximate): 0
+0377.051 (0) Table wpay_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=805) in 0.00 seconds
+0377.058 (0) Table wpay_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0377.065 (0) Table wpay_wc_webhooks: Total expected rows (approximate): 0
+0377.068 (0) Table wpay_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1238) in 0.00 seconds
+0377.074 (0) Table wpay_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0377.079 (0) Table wpay_woocommerce_api_keys: Total expected rows (approximate): 0
+0377.082 (0) Table wpay_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.00 seconds
+0377.089 (0) Table wpay_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0377.095 (0) Table wpay_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0377.098 (0) Table wpay_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=971) in 0.00 seconds
+0377.102 (0) Table wpay_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0377.106 (0) Table wpay_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0377.113 (0) Table wpay_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1546) in 0.01 seconds
+0377.118 (0) Table wpay_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0377.123 (0) Table wpay_woocommerce_log: Total expected rows (approximate): 0
+0377.127 (0) Table wpay_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.00 seconds
+0377.131 (0) Table wpay_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0377.135 (0) Table wpay_woocommerce_order_items: Total expected rows (approximate): 0
+0377.138 (0) Table wpay_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=751) in 0.00 seconds
+0377.144 (0) Table wpay_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0377.150 (0) Table wpay_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0377.154 (0) Table wpay_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=849) in 0.00 seconds
+0377.159 (0) Table wpay_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0377.164 (0) Table wpay_woocommerce_sessions: Total expected rows (approximate): 1
+0377.167 (0) Table wpay_woocommerce_sessions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=748) in 0.00 seconds
+0377.172 (0) Table wpay_woocommerce_sessions: finishing file(s) (2, 0.4 KB)
+0377.177 (0) Table wpay_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0377.180 (0) Table wpay_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=886) in 0.00 seconds
+0377.185 (0) Table wpay_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0377.190 (0) Table wpay_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0377.193 (0) Table wpay_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=785) in 0.00 seconds
+0377.198 (0) Table wpay_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0377.204 (0) Table wpay_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0377.207 (0) Table wpay_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=645) in 0.00 seconds
+0377.212 (0) Table wpay_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0377.217 (0) Table wpay_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0377.221 (0) Table wpay_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+0377.225 (0) Table wpay_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0377.231 (0) Table wpay_woocommerce_tax_rates: Total expected rows (approximate): 0
+0377.235 (0) Table wpay_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1309) in 0.00 seconds
+0377.240 (0) Table wpay_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0377.250 (0) Table wpay_wpaie_file_manager: Total expected rows (approximate): 0
+0377.255 (0) Table wpay_wpaie_file_manager: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=971) in 0.00 seconds
+0377.262 (0) Table wpay_wpaie_file_manager: finishing file(s) (2, 0.4 KB)
+0377.269 (0) Table wpay_wpfm_backup: Total expected rows (approximate): 0
+0377.275 (0) Table wpay_wpfm_backup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=552) in 0.00 seconds
+0377.279 (0) Table wpay_wpfm_backup: finishing file(s) (2, 0.3 KB)
+0377.284 (0) Table wpay_wpforms_entries: Total expected rows (approximate): 2
+0377.290 (0) Table wpay_wpforms_entries: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=9676) in 0.00 seconds
+0377.295 (0) Table wpay_wpforms_entries: finishing file(s) (2, 1.4 KB)
+0377.300 (0) Table wpay_wpforms_entry_fields: Total expected rows (approximate): 46
+0377.304 (0) Table wpay_wpforms_entry_fields: Rows added in this batch (next record: 46): 46 (uncompressed bytes in this segment=3680) in 0.00 seconds
+0377.309 (0) Table wpay_wpforms_entry_fields: finishing file(s) (2, 1 KB)
+0377.314 (0) Table wpay_wpforms_entry_meta: Total expected rows (approximate): 0
+0377.317 (0) Table wpay_wpforms_entry_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=956) in 0.00 seconds
+0377.322 (0) Table wpay_wpforms_entry_meta: finishing file(s) (2, 0.5 KB)
+0377.328 (0) Table wpay_wpforms_tasks_meta: Total expected rows (approximate): 17
+0377.332 (0) Table wpay_wpforms_tasks_meta: Rows added in this batch (next record: 117): 117 (uncompressed bytes in this segment=9645) in 0.00 seconds
+0377.337 (0) Table wpay_wpforms_tasks_meta: finishing file(s) (2, 1.7 KB)
+0377.342 (0) Table wpay_wpmailsmtp_debug_events: Total expected rows (approximate): 19
+0377.345 (0) Table wpay_wpmailsmtp_debug_events: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=5924) in 0.00 seconds
+0377.352 (0) Table wpay_wpmailsmtp_debug_events: finishing file(s) (2, 1.1 KB)
+0377.357 (0) Table wpay_wpmailsmtp_tasks_meta: Total expected rows (approximate): 28
+0377.362 (0) Table wpay_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=4489) in 0.00 seconds
+0377.367 (0) Table wpay_wpmailsmtp_tasks_meta: finishing file(s) (2, 1 KB)
+0377.374 (0) Table wpay_wt_iew_action_history: Total expected rows (approximate): 5
+0377.378 (0) Table wpay_wt_iew_action_history: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=21368) in 0.00 seconds
+0377.383 (0) Table wpay_wt_iew_action_history: finishing file(s) (2, 2 KB)
+0377.389 (0) Table wpay_wt_iew_cron: Total expected rows (approximate): 0
+0377.393 (0) Table wpay_wt_iew_cron: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=817) in 0.00 seconds
+0377.398 (0) Table wpay_wt_iew_cron: finishing file(s) (2, 0.4 KB)
+0377.403 (0) Table wpay_wt_iew_ftp: Total expected rows (approximate): 0
+0377.407 (0) Table wpay_wt_iew_ftp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.00 seconds
+0377.413 (0) Table wpay_wt_iew_ftp: finishing file(s) (2, 0.4 KB)
+0377.420 (0) Table wpay_wt_iew_mapping_template: Total expected rows (approximate): 0
+0377.425 (0) Table wpay_wt_iew_mapping_template: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=4482) in 0.00 seconds
+0377.430 (0) Table wpay_wt_iew_mapping_template: finishing file(s) (2, 1.2 KB)
+0377.432 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_options.table.tmpr55415.gz (1/107): adding to final database dump
+0377.500 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_options.table.gz (2/107): adding to final database dump
+0377.502 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_users.table.tmpr115.gz (3/107): adding to final database dump
+0377.504 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_users.table.gz (4/107): adding to final database dump
+0377.505 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_usermeta.table.tmpr4591.gz (5/107): adding to final database dump
+0377.522 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_usermeta.table.gz (6/107): adding to final database dump
+0377.523 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_actions.table.tmpr702.gz (7/107): adding to final database dump
+0377.525 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_actions.table.gz (8/107): adding to final database dump
+0377.527 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_claims.table.tmpr0.gz (9/107): adding to final database dump
+0377.529 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_claims.table.gz (10/107): adding to final database dump
+0377.530 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_groups.table.tmpr6.gz (11/107): adding to final database dump
+0377.531 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_groups.table.gz (12/107): adding to final database dump
+0377.532 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_logs.table.tmpr2009.gz (13/107): adding to final database dump
+0377.537 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_actionscheduler_logs.table.gz (14/107): adding to final database dump
+0377.539 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_commentmeta.table.tmpr13.gz (15/107): adding to final database dump
+0377.545 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_commentmeta.table.gz (16/107): adding to final database dump
+0377.546 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_comments.table.tmpr8.gz (17/107): adding to final database dump
+0377.548 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_comments.table.gz (18/107): adding to final database dump
+0377.550 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_links.table.tmpr0.gz (19/107): adding to final database dump
+0377.551 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_links.table.gz (20/107): adding to final database dump
+0377.552 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_postmeta.table.tmpr12534.gz (21/107): adding to final database dump
+0377.834 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_postmeta.table.gz (22/107): adding to final database dump
+0377.836 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_posts.table.tmpr2306.gz (23/107): adding to final database dump
+0378.027 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_posts.table.gz (24/107): adding to final database dump
+0378.029 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_signups.table.tmpr99.gz (25/107): adding to final database dump
+0378.033 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_signups.table.gz (26/107): adding to final database dump
+0378.035 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_term_relationships.table.tmpr100001.gz (27/107): adding to final database dump
+0378.037 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_term_relationships.table.gz (28/107): adding to final database dump
+0378.039 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_term_taxonomy.table.tmpr284.gz (29/107): adding to final database dump
+0378.040 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_term_taxonomy.table.gz (30/107): adding to final database dump
+0378.042 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_termmeta.table.tmpr17.gz (31/107): adding to final database dump
+0378.043 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_termmeta.table.gz (32/107): adding to final database dump
+0378.044 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_terms.table.tmpr284.gz (33/107): adding to final database dump
+0378.047 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_terms.table.gz (34/107): adding to final database dump
+0378.048 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_category_lookup.table.tmpr1001.gz (35/107): adding to final database dump
+0378.050 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_category_lookup.table.gz (36/107): adding to final database dump
+0378.052 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_product_meta_lookup.table.tmpr0.gz (37/107): adding to final database dump
+0378.054 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_product_meta_lookup.table.gz (38/107): adding to final database dump
+0378.056 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_reserved_stock.table.tmpr1.gz (39/107): adding to final database dump
+0378.058 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_reserved_stock.table.gz (40/107): adding to final database dump
+0378.059 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_tax_rate_classes.table.tmpr3.gz (41/107): adding to final database dump
+0378.060 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_tax_rate_classes.table.gz (42/107): adding to final database dump
+0378.061 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_order_itemmeta.table.tmpr0.gz (43/107): adding to final database dump
+0378.062 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_order_itemmeta.table.gz (44/107): adding to final database dump
+0378.064 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_payment_tokenmeta.table.tmpr0.gz (45/107): adding to final database dump
+0378.065 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_payment_tokenmeta.table.gz (46/107): adding to final database dump
+0378.066 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_activity.table.tmpr2443.gz (47/107): adding to final database dump
+0378.079 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_activity.table.gz (48/107): adding to final database dump
+0378.081 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_activity_meta.table.tmpr1007.gz (49/107): adding to final database dump
+0378.179 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_activity_meta.table.gz (50/107): adding to final database dump
+0378.181 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_friends.table.tmpr0.gz (51/107): adding to final database dump
+0378.182 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_friends.table.gz (52/107): adding to final database dump
+0378.184 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_groups.table.tmpr0.gz (53/107): adding to final database dump
+0378.185 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_groups.table.gz (54/107): adding to final database dump
+0378.186 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_groups_groupmeta.table.tmpr0.gz (55/107): adding to final database dump
+0378.188 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_groups_groupmeta.table.gz (56/107): adding to final database dump
+0378.189 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_groups_members.table.tmpr0.gz (57/107): adding to final database dump
+0378.192 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_groups_members.table.gz (58/107): adding to final database dump
+0378.193 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_invitations.table.tmpr0.gz (59/107): adding to final database dump
+0378.195 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_invitations.table.gz (60/107): adding to final database dump
+0378.196 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_messages.table.tmpr451.gz (61/107): adding to final database dump
+0378.199 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_messages.table.gz (62/107): adding to final database dump
+0378.201 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_meta.table.tmpr0.gz (63/107): adding to final database dump
+0378.202 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_meta.table.gz (64/107): adding to final database dump
+0378.204 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_notices.table.tmpr0.gz (65/107): adding to final database dump
+0378.205 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_notices.table.gz (66/107): adding to final database dump
+0378.206 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_recipients.table.tmpr753.gz (67/107): adding to final database dump
+0378.209 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_messages_recipients.table.gz (68/107): adding to final database dump
+0378.210 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_notifications.table.tmpr631.gz (69/107): adding to final database dump
+0378.214 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_notifications.table.gz (70/107): adding to final database dump
+0378.216 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_notifications_meta.table.tmpr0.gz (71/107): adding to final database dump
+0378.217 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_notifications_meta.table.gz (72/107): adding to final database dump
+0378.218 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_optouts.table.tmpr0.gz (73/107): adding to final database dump
+0378.220 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_optouts.table.gz (74/107): adding to final database dump
+0378.222 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_data.table.tmpr445.gz (75/107): adding to final database dump
+0378.225 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_data.table.gz (76/107): adding to final database dump
+0378.226 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_fields.table.tmpr42.gz (77/107): adding to final database dump
+0378.228 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_fields.table.gz (78/107): adding to final database dump
+0378.229 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_groups.table.tmpr5.gz (79/107): adding to final database dump
+0378.230 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_groups.table.gz (80/107): adding to final database dump
+0378.232 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_meta.table.tmpr20.gz (81/107): adding to final database dump
+0378.234 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_bp_xprofile_meta.table.gz (82/107): adding to final database dump
+0378.236 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents.table.tmpr0.gz (83/107): adding to final database dump
+0378.238 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents.table.gz (84/107): adding to final database dump
+0378.239 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents_libraries.table.tmpr1.gz (85/107): adding to final database dump
+0378.240 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents_libraries.table.gz (86/107): adding to final database dump
+0378.242 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents_tags.table.tmpr1.gz (87/107): adding to final database dump
+0378.244 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents_tags.table.gz (88/107): adding to final database dump
+0378.246 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents_user_data.table.tmpr1.gz (89/107): adding to final database dump
+0378.247 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_contents_user_data.table.gz (90/107): adding to final database dump
+0378.250 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_counters.table.tmpr1.gz (91/107): adding to final database dump
+0378.251 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_counters.table.gz (92/107): adding to final database dump
+0378.253 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_events.table.tmpr0.gz (93/107): adding to final database dump
+0378.254 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_events.table.gz (94/107): adding to final database dump
+0378.256 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries.table.tmpr0.gz (95/107): adding to final database dump
+0378.257 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries.table.gz (96/107): adding to final database dump
+0378.259 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_cachedassets.table.tmpr1.gz (97/107): adding to final database dump
+0378.260 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_cachedassets.table.gz (98/107): adding to final database dump
+0378.262 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_hub_cache.table.tmpr0.gz (99/107): adding to final database dump
+0378.268 (0) The time we have been running (378.3) is approaching the resumption interval (408) - increasing resumption interval to 409
+0378.272 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_hub_cache.table.gz (100/107): adding to final database dump
+0378.273 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_languages.table.tmpr1.gz (101/107): adding to final database dump
+0378.274 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_languages.table.gz (102/107): adding to final database dump
+0378.276 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_libraries.table.tmpr1.gz (103/107): adding to final database dump
+0378.277 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_libraries_libraries.table.gz (104/107): adding to final database dump
+0378.279 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_results.table.tmpr0.gz (105/107): adding to final database dump
+0378.281 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_results.table.gz (106/107): adding to final database dump
+0378.282 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_tags.table.tmpr0.gz (107/107): adding to final database dump
+0378.284 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_tags.table.gz (108/107): adding to final database dump
+0378.288 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_tmpfiles.table.tmpr0.gz (109/107): adding to final database dump
+0378.289 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_h5p_tmpfiles.table.gz (110/107): adding to final database dump
+0378.290 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_ms_snippets.table.tmpr0.gz (111/107): adding to final database dump
+0378.292 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_ms_snippets.table.gz (112/107): adding to final database dump
+0378.293 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_myCRED_log.table.tmpr2.gz (113/107): adding to final database dump
+0378.294 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_myCRED_log.table.gz (114/107): adding to final database dump
+0378.296 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_exports.table.tmpr0.gz (115/107): adding to final database dump
+0378.298 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_exports.table.gz (116/107): adding to final database dump
+0378.299 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_google_cats.table.tmpr505833.gz (117/107): adding to final database dump
+0378.328 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_google_cats.table.gz (118/107): adding to final database dump
+0378.329 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_posts.table.tmpr0.gz (119/107): adding to final database dump
+0378.331 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_posts.table.gz (120/107): adding to final database dump
+0378.332 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_templates.table.tmpr0.gz (121/107): adding to final database dump
+0378.333 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_pmxe_templates.table.gz (122/107): adding to final database dump
+0378.335 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_css.table.tmpr110.gz (123/107): adding to final database dump
+0378.338 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_css.table.gz (124/107): adding to final database dump
+0378.339 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_css_bkp.table.tmpr48.gz (125/107): adding to final database dump
+0378.343 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_css_bkp.table.gz (126/107): adding to final database dump
+0378.344 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_layer_animations.table.tmpr0.gz (127/107): adding to final database dump
+0378.346 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_layer_animations.table.gz (128/107): adding to final database dump
+0378.347 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_layer_animations_bkp.table.tmpr0.gz (129/107): adding to final database dump
+0378.349 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_layer_animations_bkp.table.gz (130/107): adding to final database dump
+0378.350 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_navigations.table.tmpr0.gz (131/107): adding to final database dump
+0378.351 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_navigations.table.gz (132/107): adding to final database dump
+0378.352 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_navigations_bkp.table.tmpr0.gz (133/107): adding to final database dump
+0378.353 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_navigations_bkp.table.gz (134/107): adding to final database dump
+0378.354 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_sliders.table.tmpr0.gz (135/107): adding to final database dump
+0378.355 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_sliders.table.gz (136/107): adding to final database dump
+0378.357 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_sliders_bkp.table.tmpr0.gz (137/107): adding to final database dump
+0378.358 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_sliders_bkp.table.gz (138/107): adding to final database dump
+0378.359 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_slides.table.tmpr0.gz (139/107): adding to final database dump
+0378.360 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_slides.table.gz (140/107): adding to final database dump
+0378.362 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_slides_bkp.table.tmpr0.gz (141/107): adding to final database dump
+0378.363 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_slides_bkp.table.gz (142/107): adding to final database dump
+0378.364 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_static_slides.table.tmpr0.gz (143/107): adding to final database dump
+0378.366 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_static_slides.table.gz (144/107): adding to final database dump
+0378.367 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_static_slides_bkp.table.tmpr0.gz (145/107): adding to final database dump
+0378.368 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_revslider_static_slides_bkp.table.gz (146/107): adding to final database dump
+0378.370 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_snippets.table.tmpr9.gz (147/107): adding to final database dump
+0378.371 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_snippets.table.gz (148/107): adding to final database dump
+0378.372 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_admin_note_actions.table.tmpr13.gz (149/107): adding to final database dump
+0378.374 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_admin_note_actions.table.gz (150/107): adding to final database dump
+0378.377 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_admin_notes.table.tmpr12.gz (151/107): adding to final database dump
+0378.378 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_admin_notes.table.gz (152/107): adding to final database dump
+0378.379 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_customer_lookup.table.tmpr0.gz (153/107): adding to final database dump
+0378.380 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_customer_lookup.table.gz (154/107): adding to final database dump
+0378.381 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_download_log.table.tmpr0.gz (155/107): adding to final database dump
+0378.383 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_download_log.table.gz (156/107): adding to final database dump
+0378.384 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_coupon_lookup.table.tmpr1.gz (157/107): adding to final database dump
+0378.385 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_coupon_lookup.table.gz (158/107): adding to final database dump
+0378.386 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_product_lookup.table.tmpr0.gz (159/107): adding to final database dump
+0378.388 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_product_lookup.table.gz (160/107): adding to final database dump
+0378.389 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_stats.table.tmpr0.gz (161/107): adding to final database dump
+0378.390 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_stats.table.gz (162/107): adding to final database dump
+0378.391 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_tax_lookup.table.tmpr1.gz (163/107): adding to final database dump
+0378.393 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_order_tax_lookup.table.gz (164/107): adding to final database dump
+0378.394 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_webhooks.table.tmpr0.gz (165/107): adding to final database dump
+0378.395 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wc_webhooks.table.gz (166/107): adding to final database dump
+0378.396 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_api_keys.table.tmpr0.gz (167/107): adding to final database dump
+0378.397 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_api_keys.table.gz (168/107): adding to final database dump
+0378.398 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_attribute_taxonomies.table.tmpr0.gz (169/107): adding to final database dump
+0378.399 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_attribute_taxonomies.table.gz (170/107): adding to final database dump
+0378.400 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_downloadable_product_permissions.table.tmpr0.gz (171/107): adding to final database dump
+0378.402 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_downloadable_product_permissions.table.gz (172/107): adding to final database dump
+0378.403 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_log.table.tmpr0.gz (173/107): adding to final database dump
+0378.404 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_log.table.gz (174/107): adding to final database dump
+0378.405 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_order_items.table.tmpr0.gz (175/107): adding to final database dump
+0378.406 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_order_items.table.gz (176/107): adding to final database dump
+0378.408 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_payment_tokens.table.tmpr0.gz (177/107): adding to final database dump
+0378.409 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_payment_tokens.table.gz (178/107): adding to final database dump
+0378.410 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_sessions.table.tmpr0.gz (179/107): adding to final database dump
+0378.411 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_sessions.table.gz (180/107): adding to final database dump
+0378.412 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_shipping_zone_locations.table.tmpr0.gz (181/107): adding to final database dump
+0378.414 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_shipping_zone_locations.table.gz (182/107): adding to final database dump
+0378.415 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_shipping_zone_methods.table.tmpr0.gz (183/107): adding to final database dump
+0378.416 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_shipping_zone_methods.table.gz (184/107): adding to final database dump
+0378.418 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_shipping_zones.table.tmpr0.gz (185/107): adding to final database dump
+0378.420 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_shipping_zones.table.gz (186/107): adding to final database dump
+0378.421 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_tax_rate_locations.table.tmpr0.gz (187/107): adding to final database dump
+0378.422 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_tax_rate_locations.table.gz (188/107): adding to final database dump
+0378.424 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_tax_rates.table.tmpr0.gz (189/107): adding to final database dump
+0378.425 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_woocommerce_tax_rates.table.gz (190/107): adding to final database dump
+0378.426 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpaie_file_manager.table.tmpr0.gz (191/107): adding to final database dump
+0378.428 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpaie_file_manager.table.gz (192/107): adding to final database dump
+0378.429 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpfm_backup.table.tmpr0.gz (193/107): adding to final database dump
+0378.430 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpfm_backup.table.gz (194/107): adding to final database dump
+0378.431 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_entries.table.tmpr9.gz (195/107): adding to final database dump
+0378.433 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_entries.table.gz (196/107): adding to final database dump
+0378.434 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_entry_fields.table.tmpr47.gz (197/107): adding to final database dump
+0378.436 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_entry_fields.table.gz (198/107): adding to final database dump
+0378.438 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_entry_meta.table.tmpr2.gz (199/107): adding to final database dump
+0378.441 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_entry_meta.table.gz (200/107): adding to final database dump
+0378.442 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_tasks_meta.table.tmpr118.gz (201/107): adding to final database dump
+0378.444 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpforms_tasks_meta.table.gz (202/107): adding to final database dump
+0378.446 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpmailsmtp_debug_events.table.tmpr21.gz (203/107): adding to final database dump
+0378.447 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpmailsmtp_debug_events.table.gz (204/107): adding to final database dump
+0378.448 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpmailsmtp_tasks_meta.table.tmpr48.gz (205/107): adding to final database dump
+0378.450 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wpmailsmtp_tasks_meta.table.gz (206/107): adding to final database dump
+0378.451 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_action_history.table.tmpr9.gz (207/107): adding to final database dump
+0378.453 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_action_history.table.gz (208/107): adding to final database dump
+0378.455 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_cron.table.tmpr0.gz (209/107): adding to final database dump
+0378.456 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_cron.table.gz (210/107): adding to final database dump
+0378.458 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_ftp.table.tmpr0.gz (211/107): adding to final database dump
+0378.459 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_ftp.table.gz (212/107): adding to final database dump
+0378.461 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_mapping_template.table.tmpr2.gz (213/107): adding to final database dump
+0378.462 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db-table-wpay_wt_iew_mapping_template.table.gz (214/107): adding to final database dump
+0378.479 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db.gz: finished writing out complete database file (2816 KB)
+0378.525 (0) Total database tables backed up: 107 (backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db.gz, size: 2900933, sha1: abe1277ae780fe3a2b59b8b6bec88a1e739361f1, sha256: ade20e3b5146f1182dd8cee2d7dd2f4e74d61c0b7c1ebbf0dafd0eaa0098b808)
+0378.532 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0378.533 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0378.535 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0378.536 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip: wpcore: This file has not yet been successfully uploaded: will queue
+0378.538 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-others.zip: others: This file has not yet been successfully uploaded: will queue
+0378.539 (0) backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0378.541 (0) Saving backup history. Total backup size: 408.2 MB
+0378.545 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0378.550 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0378.551 (0) No remote despatch: user chose no remote backup service
+0378.553 (0) Recording as successfully uploaded: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-plugins.zip
+0378.555 (0) Recording as successfully uploaded: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-themes.zip
+0378.558 (0) Recording as successfully uploaded: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-uploads.zip
+0378.560 (0) Recording as successfully uploaded: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-wpcore.zip
+0378.563 (0) Recording as successfully uploaded: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-others.zip
+0378.566 (0) Recording as successfully uploaded: backup_2022-03-18-0121_SASRIA_elearning_c431a4b9c0c2-db.gz
+0378.569 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0378.571 (0) Number of backup sets in history: 3; groups (db): 1
+0378.572 (0) Examining (for databases) backup set with group_id=0, nonce=c431a4b9c0c2, datestamp=1647566462 (Mar 18 2022 01:21:02)
+0378.574 (0) This backup set is the backup set just made, so will not be deleted.
+0378.574 (0) Examining (for databases) backup set with group_id=0, nonce=b99ea993a31d, datestamp=1647476871 (Mar 17 2022 00:27:51)
+0378.574 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.575 (0) Examining (for databases) backup set with group_id=0, nonce=59d69c5f801e, datestamp=1647390617 (Mar 16 2022 00:30:17)
+0378.575 (0) 1647390617: db: this set includes a database (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-db.gz); db count is now 2
+0378.576 (0) 1647390617: db: over retain limit (2); will delete this database
+0378.576 (0) Delete file: backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-db.gz, service=none
+0378.577 (0) Deleting local copy (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-db.gz)
+0378.581 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0378.583 (0) Number of backup sets in history: 3; groups (files): 1
+0378.584 (0) Examining (for files) backup set with nonce=c431a4b9c0c2, datestamp=1647566462 (Mar 18 2022 01:21:02)
+0378.584 (0) This backup set is the backup set just made, so will not be deleted.
+0378.585 (0) This backup set is the backup set just made, so will not be deleted.
+0378.585 (0) This backup set is the backup set just made, so will not be deleted.
+0378.586 (0) This backup set is the backup set just made, so will not be deleted.
+0378.586 (0) This backup set is the backup set just made, so will not be deleted.
+0378.586 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.587 (0) Examining (for files) backup set with nonce=b99ea993a31d, datestamp=1647476871 (Mar 17 2022 00:27:51)
+0378.588 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.588 (0) Examining (for files) backup set with nonce=59d69c5f801e, datestamp=1647390617 (Mar 16 2022 00:30:17)
+0378.588 (0) plugins: over retain limit (2); will delete this file entity
+0378.588 (0) themes: over retain limit (2); will delete this file entity
+0378.588 (0) uploads: over retain limit (2); will delete this file entity
+0378.588 (0) wpcore: over retain limit (2); will delete this file entity
+0378.589 (0) others: over retain limit (2); will delete this file entity
+0378.589 (0) Delete file: backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-plugins.zip, service=none
+0378.590 (0) Deleting local copy (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-plugins.zip)
+0378.608 (0) Delete file: backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-themes.zip, service=none
+0378.610 (0) Deleting local copy (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-themes.zip)
+0378.614 (0) Delete file: backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-uploads.zip, service=none
+0378.616 (0) Deleting local copy (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-uploads.zip)
+0378.723 (0) Delete file: backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-wpcore.zip, service=none
+0378.724 (0) Deleting local copy (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-wpcore.zip)
+0378.728 (0) Delete file: backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-others.zip, service=none
+0378.730 (0) Deleting local copy (backup_2022-03-16-0030_SASRIA_elearning_59d69c5f801e-others.zip)
+0378.737 (0) This backup set is now empty; will remove from history
+0378.738 (0) Deleting log file (log.59d69c5f801e.txt)
+0378.745 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0378.750 (0) Resume backup (c431a4b9c0c2, 0): finish run
+0378.754 (0) Decremented the semaphore (fd) by 1
+0378.756 (0) Semaphore (fd) unlocked
+0378.758 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0378.764 (0) No email will/can be sent - the user has not configured an email address.
+0378.766 (0) The backup apparently succeeded and is now complete
