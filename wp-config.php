@@ -42,8 +42,8 @@ define( 'DB_COLLATE', '' );
         define('JWT_AUTH_SECRET_KEY', 'uInz6984AzdHWkgzglkKbB6EcqOfhx8CkVmlbFnAvvYP7L6QaMWSUkBiiQBy');
 
 
-define('WP_HOME','http://3.90.252.142');
-define('WP_SITEURL','http://3.90.252.142');
+define('WP_HOME','http://3.90.252.142/WordPress');
+define('WP_SITEURL','http://3.90.252.142/WordPress');
 define('RELOCATE',true)
 /**#@+
  * Authentication Unique Keys and Salts.
@@ -54,14 +54,14 @@ define('RELOCATE',true)
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'dsbisux5omkjyxpr8ioap3wncgohibyuqi3wgxrbywi4gdx5dl9g1v3gzef0s5ac' );
-define( 'SECURE_AUTH_KEY',  'x7sj6mwtfyglberm7vq12tntwss75coy4rqiua6diyly35jnjipsmqlied8ghwxy' );
-define( 'LOGGED_IN_KEY',    'tno4nc30jxihrx4f110h11atcxatzxbejcogdvlbaruyjnuwbyq4lxcsbxy2c8jh' );
-define( 'NONCE_KEY',        'h1zkd75puosen3x2yxwihngd8d9fidh58e9fnj22pgf3ylprr6ht7uf5mztg0gor' );
-define( 'AUTH_SALT',        'lzw6chw5hpwjeoenxgex7biimy00c0hzd7fmc4tfxgztyeznupjvkp6kaw2du6wb' );
-define( 'SECURE_AUTH_SALT', 'ztgsguagwf1how1vfo4zjeuzn6cg3kesu9095jzdd4c9yt4wxkdonl3xtsib7dxk' );
-define( 'LOGGED_IN_SALT',   'ouc2le375vzw24hitn5h4blme8wh06bs2hzxs0ulibq65q4mgcqkgezanqk2hy6s' );
-define( 'NONCE_SALT',       'qkqu20rgab6qffgg3iev75v1gcsdwvloqhobqorkexwxew8anqclcozkxxa8ja86' );
+define('AUTH_KEY',         'V61+ry,Kexy-Srg|WpV^R.Kdn&)uvZV@PIwbP=aexb.vH*Q+w=2t6pq1IYl,q!{.');
+define('SECURE_AUTH_KEY',  'c 6o5R+wR=$uECznqu&9dYh->FWozHxJ5-<m5k~tHhQ)RzLQT2  :!$l0lc2?k|)');
+define('LOGGED_IN_KEY',    '$[`=dM79O$p*GOhXej:@>;i~i_3@=n/vs3|nO{[<-:jaRg,$Rz8|k~~W..WID4Z1');
+define('NONCE_KEY',        '+?jr- j>OYe2}v%pufa)E&-N.( -|s5):MMEhS7L-.D.KK<-iV+c`.LH+NFQZM%o');
+define('AUTH_SALT',        'Z@Mf{KK2B*;2GyVAeh$%-&Gp9,P`-%Xh+lDsj]GHc)6AL~/2ujNx}#5a--&<oJ-N');
+define('SECURE_AUTH_SALT', '^>RO+M_cH}-|#Hm+Db(+v|J>~Y0X++69.wD;}>Sz?v%oOKK?x;LAe+4-lH6QvL~O');
+define('LOGGED_IN_SALT',   '51j;sTiP/M`K)^cDi!C9XL~B0;8mQ6hnS1K-8`#9wJF-}cN[l`F=)3?ru#scGFr9');
+define('NONCE_SALT',       'n[*v/ ?my-h i:Feg5$0!;<@_ U:`<z:]8=sS1k31.ucU#[Hgp:H>b;yt|1!f_D(');
 
 /**#@-*/
 
