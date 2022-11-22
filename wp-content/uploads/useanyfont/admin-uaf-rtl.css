@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'helvetica';
+					src: url('/wp-content/uploads/useanyfont/5939helvetica.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5939helvetica.woff') format('woff');
+				}
+
+				.helvetica{font-family: 'helvetica' !important;}
+
+				.et_gf_helvetica{background:none !important;font-family:helvetica;text-indent:0 !important;font-size:25px;}
+
+		

@@ -1,0 +1,3 @@
+ID,customer_id,user_login,user_pass,user_nicename,user_email,user_registered,display_name,first_name,last_name,user_status,roles
+37,37,ann.steyn@kingprice.co.za,$P$BrWO3WCVsZxq0Rr7pdx6.M9wL7fBe10,ann-steynkingprice-co-za,ann.steyn@kingprice.co.za,"2021-06-18 12:35:29",ann.steyn@kingprice.co.za,,,,student
+46,46,EnverSlinger,$P$BNaUbvM8us570kyzUUr0zrBhYJPaPo0,enverslinger,enver.slinger@aig.com,"2021-06-22 07:10:45",Enver,Enver,,,"student, bbp_participant"
