@@ -44,6 +44,7 @@ define( 'DB_COLLATE', '' );
 
 define('WP_HOME','http://3.90.252.142');
 define('WP_SITEURL','http://3.90.252.142');
+define('RELOCATE',true)
 /**#@+
  * Authentication Unique Keys and Salts.
  *
