@@ -63,7 +63,7 @@ function get_bp_email_content_plaintext( $content = '', $property = 'content_pla
 add_action('wp_footer', function(){
 ?>
 <style>
-@import url('test-lms-568825012.us-east-1.elb.amazonaws.comwp-content/uploads/2021/07/Helvetica.ttf');
+@import url('test-lms-568825012.us-east-1.elb.amazonaws.com/wp-content/uploads/2021/07/Helvetica.ttf');
 </style>
 <?php
 });
