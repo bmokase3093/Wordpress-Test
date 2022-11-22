@@ -1,0 +1,1981 @@
+* 1.9.0.1
+* leader board load more not working fix
+* my courses perpage customizable now
+* assignment upload remarks not showing as proper links in messges to student fix
+* quiz end date not removing fix
+* upload package not working fix
+* php 8.1 fix
+* single certificate js fix
+* php error fix
+* build files
+* 1.9.0
+* translations updated
+* warning message fixes
+* attributes passing in gutenberg blocks
+* updated npm modules
+* translation files updated
+* minor bug ifxes
+* leaderboard pagination issue fix
+* realted courses block
+* return true added in permission callbacks
+* course schema added
+* fix for desc default order in my and manager courses
+* 1.8.9.4
+* php notice fixes
+* fix for search by email not working in course admin
+* my manage courses default orderby and order in lms settings
+* edt post check
+* media privacy not working fix
+* php 8 error fix
+* course progress js erro fix
+* 1.8.9.3
+* widgets fixes
+* adding user id prarameter for addons
+* h5p quiz finish not assigning gamification badge fix
+* 1.8.9.2
+* build files
+* assigned quizzes not showing assigned number fix
+* stats search and alphbetical sort not working fix
+* add provision to show comment from new to old in course_review shortcode
+* commissions not working when wplms theme not active fix
+* hide complete button until all units finished
+* elementor js css enqueing in wrong order causing issues on all pages
+* 1.8.9.1
+* comments fix and print results not working fix
+* sell content to capture user ID
+* single course page title issue with other themes fix
+* select dropdown modified to select on click on input
+* rmove console log
+* esc_attr
+* minor fixes
+* error fix
+* delete option from setting
+* delete course provision
+* escape formdata post from service worker
+* 1.8.9
+* check forum privacy for helpdesk
+* user tips in notes and discussion to check user names on avatars
+* retaining the one marks more than expected passing marks
+* bug fix for finish course batch fix
+* 1.8.8
+* build files
+* quiz not saving marked answer fix
+* build files for assignment
+* course short desc html format fix
+* unlimited time in assignment istead of 9999 days
+* partial free course shows continue button fix
+* vibe to wplms
+* assigned quizzes count fix and expired check
+* custom_unit_type provision
+* attachment query fix
+* custom unit type support to overwrite content and handle it eg for h5p
+* unit event for scorm completion
+* description the_content in course overview
+* earning widget fixes
+* 1.8.7
+* _register_controls to register_controls
+* course stats missing curriculum items fix in stats
+* css issue in quiz details toggle fix
+* 1.8.6
+* drip feed timer in quiz
+* version 1.8.6
+* multisite warning fix
+* date time field conflict within each other fix
+* drip unit load unit forcefully
+* manage students count increase from 2 to 20
+* download action buttons alignment fix
+* move default to last
+* warning fix in php8.1
+* css issue fix
+* quiz details toggle in single course
+* removing download attribute since its not working in firefox properly
+* featured video not removing fix
+* 1.8.5
+* php error fix
+* notice fix emplty meta
+* assignment title fix
+* php error fix
+* php error fix
+* php error fix
+* assignment evaluation should update course progress as well
+* 1.8.4
+* qna avatar fix
+* 1.8.3.1
+* avatar fixes
+* avatar comp prop dependancy removed
+* thumb styles fix
+* bug fix
+* credits
+* 1.8.3
+* drip not working in elementor units fix
+* user link in applications
+* translations updated
+* addon list updated
+* php 8 error fix
+* user id to secondary item id in credits commisison
+* function_exists for vibe_get_option
+* commission on credits purchase
+* csv not uploading when sw activated in manage course fix
+* php error fix
+* course buy with credits
+* credit buy init
+* 1.8.2
+* instructor card error check
+* announcement touchpoint email fix
+* filter on instructor user args
+* scorm quiz in myquizzes
+* card block fix
+* instructor card for multiple instructors
+* course card default selection
+* 1.8.1
+* default course layout application
+* add default course selection
+* quotes handle in submissions
+* notice fix
+* force enqueu media in WP admin screen
+* php 8 error fix
+* provision to disable scroll progress in units
+* 1.8
+* 1.7.3
+* assignment assign feature and submit fix with sw
+* php 8 error fix
+* 1.7.2
+* field duplicating fix
+* allow question js to run straight away
+* 1.7.1
+* manage quiz section leaderboard avatars fix
+* primary_item_id is now item_id in sql queries
+* assign_quiz fx to assign_element
+* avatar issue fix
+* 1.7
+* default slugs added
+* custom taxonomy inclusion
+* avatrs
+* remove redundant  prints
+* notice fix
+* let user purchase the course even if course has pre required course
+* old template files added back
+* php error fix
+* avail all quizzes to admin
+* pot file updated
+* 1.6.6
+* scrolling issue in curriculum in long units fix
+* php error fixes
+* 1.6.5.2
+* 1.6.5.2
+* cant set marks in quiz if marked completed by instructor fix
+* sync question shortcode in unit types resync
+* course_curriculum shortcode allow from any course id
+* avatar mapping
+* correct / incorrect answer view fix in quiz in mobile
+* warning message fix
+* quiz title in social sharing
+* captcha fix in reg forms
+* flag question fix
+* feedback touchpoint added for instructors
+* multiple instructor data issue fix
+* page builder fix
+* question shortcode not working fix
+* add course cateogry and LMS options even when theme not active
+* function missing check
+* 1.6.5.1
+* missing check
+* question content fix for shortcodes from other plugins
+* feedbacks revamped and resolve button
+* 1.6.5
+* build files
+* flag feedback added
+* required title and number field min value and unit content list style
+* quiz stats css fix
+* php 8 fix
+* directory scroll fix
+* provision for curriculum building for custom components like classrooms
+* explanation not udpating
+* quiz / assignment start end time
+* start end date fields added saving to quiz
+* hide show print results button settings added
+* php 8 fix
+* assign quiz fix
+* Course filters sort by position
+* filter on Course button for various handlers
+* Offload scripts improvement
+* disable warning
+* course dir init course dir init
+* course subscribed is a number
+* course count fix
+* 1.6.3.1
+* scroll into view on new courses
+* warning fixes
+* remove the_content before question shortcodes are checked
+* check if exported course
+* force pre-unit_key calculation php 8.1
+* Parent purchasing courses for Children filter
+* show marks always
+* print quiz results
+* get_option function  filter corrected for third party themes
+* additional user message on insert post not working
+* 1.6.3
+* image not showing submissions fix
+* assignment not showing evaluation fix
+* label in course status actions points
+* notes and comments into one icon
+* assignment warning fixes
+* current unit key issue when cache first
+* unit coment content not showing in unit email
+* init admin controller api
+* add course count to stats
+* vibebp_the_Content on quesiton content
+* question flag message
+* question options not saving fix
+* review fix
+* review fixes
+* reviews fix all over
+* quiz marks to coursestatus
+* quiz retakes in non logged in quiz
+* make work directory in elementor block editor
+* inst could not ealuate quiz form manage quiz fix
+* tags warning
+* 1.6.2
+* template on question content
+* pp error fix
+* warning message fixes
+* quiz check
+* link update
+* 4_0 component false
+* if wplms theme is not there,
+* check wplms option if disabled.
+* check for vibebp login system
+* check for v3
+* math question import fix
+* remove courselive as we do not need it
+* events for quiz/assignment retakes
+* php 8 fixes
+* php 8 fixes
+* free unit showing user not found fix
+* php 8 fixes
+* css consistency
+* 1..6.1.3
+* remove theme hook
+* instructor cannot access site
+* question option latex parse added
+* assign quiz query error fix
+* changelog
+* direct access to unit bug fix in elementor unit
+* 1.6.1.2
+* iframe_check too late
+* section turned to 0 fix
+* 1.6.1
+* warning fix
+* dynamic question set doubling on each page reload on single quiz
+* turn id into integer
+* elementor units in iframe
+* cache is_wplms_4_0
+* elementor pro widgets issue fix
+* activity on assignment submission fix
+* custom element icon fix
+* Group search fix
+* adding text to unittypes to render vc shortcodes
+* just fetch tab and inst capabilities in manage courses -> course click
+* media popup fixes for file type in featured image
+* media privacy filter
+* create course course cat , course location, course level fix
+* fetc media search and sort not working fix
+* vc carousel featured style not working fix and course location not showing until level is enabled
+* translation string fixes
+* course and unit changes not saving by instructor once changes are approved bug fix
+* bug fixes my course curriculum , quiz content load event trigger , vc shortcode not showing in my courses ,vc shortcode in select and fillblank questions
+* php 8 check
+* user not enrolled in course fix
+* assignment plugin check fixes
+* event handled
+* product edit fix
+* color fix for question edit
+* warning fixes
+* fixes math
+* wraning remove php 8
+* editor in quiz option fixed
+* php error fix
+* course edit not working fix
+* assignment in old course layout curriculum fix
+* abortctrl in directory
+* course directory complete
+* course directory block
+* Badge title & text improvement
+* Gamification optional for instructors
+* can not remove redundant units
+* error fix
+* do not show curriculum for upload type courses
+* 1.6.0.4
+* Fixes for 4.1 easy migration
+* $post warning fix
+* php 8 fixes
+* guten fixed for php 8
+* badge warning fixes
+* badge template
+* related courses widget not showing carousel fix
+* editor working in question options
+* fixes
+* reload my courses on back on package course
+* 1.6.0.3
+* warning fix for php 8
+* foce question
+* accessibility tab error fix in edit course
+* php 8 fixes
+* 1.6.0.2
+* fixed warning in php 8.08
+* handle math in answer options
+* add hide setting and is_admin check
+* handle required field
+* clicking on retakes left triggering retake quiz fix
+* build files
+* disable auto allocation of course free course handled on click now
+* previous results activity param added in url to distinguish cache
+* review fix for read more if have prargraph
+* sync fixes for course review
+* 1.6.0.1
+* fixing upload handler
+* content not saving fix in instructor approval
+* force in edit curriculum and assignment not showing youtube vimeo videos fix
+* hint in question and instructions in course showing even if its blank fix
+* do not show complete button in xapi and scorm courses
+* sync on course finish retake and scorm package finish course hit assign certi and badges
+* award certis and bagde on scorm course finish
+* course link button
+* 1.6.0
+* build files
+* x-nonce wp added in coursestatus
+* translation files updated
+* drag_To_refresh in course curriculum
+* single scorm quiz
+* send curriculum changed
+* hook execture at end
+* assigned quiz code optimized
+* assign quiz , course news sync
+* gamification shortcode added
+* quiz title updation code
+* lmsbadge archive and single page added in template
+* scorm quiz fixes
+* default width warning message
+* css fixes for mobile view
+* start_course and start quiz activity in scorm
+* nocache in comment and rating bug fix
+* nocache post in wplms widgets
+* on announcement clear announcement tab
+* warning fixes
+* remove upload package limit
+* removing / to | since handled in the function
+* coursebutton adding force
+* build files
+* do not show complete course button if already completed
+* quiz evaluate fixes in stale requests
+* show submit on last question setting added
+* update cache on quiz submit
+* scorm quiz added
+* req update on course removed
+* warning fixes
+* section type drip issue fix
+* course instructions tabs links not working fix
+* pot file changes
+* reloading on new items
+* gamification check for edit course field added
+* force reload when published course
+* build added
+* points view fixed
+* wplms sync state requests
+* stale_requests_init
+* array map of what url to be updated init
+* fix missing bracket
+* instructor reviews
+* special chars in name handler
+* WPLMS Version 3 support
+* removing youtube video caching since youtube download url api stopped working
+* gamification notification changes
+* the big merge gamification copied to original develop from gamification
+* stats min max value fix
+* course inst image issue fix
+* reviews not showing in course reviews in instructing courses and student seeing all notes in my courses fix
+* assignment remarks translation issue fix
+* empty post variable check
+* youtube video download and nocache for other page apis
+* youtube download video in offline course (having CORS issue)
+* remove console
+* notice fixes
+* assignment apearing two times and search in taxonomy not working fixes
+* more badge user css added
+* default svg added
+* translation fix in assignment remarks results
+* taxonomy field bug fix
+* force param added for highly dynamic components in api for network first call
+* query to fetch left right badges added
+* badges show added
+* video caching finished
+* query for left right value fetch added
+* caching videos
+* student can finish course just by starting assignment fix
+* refresh component in all tabs
+* notice fix
+* notices fixes
+* add permalink in data params in instructing courses
+* show badge modal added
+* manage course section except course admin fixed for nocache abortcontroller
+* fallback for izitoast added
+* notice fix
+* user_id not set
+* fireworks added
+* activity time fixed
+* my quizzes refresh not working fix
+* nocache added
+* total points show added
+* set offline bug fix
+* assignment score in stats
+* custom filter on unit content
+* drag to refresh all over course component
+* tab remove for gamification arr
+* nav menu for points and badges added
+* badge assign in activity added
+* badges show added
+* add const
+* styling fixes
+* course_id class added on objects
+* wrong filter passed
+* fix args extraction
+* assign on multiple badge fixed
+* translation added
+* adding nocache and post
+* course admin activity,submissions filter sort when totalloaded
+* badge assign show in iziToast added
+* assign badges based on user point added
+* assign points on unit completion added
+* course admin nocache
+* download course complete with resume pause
+* logic change to retain state
+* download course issue with two resumes
+* value structure updated for gamification meta value
+* attempt to retain progress
+* styling fixes
+* point assign added
+* download course complete but there is settimeout looping
+* icl_object_id bp_single_page
+* offline course init
+* send $instructors as array for count()
+* quiz start handle in offline courses assignment prohibitted as it requires upload
+* updatelocalforeage on coursestatus unit mark complete and remove on finish
+* icon for attachments in units
+* response for instructor student issue fixed for js error
+* doshortcode for raw html in units
+* ?post in post calls in student area
+* quiz remove locaforage items
+* add bulk action hooks and remove is_user_logged_in checks
+* manage students cache handle
+* check if totalLoaded
+* pass user id in course tabs
+* plyr error and notes and discussion cache handle
+* firendly time gmt offset minus and cache first support in my and instructing items
+* handle nocache in search my courses, instructing courses, achievements
+* handle video unit type
+* vibebp_widget_loaded
+* wp_slahses
+* taxonomy term creation caps
+* time field not saving properly fix
+* failed handle in xapi
+* course id display
+* course instructions css fixes
+* question shortcode not working in post
+* achievements report activities load more not working fix
+* 1.5.8
+* edit course fullscreen fix
+* Editor event in quiz
+* dispatch data
+* notice fix
+* wp_splash
+* notice removal
+* record only attempted expirienced activtiies
+* reset xapi data and correct marks on course reset and retake
+* else check if package is not scoring package .
+* remove complete button and reload my courses when exit xapi course to load fresh progress of user
+* xapi in course handled
+* wp_slash
+* record statements in activity table
+* return package data
+* JSON encoded text value
+* post_cats wrapper in featured
+* api init
+* remove validate
+* title html fix
+* notice quiz id
+* change course curriculum type fix
+* Sanitize fields
+* set vc unit to text in sync
+* dont check user is member before removing from course
+* non logged in user quiz added
+* handling api call for nonlogged in quiz
+* non logged in quiz data added handled in js
+* unit html code issue fixed
+* translation fixes
+* student sidebar loading in instructor dashboard fix
+* fetch calls handled for server errors
+* course id in filter
+* handle server error and invalid json data in fetch calls
+* instructing courses, my courses fetch error handle
+* instructor students widget fix
+* member types from buddypress member types
+* trnaslation error in assignment eval message
+* assign quiz in bulk to course students
+* removing backups
+* removing address
+* title search issue random searches showing random results FIX
+* bp_course_get_question_details filter
+* script in footer
+* locale setting
+* notice fix
+* wplms plugin verison for directory
+* build files
+* 1.5.7
+* course news html fix
+* filter on vibe_get_option
+* selector added for course block wrap
+* add comment reply buttons stick to bottom
+* disabling multisite check as its not working
+* add type of curriculum class to curriculum in edit course
+* partial free course added
+* unit selection field init
+* first section free field
+* manage students not showing co author courses fix
+* 360 video support
+* multisite users check
+* 360 video attempt
+* course member api
+* reverting args in url build file
+* reverse args in url
+* reverse api in url commit
+* Revert "removing args"
+* removing args
+* audio type units creating error fix
+* 1.5.6.1
+* function exists check
+* redirect to correct component from custom reg forms
+* scorm unit not opening in single unit page fix
+* upload field required not working fix
+* register login simutaneously and redirection not working in custom reg forms when no jquery mode fix
+* 1.5.6
+* error fix
+* if BP Single page active, force activate v4
+* login popup not opening for pmpro pricing course when open login popup setting enabled fix
+* course error css issue fix
+* visual composer works in units
+* running vc shortcodes but js did not init
+* upload file in custom registration forms
+* fixes
+* delete package option
+* warning in php8
+* global $post
+* function check
+* quiz retakes updated on submit to check pass status
+* contact instructor widget to show instructors only setting added
+* progress 100 expired show fixed
+* build added
+* Achievement section course title fixed
+* args in url
+* wrong current unit key in unit loaded event fixed
+* args in api
+* playlist next prev buttons
+* translation fixes
+* api url with ids to distinguish
+* comments api with course id 0 for no course
+* thumbnail not showing when video is not set fix
+* student my courses api change with course id in url
+* caching inbuilt for videos
+* translation fixed
+* flash-card branch merge issue fixed
+* flashcard unit type fixed
+* add id in featured style filter
+* iframe package upload type sync v4 units
+* some mycred fixes
+* 1.5.5
+* addons added
+* check for correct answer length
+* doc file downloading to browser fix
+* update props added in question custom event
+* user_id in submissions api
+* carousel fix
+* fullscreen on course_create
+* stop publishing elements if not allowed filter added for instructor memberships
+* error coming when click on add quiz after clicking on add unit fix
+* media upload capabilities settings
+* open login popup on course button lms setting supported
+* drip value in integer
+* missing module_id to course_id
+* if unit/quiz completed show access to that unit/quiz
+* drip in quiz
+* update only assignment and quiz expiry times and marks
+* apply course login popup trigger
+* check for bagde is enabled or not
+* question tag not saving fix
+* taxonomy add new item fixes
+* error with course nav on old layouts fix
+* date time pickers clear option added
+* stats widget fix showing graph if no data passed
+* aurto-scroll fixed
+* pre-requisite spelling correction
+* 1.5.4.3
+* more css fixes
+* css fixes
+* css fixes
+* CSS for better sort options
+* trigger pricing click event fix course button
+* PHP 8 fixes
+* mark it uniform for pass_fail as well that in passing marks you need to add one marks less than the expected passing marks .
+* PHP 8 fixes
+* class exists check
+* course button build file updated
+* fix for badge not removing
+* 1.5.4.2
+* build file
+* youtube resume
+* php8 fixes
+* do not complete video unit when media lock enabled on next unit
+* reading progress fixed
+* current unit index issue fix
+* plyrjs vimeo video not showing controls plays in fullscreen in mobile for now
+* course drafts delete option added
+* course drafts
+* 1.5.4
+* remove console
+* draft not saving for course fix
+* taxonomy not removing from course fix
+* vimeo issue fix
+* taxonomy.editor field triggering unnecessary draft saves fix
+* wplms_eventON
+* 1.5.4
+* support of wp playlists
+* vimeo video quiz fix (not the best but atleast working)
+* check for badges post status
+* end event handle from plyr
+* load instructor edit not working in units
+* shortcodes jquery not defined error
+* use custom function to insert activity meta by default
+* unit load draft not working fix and enter course title mandatory
+* PHP 8 fixes
+* tip class updated
+* eventOn check updated
+* url correction
+* course loader v4 check updated
+* check for add question before selection
+* section and unit translation bug fix
+* pass author id in course status api
+* pdf object embed css
+* events on course status load and left fix
+* error fix in achievements
+* search member not working in old course admin
+* events on course status loaded and unmounted
+* pdf css
+* vibebp editor content loaded event
+* 1.5.3.2
+* not foce enqueue
+* php8 warnings
+* build files
+* shortcodes check for element in dom
+* error fix
+* PHP8 warning fix
+* message to all in manage course fixed
+* css fixes for html view
+* do not load coursejs on profile page is blank
+* tags % in stats
+* flip animation added
+* 1.5.3.1
+* units flicker issue and quiz previous quiz data showing issue fix
+* css fixes
+* remove print_r
+* date field not saving in custom reg form fix
+* unit show added
+* flip add and css added
+* custom field added
+* initialized flash-cards
+* numeric check
+* changelog
+* flickering issue in quiz
+* 1.5.3
+* abortable fetch
+* filter on tabs
+* abortable fetch
+* abortable fetch implemented
+* empty unit id check
+* quiz passing score not showing in dynamic quiz
+* fix for single unit styles
+* review form css
+* section drip not working fix
+* drip feed not working unit date time not working fixes
+* hide course button
+* post reviews from home
+* course unit popups
+* course progress on course home
+* ele,entor elemnts in courses
+* Tags fix
+* set course thumbnail as product thumbnail
+* bulk message not working fixx
+* pre required course in course info
+* changelog
+* restrict student from editing comments
+* fix single quiz scroll issue
+* quiz css fixes
+* 1.5.2.1
+* single page quiz error fix
+* condition fix
+* upcoming filter not working fix
+* correct condition for non-wplms thenmes
+* minified scripts
+* translations updated
+* 1.5.2
+* mobile quiz timer view
+* youtu.be url allowed
+* package for widgets
+* detect exact widget id to render widget not generic widget class
+* wplms css build
+* quiz tags stats fix
+* quiz timer in mobile
+* assignments upload not uploading fix
+* delete drip data
+* curriculum notice
+* capture youtube id
+* add user role if wplms theme not active
+* third party themes
+* large text correct answer field added
+* unit start date time working
+* media lock and detect video completions in course status
+* parenthisis fix in V3 api
+* questions options check
+* no_cache param added
+* course reviews read more
+* 1.5.1.3
+* initialise link as blank
+* instructor complete unit links
+* unit complete touchpoint not working fix , added user id param to pass get_current_user_id()
+* filter to skip getimagesize as it does not works on many hosts
+* translation
+* 1.5.1.2
+* input fields not saving for tabs fix
+* detect link for WPML and add ? or & based on url
+* event to initialise wpml
+* pointer cursor
+* some certificate page fixes
+* import export of new fields
+* course reviews block fixes
+* quiz stats score show total marks along with percentage
+* build files
+* course expired shows fix and finish course check quiz status as well
+* quiz title in html
+* null attachment link. fix
+* link should not appear in non-existent users
+* course code fix for course id init
+* fixes
+* sync should proceed from where it left
+* curriculum custom field update props added
+* course name as innerhtml
+* help text change in create coruse
+* sync restart from transient point
+* Css fixes load more should appear below the grid list
+* Css fixes load more should appear below the grid list
+* run editor trigger when show unit
+* manage quiz special character fix
+* 1.5.1
+* wpml integration
+* wpml ready
+* height was not setting for h5mp iframes fix
+* build files
+* 1.5.0.3
+* user reviews fix
+* do not complete the unit as soon as it was opened from course status
+* load class already added for progressbar to animate
+* added filter support for woocommerce fields
+* match options not working fix
+* fix for course not loading in some sites
+* show count in assigned quizzes
+* quiz marks not showing when sow quiz results after submission is not enabled
+* tempaltes added
+* fixes
+* 1.5.0.2
+* course review styling on non-wplms
+* 1.5.0.2
+* third party theme compatibility
+* check vibe sanitizer exists
+* old course layouts
+* special character in manage quizzes
+* special characters in course progress widget
+* numbering of practice questions
+* changelog
+* enable gutenberg in course layout
+* numbering provision in pratice questions
+* 1.5.0.1
+* Editing post returns member card
+* helpdoc tooltip fix
+* special characters in curriculum
+* question option label styling fix
+* connect course option in dynamic quiz
+* course code elementor block and widget
+* 1.5
+* fill blank text block with minimum width fix
+* fix added
+* center question actions
+* question actions css fixes
+* removing error line
+* coming soon on admin reports
+* remove testing code
+* build file
+* package fixes
+* merged build files
+* updated course status
+* custom media tab handle
+* default image
+* updated course layout
+* re-direct from coruse progress widgett to course
+* WPLMS Dashboard version constant removed, now using WPLMS plugin version
+* curriculum shortcode css
+* WPLMS Not active message removal if purchase code added in non-wplms
+* Elementor widget relabel  AChievements -> member achievements
+* functione exists check on non-wplms setups
+* warning remove
+* Spelling correction
+* Quiz question bar
+* dashboard version constatnt updated
+* quiz questions array chek
+* course block completed
+* course featured
+* shortcodes popup fix
+* backend not working since jquery migrate removed fix
+* update course student count on recalculate stats
+* remove theme course name in order
+* comments now added to question/answers
+* assign quizzes finished
+* quiz tags stats added
+* select dropdown options filter
+* assignq uiz
+* progress 100 on complete course
+* version from wplms
+* dependancies
+* wp 5.6 compatibility
+* width in mobile for flickity carousel cell
+* 1.4.9.1
+* iframe video bug
+* quiz pagination
+* quiz pagination
+* build file
+* quiz stats for students and download stats in instructing quizzes
+* stats for student
+* stats shown
+* translations updated
+* monified files for editor
+* shortcodes color pick from css vars
+* french and spanish translations added
+* is Active class on curriculum wrapper
+* quiz download stats init
+* false marked shows true in submission evaluation fix
+* xtras not showing in course button fix
+* notes reviews editing
+* 1.4.9
+* build files
+* removed warnings
+* search in taxonomy if temrs more than 8
+* version and path for shortcodes
+* No heading carousel issue fixed
+* achivements widget elementor
+* load course html in directory
+* profile courses fix
+* hide filters by default setting in course directory
+* single course popup fix for course video
+* progress not updated in course for quizzes
+* external button fix
+* co author fixes
+* co author plus directory filter not working fix
+* blank header covering menu item heading issue fix
+* single certificate page
+* quiz floating point negative marking
+* location level not showing fix
+* unit meta filter added
+* accordian fixes in jquery mode
+* css fix for ifarme videos in question contents
+* single unit content free unit
+* approvals finished with application loading issue fix
+* course approval completed unit content retain pending
+* build files
+* questions answers of instructor only
+* translations updated
+* 1.4.8
+* all merged
+* fixes
+* user id in create course tabs
+* upload course finish fix
+* error handling when drip duration not set
+* new question shortcode in V4
+* multisite attachment fix
+* attachments filter
+* custom fields fix in curriculum
+* product duration param fix
+* course settings for old layouts
+* media modal taken outside to resolve conflict with header and other elements
+* commissions moved out
+* Fix required for Batch curriculums
+* translation fixes
+* badge image issue fix
+* course video popup issue fix
+* assignment eval completed
+* filters in assignment api for s3 uploads
+* 1.4.7
+* filter in assignment api
+* drip access issue fix
+* badge image fix
+* fixes
+* lock implemented based on course Status
+* provision for external upload
+* pointer css
+* download attribute
+* small package not uploading fix
+* handling special characters
+* button not showing full height in Safari
+* + icon in uploader
+* spelling correction
+* batch students sync
+* $$ issue
+* drip duration param fix
+* scorm unit error not working on course page
+* assignment marks filter
+* remove dependency from button text
+* function exists check
+* h5p_sync
+* apply popup in course popup
+* ajax menu component check
+* single course in corse directory
+* simple_Stats
+* backward compatibility of dashboard widgets
+* results from object to array to save
+* build files
+* no need of course id in reset quiz/assignment
+* loading issue on single quiz with old css
+* 1.4.6
+* edit question, delete question
+* build files
+* quiz loading fixes build files
+* quiz loading and question scroll issues in manage questions
+* practice question , course admin upload option and create question statement not setting fixes
+* another minor fix
+* minor fix
+* pull practice questions at once
+* course direcotry not working on bp single page
+* course directory trigger event on card click
+* elementor course widget add support added
+* xml read for different package type
+* back to my courses fix
+* notice fixes
+* changelog
+* focussed button color
+* css fixes
+* bookmarked fixes in quiz
+* fixes
+* changelog
+* Translation files
+* cancel link in course final message in case of error messages
+* leave a rating
+* apply corse filters
+* editor api not fetching raw data
+* BP single page would not work with Course Status on Course
+* button changes
+* bp single page chnages
+* remove student controller in v3 api
+* show unmilimted time
+* scorm issue fix
+* old api fix
+* duration fixes for student
+* build files
+* php error fix
+* quiz and course button fixes
+* quiz layout and styling fixes
+* LEGACY Constatn
+* button class & css fixes
+* button fixes
+* Legacy API support
+* youtube video validation as youtu.be link shows your auth error
+* ajax menu setting default component
+* login fix
+* login redirect fixes
+* some ajax menu fixes
+* Price not displayed MyCred Fix
+* removed unncessary comments
+* CHANGE : user_id Passed in BP_COURSE CURRICULUM FUNCTION
+* Process curriculum function for batch curriculums
+* course status fix for ios safari
+* event structure for loading third party components in Curriculum
+* ajax menus
+* print attempt
+* quiz pagination issue with filters
+* course instructions css issue fix
+* 1.4.5
+* grid query args
+* wplms-assignment in curriclum check
+* $user_id on finish course check
+* commission subtracted on order refund
+* show only selected category courses in directory
+* hide admins option in instructor filters in directory
+* mycred pricing popup not working fix
+* unit quiz type sync
+* old dynamic quiz fixes
+* build files
+* team shortcode fix
+* featured cards filter
+* s3 loader option.
+* build files
+* check comments open for review popup course status
+* quiz fixes
+* quiz changes
+* bookmark and portal popup
+* provision to see old full results
+* quiz marks in decimal for partial and -ve and question indicated to be correct even when marks are in -ve fixes
+* profile field data issue in custom registration forms and hi {{recipient.name}} fix
+* build file
+* unit_loaded event fixed and set course status from outside
+* custom question icon provision
+* quiz fix
+* typo fixed
+* the course button added in button loaded
+* unit comment to be recorded
+* new enqueue scripts filter
+* warning messages
+* retake button small
+* custom media tab for s3 added
+* Quiz triggers for custom questions
+* my courses load more not working fix
+* 1.4.3.1
+* course type parameter missing in grid
+* special characters no handled in unt and quiz titles.
+* 1.4.3
+* course button and elementor fixes
+* 1.4.3
+* grid search
+* with course id on course button
+* Revert "course id in unit_loaded event"
+* course id in unit_loaded event
+* chatJs if enqueed by default switch
+* remove BuddyPress scripts not in use
+* single quiz missing Q prefix
+* build files
+* translation bug fixes
+* HLS and Dash support in WPLMS
+* with course id
+* fixing course status styling
+* notes, reviews and discussions complete
+* use shadow color
+* review to show rating and details
+* ger date and details for submission
+* submission not detected
+* round off rating by 2
+* user_id in activity added
+* dashboard widgets for parent user addon
+* start date fix in mycourses
+* course cound and rating
+* translations updated
+* 1.4.2
+* posting course news notifications and emails
+* warning messages on announcements
+* submission structure still showing when tab changes fix
+* disable right click added
+* scorm and html package fixes
+* check if scrom strictly
+* build files
+* single unit free should show video
+* removed unncessary icon
+* finish option no jqyer
+* unit title in note
+* padding on button
+* 1.4.1
+* announcements fix
+* filters for products to support Google and apple pay
+* hooks for Vibe EDD
+* show_hide active news
+* Bulk messaging in course implemented
+* Better Pricing options for offloaded scripts
+* changes in course button for custom action on pricings
+* wp_insert_post requiring post_content
+* actions added
+* inst privacy disabled for certificates
+* language files updated
+* 1.4.0.1
+* popup button fixes in mobile
+* question product not creating fix
+* questions answer fixed
+* question prefix added
+* some minor fixes
+* avoid misuse of create course lement
+* create user permission check checks for edit_posts capability
+* my badges count missing
+* displayed author
+* build
+* course layout on category and particular course
+* course and card layouts
+* Include card css cache cleared
+* directory fixes
+* css comments actions fix
+* auto evaluate check
+* evaluate activity needed for mycred and quiz certificates fix
+* notes , qna issues fixed
+* star rating fixes
+* collapse section if already opened
+* practice questions pagination
+* hide button extras
+* hint css
+* quiz hint changes
+* more controls  for instructor data
+* assign course alyout to a specific category
+* corus status lock fix
+* real time message errors
+* question hint have transparent bg fix
+* number of question per page in quiz settings
+* course forum privacy
+* profile data
+* post cart layouts
+* add instructor into vibebp_init to use vibebp fields as well in course
+* build
+* styling fixes
+* blocks css extracted to theme
+* shortcodes css not loading
+* instructor image width
+* fixes
+* fontnawesome removed
+* forums saving issue and retun old $args need new one
+* taxonomy parent indication
+* remove wplms theme filter
+* correct course style for first load in directory
+* taxonomy parent child to unlimited depth completed
+* directory category child parent toggle and course status section time fix
+* handle embed shortcode
+* add new curriculum with custom field handled
+* unit custom field handle
+* 1.3.2
+* question tags
+* wplms active message
+* remove order by in count query
+* shortcodes not working in single course page in course status
+* search not working fix
+* removed expired hook as pmpro expired working
+* pmpro fixes
+* hide courses not working fix
+* auto scrolling not working when full screen
+* quiz remarks in results
+* complete course curriculum fix fro assigmments
+* instructor card removed
+* course button fixes with apply popup
+* message when no quiz found
+* 1.3.1.1
+* my quizzes blank when no quiz found bug
+* updated translations
+* 1.3.1
+* course retakes and full report complete
+* full course report
+* email setting filter not working lms settings
+* questions not showing in quiz creation
+* admin check
+* course button text coming wrong
+* translations updated
+* 1.3.0.1
+* 1.3.0.1
+* reset post data on ourse layout selections
+* remove fields if BBPress or groups not active
+* responsive fixed button fix
+* grid params hide
+* fixes for star ratings
+* course button bug fix
+* course button fixes
+* popup appearing on paid courses
+* only show drop down when there are more than 1 pricing option
+* fixes
+* some fixes
+* 1.3
+* forms, masonry now supported
+* carousel to native js
+* masonry and isotope completed
+* tabs and accordions fixed
+* shortcodes.scss and es6 js
+* fxiing course data loaded on eveery page.
+* layout selector added
+* fixes
+* build files
+* course button with drop down
+* custom registration form script on native js
+* search elements on 4th letter type
+* delete assignment added
+* build files
+* delete quiz confirm message
+* build and fixes
+* coruse rating not appearing correct when loaded from course button
+* apply course popup style fix
+* disable context menu option added
+* delete quiz added
+* click course button on click
+* practice question tags and quiz explanation video issue fix
+* pratice question field changed
+* my quizzes paginate issue fix
+* link to quiz in manage quizzes
+* single quiz not show correct answer and explanation fixes
+* course eval fixes
+* custom class do not select all iframes
+* check if no activity
+* submission tab fixes, quiz marks fixes , quiz submission fixes
+* intval on duration
+* change curriculum item type
+* check for inline iframe heights
+* First load implemented, faster directory loading
+* Better filters in directory
+* add style sheet of course card
+* changelog
+* 1.2.2.1
+* dynamic quiz fix
+* style fixes
+* instructing courses special characters fix
+* 1.2.2
+* build file & translations
+* search in question tags
+* rearrange question options switch
+* build ready
+* query fixes and conditions to avoid notices
+* show mmeber name in submisisons
+* fallback in case static question set is not fetched somehow.
+* duration fix for quiz , default to 60 if not set
+* hide the mycoruses
+* show the first section in curriculum
+* old cs removed
+* match answers
+* attempts query bug fix
+* sample question set
+* default quiz duration
+* function_exists check
+* upload question type
+* styling fixes in manage questions
+* sample question imports added
+* manual evaluation fixes loading indications
+* explanation not appearing fix
+* provision to restrict quizzes
+* negative marks setting added
+* announcement fix
+* course member status
+* coruse_status HTML handling of course name
+* forum name issue fix
+* course button not working when Full Course Status in Course pages enabled fix
+* update marks with update scorm
+* 1.2.1
+* localize after script
+* filter to recognize the course
+* bundle product in front end
+* unattempted question does not show correct answer fix
+* last unit in courses status fixed
+* dynamic quizzes not working fix
+* coz set_price does not updates meta sets class var
+* sale price added in product
+* forum field styling issue fix
+* int check
+* external course button link not working fix
+* translations
+* button css on course button
+* outdated code removed
+* export bug fix
+* order and sorting fixed in directory
+* fixes
+* 1.2.0
+* remove redundant config
+* build files
+* login redirect
+* offload scripts for old scripts
+* webpack for course_status
+* course not showing completed in my courses after just finishing fix
+* css fix
+* css fixes
+* practice question complete
+* practice question for units
+* default certificate template not working fix
+* remove wishlist
+* activity fileters
+* instructing coursesin pending.
+* administrator should have all access to course administration
+* permissions not working fix
+* Course directory in profile
+* option wrong right css added back
+* pdf certificate link not working in achievements
+* popup styling
+* permissions instructor actions course admin
+* functions for course_retakes
+* Full course status in courses
+* Cumulative time of quiz and units fix
+* Course status on course page
+* 1.1.9.2
+* quiz bug fix.
+* fix
+* 1.1.9.1
+* outdated icons removed
+* fields are not showing as saved in backend fix
+* 1.1.9
+* wplms assignments labelled as wplms assignment
+* empty checks fixes warnings
+* filters for quiz type
+* updates on admin_init
+* quiz type changed to vibe_type AND unitattachments bug fixed
+* h5p support in single quiz
+* wplms version added and show login ppup event
+* replace hyphe with - inselect cpt
+* params for h5p
+* Level and location in course info
+* filter for select custom table values in selectcpt
+* build files
+* changelog
+* upload type unit fixes complete
+* vibe bp defined check
+* styling updated fro academy demo
+* translation files updated
+* upload type fixes
+* styling and bug fixes
+* 1.1.8
+* translations updated
+* styling fixes
+* Reviews not displaying in courses
+* taxonomies json at end of head
+* v3 controsl should not appear in v4
+* changin control positions
+* Provision to enabling course directory in profile
+* If quiz is added in a course then it is force tied to a course.
+* Correction in star generation
+* Importer not importing options
+* cart page woocommerce function updated
+* Collapse into sections feature
+* enqueue general on single course page
+* consistent styling in wplms
+* handle error message on my courses itself and finished course access check handled
+* error on start course handled in course button
+* support for custom nav
+* 1.1.7
+* styling improvments in curriculum
+* curriculum not opening
+* changelog
+* fixes in upload video
+* 1.1.6
+* fix to course status disappearing
+* course button popup took outside div
+* my assignments bug
+* curriculum fix
+* pass user id as well in get value fx
+* upload zip in backend
+* 1.1.5
+* socrm api url correction
+* reversing duration param fix
+* unit number/total fixed
+* unit duration,parameter missing fixed
+* duration param not saving fix
+* curriculum and batch tab mixing fix
+* remove comment
+* include jquery migrate in LMS - settinggs
+* assignment submit action
+* 1.1.4
+* pot file updated
+* directory on localforage
+* directory build
+* filter and sorting fixes in courses
+* full course parameter passed
+* remove member infor in member 4 grid
+* add row in masonry grid
+* recalculate stats
+* completion date not recorded fix
+* curriculum fix
+* curriculum shortcode fix
+* changelog
+* 1.1.3
+* course curriculum accordion mode fix
+* commissions api unset currency crashing app fix
+* header tabs flex start
+* translation fixes
+* auto p issue
+* wrap plyr elements to avoid domnode error
+* fixes
+* completion message
+* certificates and badges
+* translation fix
+* curriculum in single course
+* delete news
+* issue fix
+* admin student stats and mark complete not working fix
+* 1.1.2
+* average rating and score
+* scroll to added on button click
+* 1.1.2
+* course tatus calculation incorrect for time.
+* video bug fix for vimeo and core html
+* 1.1.1
+* blocker video to video transition resolved
+* complied
+* item_number fix
+* item_number
+* quiz fixed
+* fixes
+* desctory plyr
+* Revert& fix "correct total and index for lesson info"
+* single quiz issue fix
+* need for custom starts
+* fixes
+* translations updated
+* build file
+* course video issue fix
+* correct total and index for lesson info
+* cache post id
+* old code remove
+* include files only with disbaled switch
+* removed saparator from category
+* fix curriculum displayed twice in course blank mode
+* email check
+* auto login on course status page fixed
+* minified scripts
+* uploadpackage fix
+* max-width none for bootstrap4 compatibility
+* fixes
+* average rating and average rating starts distributed
+* heaver overlap issue
+* course category redirect handled
+* certificate link not going fix
+* build file
+* quiz and assignment reset not working fix
+* args for isntructor privacy
+* BP_COURSE_MOD_VERSION removed
+* improveed quiz
+* scorm fixes
+* magnific popup in course video removed
+* minor fixes
+* course status fixes
+* name in leaderboard
+* maxmimise minimise
+* course news issue fix
+* styling fixes
+* debugger removed
+* recalculate reviews on posting reivew
+* remove instructor controls
+* vibe editor re-added based on options apnel
+* minimised files
+* filter on element icon on curriculum
+* accordion mode for curriculum
+* on saving welcome emails, for reload emails.
+* remove take this course limit for welcome emails
+* retake count warning
+* UX improvements
+* Add filter in course created
+* html in activity action
+* fixing overlap issue in profile
+* removing console logs
+* fixes
+* console.log and token removed
+* removing commissions settings
+* old course status supported
+* fixes
+* translations
+* console removed
+* fixes
+* remove disable react quiz
+* legacy checks
+* enable use of theme purchase code for auto updates
+* warning fixes
+* open filters by default
+* TRANSLATIONS
+* 1.1
+* course shortcode fixes
+* course info fixes
+* check for layout selected
+* click error on svg fix
+* pdf not clickable finish course button at bottom of last unit fixes
+* fixes
+* deactivating force card
+* vibe_quiz_dynamic fix
+* group creation
+* old support for featured video
+* close icon and css
+* removing consoles
+* course video popup
+* instructing modules error fix
+* custom tab in my course fullcourse
+* added missing file
+* notice fixes
+* 1.06
+* expiry time  fix in full course
+* defaults and fixes in course shortcodes
+* all taxonomies in directory
+* react quiz issue in single quiz fix
+* group link
+* login redirect
+* renew free courses
+* multiselect fix when removing
+* fetch last data actually
+* blank currency fix
+* hide course directory and rest pagination on applying any kind of filter
+* quiz and popup fixes
+* 1.05
+* warning message
+* notices fixed
+* import questions fixed
+* finalising chanegs
+* add userid for batches
+* direct link for course in admin
+* loading indication till the time button is not ready
+* single course resolved
+* unlimited time fix in timer
+* seach not working in instructor courses
+* Single course redirect issue
+* show course expiry
+* css fixes
+* bigger button for pursuing course
+* course - admin student search fix
+* fixes
+* pmpro fixes
+* error pros.update fix
+* assignments not working in my assignment and manage assignment fix
+* pagination fixed
+* token support in directory and my courses
+* build
+* start date handled in my courses
+* po eidt
+* error when inconsistent product is connected
+* Better description for upload CSV
+* packaged files
+* styling improvements on import students to course
+* updated translations
+* 1.04
+* translations
+* my course relabelled as enrolled courses
+* seek lock false in units
+* tranaslations updated
+* match answer content disappear after submitting quiz fix
+* new error css
+* mycred settings in wrong place fix
+* delete unit , quiz , assignment now added
+* import via csv done
+* pre required course not removed fix
+* embed media added
+* translations
+* 1.03
+* deactivate and activate plugins automatically
+* translations
+* fatal error when users deactivate plugins one by one
+* styling fixes
+* curriculum section toggle
+* search not working in my courses and instructing courses fix
+* duration parameters fixed
+* 1.02
+* comment box oversized
+* fixes
+* free course not allocation fix
+* get_name issue fix
+* course link on featured_component not working fix
+* remove commissions nav
+* array fix
+* file path
+* co author plus fix
+* iframes fix for app version 1
+* next unit wrapper bug, audio player controls overlaping with header fixes
+* 1.011
+* move on side fix
+* changelog
+* unit comments fixed
+* build files
+* back on course publish and news publish
+* plguin fixes
+* 1.01
+* all bugs resolved.
+* notice fix
+* placeholder in search
+* check if field is not null FIX
+* unit video fixes
+* search not working FIX
+* &nbsp; issue fix and no scrolling below 768 on unit load
+* course status video issue fix
+* build difference
+* directory fixes
+* notice fix
+* notice fixes
+* translations updated
+* version 1.0
+* minified scripts
+* update_verified
+* directory fixes
+* auto-update code
+* message fix
+* notice fix
+* course directory import
+* Theme check notice
+* quiz pagination styling issue fix
+* minified
+* translations
+* rtl mobile css
+* dashboard sidebars
+* course directory
+* fixes
+* notice fix
+* styling fixes
+* translations
+* mobile css
+* apply for course fron course_button.js
+* fixes
+* changes
+* merged files
+* admin notice to deactivate plugins
+* additional check
+* correct attempts
+* fixes
+* pmpro connect check and include when pmpro is there
+* removing consoles
+* quiz css
+* single quiz and evaluation post type permalinks for quiz and assignments
+* import layouts
+* external forums and groups
+* multiselect field fix
+* apply for course and pricing settings fixed
+* fixes
+* notice fix
+* button extras
+* minor styling changes
+* notice fixes
+* huge bug fix
+* constants in 1 palce
+* fixing notices
+* notices
+* course pricing settings
+* course css changed and course activity working
+* admin functions not working fix
+* css
+* changes
+* scripts array
+* course button
+* course button to be completed
+* administrator is instructor
+* course button
+* quiz results not inserting in db for some sites fix
+* import question not working fix
+* correct answer shown as array after import
+* elementor and jquery supports
+* quiz tags remove not working jumbled tags appearing fix
+* unit_load event
+* passing score check for last quiz
+* setup wizard
+* expiry extend decreaase  fix
+* course retake
+* service worker
+* correct answer not saving and default values in question types , new question not saving
+* set assignments
+* multiselect and manage assignment new assignment type issue fix
+* quiz load more
+* import questions
+* manage quiz works
+* pagination in questions
+* bug fix
+* some styling fixes
+* questions
+* questions bank
+* compressed
+* pdf certificate content coming in post course message fix
+* tabulator changes
+* course category not showing to be selected
+* attchments, get review and elementor support for units
+* reverting carousel
+* updated
+* dynamic quiz lives again
+* custom touchpoints not coming issue fix
+* final directory
+* minmax added in directory
+* font-size added
+* general.css link fix
+* fixes
+* recorded fields
+* course activity filter
+* course card fixes
+* bug fixes
+* package uploads now support tus.io
+* upload package
+* checking if plugin installed and actived
+* removing translation plugins
+* finale
+* friendly component now supports date time
+* course directory bug fix
+* fixes
+* removing ds_store unable to pull
+* notes and reviews make work
+* drive complete.
+* per page to 20
+* manage students
+* directory filters complete
+* changes
+* cahnges
+* query in uppercase
+* manage students
+* elementor blocks
+* bug fix unit scorm
+* scorm api imeplemented in course status
+* elementor elements for profile and courses
+* load template
+* init directory
+* data
+* using new scorm
+* some changes
+* assigment locking added
+* assignment lock work
+* attachment preview not appearing fix
+* assignment remarks to comment reply changed
+* quiz lock fix
+* default content
+* old files added
+* jsx syntax fix
+* coruse elementor widgets
+* show media option when upload type assignemnt
+* typo error
+* assignment fixes
+* assignment evaluation
+* flickity
+* translation
+* updated licensed flickity
+* enqueu_Script in dashboar donly
+* icons updated
+* manual evaluation works now
+* retake html after setting user marks
+* course card
+* change old course status 1 to be start course and 2 to be continue and so on
+* manual quiz evaluation marks not working fix
+* Elementor unit added
+* youtube vimeo videos added
+* start course duration from start course
+* youtube & vimeo video
+* quiz passing score handled
+* passing score setting added
+* mised bug
+* elementor added
+* version
+* widget fixes
+* version
+* complete
+* dashboard widget fixes
+* add index
+* fixing help colors
+* fixed
+* check assignment comment
+* styling and bug fixes
+* pre required courses handled and pre requires courses not saving correctly fix
+* marks field not appearing in chage course satus api fixes
+* quiz question meta_Value retained
+* issue with assignment type not setting when just added fix
+* button
+* minified
+* create course fixes
+* build
+* text ad weather widgets
+* time fixed in comment and activity, drip timer auto trigger load unit
+* make assignments work again
+* question not removing error , question value state multiattachments value state not retained on saving fix
+* comments fixed
+* shortcode and other things allowed on question content
+* css fixes in create course
+* css fixes
+* announcements and news
+* course questions and answers and style fixes
+* unit multiattachments not working fix
+* question and notes
+* question not saving unit fields not saving fixes
+* questions in quiz now setting fine
+* question answer
+* finish
+* quiz select question, add not working fix
+* drip duration working now
+* course news
+* weather widget dashboard
+* fullcourse view
+* announcement and news
+* updated icons
+* unit drip and course status access checks
+* setup
+* auto trigger finish course settings
+* single course view course
+* pagination in quizzes refined
+* quiz improvements.
+* unit title
+* myachievements
+* achivements
+* mycourses filter bug
+* changes
+* quiz bar added
+* previous unit lock not working fix
+* unit mark complete api php error too few arguments fix
+* fixes
+* stats for custom field support
+* stats tabulator download implemented
+* updated js/css
+* bugs
+* stats init
+* editor
+* action on api hit course status
+* assignment
+* confetti on course finish
+* completion
+* tab id to be unique na
+* course admin
+* finalize alpha 2
+* course completion available.
+* questions and answers
+* show my modules to subscriber in beta
+* progress fixed
+* dashbard widget fixed
+* Notes & Comments
+* timeline and status
+* unit package
+* package courses
+* upload_package_init
+* negative marking fix in react quiz
+* completing course
+* defined check
+* plugin_plugin
+* sttyyling fixes
+* dashboard merged
+* reports builder
+* assignment submissions, reports and more
+* catch external field value change events
+* report creation
+* mamange_students reports
+* quiz submissions ready
+* submissions
+* id modified to be unique
+* working curriculum
+* bug
+* custom field
+* committing changes
+* statis
+* mycourses
+* assignments
+* v3 ommissions api
+* commissions api changes
+* wplms
+* mycourse
+* mycourses finished
+* myquizzes
+* course activity finished.
+* course activity
+* course edit and pursue complete , quizzes complete
+* css fixes in Course admin / status and all working.
+* create quiz
+* my quizzes
+* quizzes
+* questions fixed
+* question publish
+* question icons added
+* remove title unnecssary code
+* console remove
+* icon in get elements
+* meta_value
+* permissions check
+* meta_value bug fixes
+* instructing courses and course manage
+* create course
+* publish course
+* pricing finished
+* curriculum final
+* create course with draft
+* unit creation
+* questions and quizzes
+* unit creation.
+* create course curriculum
+* updated curriculum
+* curriculum
+* curriculum restructuring
+* finalizing design and process
+* create course restructured
+* 1st element not saving in assignments and quiz questions
+* tabs css final
+* create course done
+* pulled
+* create course css
+* question was not setting correctly bug fix and featured image not setting fix
+* api to post method
+* markcomplete unit call going multiple times fix
+* touch sorting in curriculum
+* editing index handled
+* drag in curriculum
+* media field values handled
+* save field for attachments and unit fields not saving fix
+* save course only those fields which are changed :8ball:
+* autoupdate removed from shortcode
+* save course init
+* is_chanaged property set for each level data unit assignment , quiz question as well
+* setting is_changed for each changed field assignment in unit and questions in quiz left .
+* multiattachment bug fixed
+* multiple attachments field and upload field
+* editor bug fix avoid updating textarea value
+* current editing unit index handled
+* vibe editor init and various fieldvalues fetched. with fields
+* all field values fetched from existing unit , course ids
+* fetched field values including curriculum
+* vibebp token and show settings valued in course id set
+* course activity filter for member click on activity link
+* course admin
+* members
+* course admin and manage init course activity and tabs added
+* instructing courses init
+* instructing courses init
+* api version check to include the api files 4 or above for token in post and 3 or below token in headers
+* assignment reset on course reset
+* player and drip timer added
+* css for course status
+* access meta
+* wrapper added to leftsidebar
+* my courses active finished
+* course finish and add review functionality added
+* couple of css fixes
+* timeline toggle
+* assignments inside units
+* final results in assignments
+* assignemnt finished (unit assignments left)
+* assignment results and previus submissions
+* bug fixes and removal of many unnecessary files
+* with mime check
+* assignment api configured to upload multiple attachments
+* assignment css
+* assignment init
+* comments init
+* unit attachments
+* changed css and js build paths webpack
+* search implemented
+* progress on scroll
+* unit progress
+* status quiz csss
+* quiz module in course status retake and css left
+* cleaned functions as well
+* removed unnecessary code
+* remove unneessary code vibe customtypes , course module bp-course-actions.php complete
+* next and prev button checks
+* remove redundant folders
+* current unit key handle
+* remove notifce check
+* course status
+* create course inside vibebp
+* removed autoupdate
+* wplms necessary functions
+* vibe course module, vibe customtypes and vibe shortcodes included
+* select product and marks in questions added
+* create product pricing section
+* components settings
+* front end question creation complete
+* question field with tag
+* editing scren showing always for some unit fix
+* add element popup and section add correction
+* assignment and unit settings changes not mapping fix
+* admin bar fixes
+* css changed front end
+* editor and new styling in create course
+* assignments js
+* assignments.js
+* time field
+* edit unit popup active on component changed
+* settings from curriculum to coursecontext mapped finally
+* changed logic from context to props as we need to re-use the Field component
+* add unit assignments and quizzes , edit screens for these are pending
+* curriculum selectcpt coursecontext mapping .
+* curriculum init
+* taxonomy date
+* select and multiselect  fields
+* tip
+* fields styling and extra info , conditional fields logic handle , external filters support
+* coursecontext into different components without using any props
+* init components using useContext
+* tabs show
+* wplms_plugin init
