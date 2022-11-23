@@ -4,3 +4,7 @@ systemctl start mariadb.service
 systemctl start httpd.service
 systemctl start php-fpm.service
 sudo systemctl enable httpd
+
+
+
+#sudo systemctl restart httpd

@@ -21,16 +21,18 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+
+
 define( 'DB_NAME', 'fundanis_wp16' );
 
-/** MySQL database username */
-define( 'DB_USER', 'wordpress' );
+/** Database username */
+define( 'DB_USER', 'root' );
 
-/** MySQL database password */
+/** Database password */
 define( 'DB_PASSWORD', 'password' );
 
-/** MySQL hostname */
-define( 'DB_HOST', 'wordpress2.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
+/** Database hostname */
+define( 'DB_HOST', 'wordpress.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
