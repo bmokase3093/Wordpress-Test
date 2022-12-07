@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777 /var/www/html/lms
+chmod -R 777 /opt/bitnami/wordpress
